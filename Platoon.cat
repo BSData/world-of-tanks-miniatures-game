@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="07a5-5595-4339-6356" name="Platoon" revision="7" battleScribeVersion="2.03" authorName="Chris Shepard" authorContact="wastelandtools@gmail.com" authorUrl="wastelandgamestudio.com" library="false" gameSystemId="51c4-a0cc-d17b-1e94" gameSystemRevision="4" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="07a5-5595-4339-6356" name="Platoon" revision="8" battleScribeVersion="2.03" authorName="Chris Shepard" authorContact="wastelandtools@gmail.com" authorUrl="wastelandgamestudio.com" library="false" gameSystemId="51c4-a0cc-d17b-1e94" gameSystemRevision="4" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <selectionEntries>
     <selectionEntry id="aae8-8669-2e4f-c167" name="Cromwell" hidden="false" collective="false" import="true" type="unit">
       <comment>UK</comment>
@@ -84,6 +84,7 @@
                   <entryLinks>
                     <entryLink id="5962-c25f-3527-39f1" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="1a77-6372-24c7-d97b" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
+                    <entryLink id="06c6-e31f-36bd-9890" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -152,32 +153,33 @@
         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="47.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="baf8-0590-123b-7dbd" name="Pz. Kpfw. IV Ausf. H" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="baf8-0590-123b-7dbd" name="Tiger I" hidden="false" collective="false" import="true" type="unit">
       <comment>German</comment>
       <profiles>
-        <profile id="43bb-a2ff-bd9d-3d7f" name="Pz. Kpfw. IV Ausf. H" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
+        <profile id="43bb-a2ff-bd9d-3d7f" name="Tiger I" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
           <characteristics>
-            <characteristic name="Firepower" typeId="b897-8eda-69fb-5976">4</characteristic>
-            <characteristic name="Survivability" typeId="3ad1-d67f-867f-b8d3">1</characteristic>
+            <characteristic name="Firepower" typeId="b897-8eda-69fb-5976">5</characteristic>
+            <characteristic name="Survivability" typeId="3ad1-d67f-867f-b8d3">2</characteristic>
             <characteristic name="Mobility" typeId="6cdd-1e26-6533-d04e">2</characteristic>
-            <characteristic name="Initiative" typeId="d714-1b14-ad79-eaa2">5</characteristic>
-            <characteristic name="Hit Points" typeId="cfb3-634e-3297-9f2e">4</characteristic>
-            <characteristic name="Type" typeId="8a22-e966-5551-829d">Medium Tank</characteristic>
-            <characteristic name="Tier" typeId="4ff3-83a0-a830-f535">V</characteristic>
+            <characteristic name="Initiative" typeId="d714-1b14-ad79-eaa2">4</characteristic>
+            <characteristic name="Hit Points" typeId="cfb3-634e-3297-9f2e">8</characteristic>
+            <characteristic name="Type" typeId="8a22-e966-5551-829d">Heavy Tank</characteristic>
+            <characteristic name="Tier" typeId="4ff3-83a0-a830-f535">VII</characteristic>
             <characteristic name="Nationality" typeId="18c0-3016-3607-6aaf">Germany</characteristic>
           </characteristics>
         </profile>
-        <profile id="db24-4670-9ffa-d92a" name="Pz. Kpfw. IV Ausf. H" hidden="false" typeId="dac0-ea5a-2478-e6a4" typeName="Hit Points">
+        <profile id="db24-4670-9ffa-d92a" name="Tiger I" hidden="false" typeId="dac0-ea5a-2478-e6a4" typeName="Hit Points">
           <characteristics>
-            <characteristic name="Red" typeId="5aea-aba5-33fd-a449">O</characteristic>
-            <characteristic name="Orange" typeId="a878-0b58-276c-d021">O</characteristic>
-            <characteristic name="Yellow" typeId="433e-cec8-c0d7-2628">O</characteristic>
-            <characteristic name="Green" typeId="34cc-7f69-8c55-9c3d">O</characteristic>
+            <characteristic name="Red" typeId="5aea-aba5-33fd-a449">OO</characteristic>
+            <characteristic name="Orange" typeId="a878-0b58-276c-d021">OO</characteristic>
+            <characteristic name="Yellow" typeId="433e-cec8-c0d7-2628">OO</characteristic>
+            <characteristic name="Green" typeId="34cc-7f69-8c55-9c3d">OO</characteristic>
           </characteristics>
         </profile>
       </profiles>
       <infoLinks>
-        <infoLink id="1006-61c3-64a6-3feb" name="Medium Tank" hidden="false" targetId="0fbc-91eb-9279-8e78" type="rule"/>
+        <infoLink id="1492-bb6a-0ddc-86e0" name="Fortress" hidden="false" targetId="8fe0-bed6-e0dc-d1a0" type="rule"/>
+        <infoLink id="2b50-b647-aa72-f513" name="Heavy Tank" hidden="false" targetId="2fe7-6d60-1398-91dd" type="rule"/>
       </infoLinks>
       <categoryLinks>
         <categoryLink id="0340-b4e8-e6fc-dc19" name="New CategoryLink" hidden="false" targetId="c50e-61af-2446-be9c" primary="true"/>
@@ -185,18 +187,18 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="c92e-545c-511d-36b9" name="Modules" hidden="false" collective="false" import="true">
           <entryLinks>
-            <entryLink id="10ac-6443-0fd2-eaa4" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup"/>
+            <entryLink id="10ac-6443-0fd2-eaa4" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="b02f-a3a6-8058-2f15" name="Maybach HL 230 TRM P45" hidden="false" collective="false" import="true" targetId="c4b6-b8e8-96d2-15c2" type="selectionEntry"/>
+              </entryLinks>
+            </entryLink>
             <entryLink id="2d11-e5e2-389e-f6db" name="Turret" hidden="false" collective="false" import="true" targetId="e853-1c72-203d-0755" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="ea56-60ec-051f-589b" name="Improved Turret" hidden="false" collective="false" import="true" targetId="572f-08a6-baa7-05e3" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
             <entryLink id="98a7-3e8c-d54f-cd3e" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
-            <entryLink id="763e-a0f2-6997-10b8" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
-              <entryLinks>
-                <entryLink id="60d5-c21d-e846-deaa" name="10.5cm KW.K. L/28" hidden="false" collective="false" import="true" targetId="af0b-a240-1fe6-c49a" type="selectionEntry"/>
-              </entryLinks>
-            </entryLink>
+            <entryLink id="763e-a0f2-6997-10b8" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup"/>
             <entryLink id="191e-d5fc-105e-99a5" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
           </entryLinks>
         </selectionEntryGroup>
@@ -204,7 +206,7 @@
           <entryLinks>
             <entryLink id="1a77-51a4-d40e-09c1" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
               <entryLinks>
-                <entryLink id="7bdb-d867-1a2e-4a52" name="Light APCR Shell" hidden="false" collective="false" import="true" targetId="adb6-0a9f-6a5c-be06" type="selectionEntry"/>
+                <entryLink id="1767-8a30-7954-7eb9" name="Heavy APCR Shell" hidden="false" collective="false" import="true" targetId="9c94-39b7-b899-1808" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
             <entryLink id="5db8-d30a-c3d4-7680" name="Consumables" hidden="false" collective="false" import="true" targetId="fa87-81ff-b90d-3159" type="selectionEntryGroup">
@@ -272,6 +274,7 @@
                 <entryLink id="ae3b-8463-5fd8-8a6f" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="2e00-e922-3ed6-b761" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
+                    <entryLink id="a72d-589d-14b3-23e8" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -299,7 +302,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
       <costs>
-        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="35.0"/>
+        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="65.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="ffd8-3e8d-51af-ab76" name="M4A1 Sherman" hidden="false" collective="false" import="true" type="unit">
@@ -394,6 +397,7 @@
                 <entryLink id="263c-0d94-51ce-51dd" name="Commander" hidden="false" collective="false" import="true" targetId="bdea-3764-71d0-36ac" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="d441-39b7-db8f-962f" name="Nathaniel Campbell" hidden="false" collective="false" import="true" targetId="09a3-e552-b187-8043" type="selectionEntry"/>
+                    <entryLink id="d946-2f25-8bf7-37f5" name="Edwin Crane" hidden="false" collective="false" import="true" targetId="9b2e-57a3-3b73-a845" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -436,7 +440,11 @@
                 <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0fb0-0c32-336f-fa60" type="min"/>
               </constraints>
               <entryLinks>
-                <entryLink id="d600-60ff-e8e2-7986" name="Radio Operator" hidden="false" collective="false" import="true" targetId="968a-15c9-9ac3-1e33" type="selectionEntryGroup"/>
+                <entryLink id="d600-60ff-e8e2-7986" name="Radio Operator" hidden="false" collective="false" import="true" targetId="968a-15c9-9ac3-1e33" type="selectionEntryGroup">
+                  <entryLinks>
+                    <entryLink id="e189-335c-304d-c539" name="Miles O&apos;Connell" hidden="false" collective="false" import="true" targetId="44fc-f150-9df6-304c" type="selectionEntry"/>
+                  </entryLinks>
+                </entryLink>
               </entryLinks>
               <costs>
                 <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
@@ -556,7 +564,11 @@
                 <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5f60-c848-24cf-4429" type="min"/>
               </constraints>
               <entryLinks>
-                <entryLink id="ed86-ff8d-bfd5-acf6" name="Loader " hidden="false" collective="false" import="true" targetId="db85-d4f3-fdf6-2d19" type="selectionEntryGroup"/>
+                <entryLink id="ed86-ff8d-bfd5-acf6" name="Loader " hidden="false" collective="false" import="true" targetId="db85-d4f3-fdf6-2d19" type="selectionEntryGroup">
+                  <entryLinks>
+                    <entryLink id="b2ad-e970-bfd7-a5fe" name="Mikhail Travkin" hidden="false" collective="false" import="true" targetId="9fbe-1eb2-6744-c89c" type="selectionEntry"/>
+                  </entryLinks>
+                </entryLink>
               </entryLinks>
               <costs>
                 <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
@@ -643,6 +655,7 @@
                     <entryLink id="da95-9de2-9488-3a67" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="3a2b-97ae-952d-3ff7" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                     <entryLink id="c147-81cc-b33e-ed1f" name="Aaron Meyrick" hidden="false" collective="false" import="true" targetId="6b92-b46e-a7cf-1da9" type="selectionEntry"/>
+                    <entryLink id="364f-79d4-3dbd-9b4b" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -814,7 +827,11 @@
                 <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a988-b637-ae7f-9fa1" type="min"/>
               </constraints>
               <entryLinks>
-                <entryLink id="56d5-bfdf-9705-6167" name="Loader " hidden="false" collective="false" import="true" targetId="db85-d4f3-fdf6-2d19" type="selectionEntryGroup"/>
+                <entryLink id="56d5-bfdf-9705-6167" name="Loader " hidden="false" collective="false" import="true" targetId="db85-d4f3-fdf6-2d19" type="selectionEntryGroup">
+                  <entryLinks>
+                    <entryLink id="d769-dcdf-eaa3-49d8" name="Mikhail Travkin" hidden="false" collective="false" import="true" targetId="9fbe-1eb2-6744-c89c" type="selectionEntry"/>
+                  </entryLinks>
+                </entryLink>
               </entryLinks>
               <costs>
                 <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
@@ -1058,6 +1075,7 @@
                 <entryLink id="9d67-bb86-b96e-1449" name="Commander" hidden="false" collective="false" import="true" targetId="bdea-3764-71d0-36ac" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="9c67-1b5c-49d6-34bc" name="Nathaniel Campbell" hidden="false" collective="false" import="true" targetId="09a3-e552-b187-8043" type="selectionEntry"/>
+                    <entryLink id="bd8f-f370-ae47-ad9c" name="Edwin Crane" hidden="false" collective="false" import="true" targetId="9b2e-57a3-3b73-a845" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -1099,7 +1117,11 @@
                 <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="be9d-8d93-f9a0-cea0" type="min"/>
               </constraints>
               <entryLinks>
-                <entryLink id="45da-334e-7404-2e38" name="Radio Operator" hidden="false" collective="false" import="true" targetId="968a-15c9-9ac3-1e33" type="selectionEntryGroup"/>
+                <entryLink id="45da-334e-7404-2e38" name="Radio Operator" hidden="false" collective="false" import="true" targetId="968a-15c9-9ac3-1e33" type="selectionEntryGroup">
+                  <entryLinks>
+                    <entryLink id="a943-2084-0f28-1b5e" name="Miles O&apos;Connell" hidden="false" collective="false" import="true" targetId="44fc-f150-9df6-304c" type="selectionEntry"/>
+                  </entryLinks>
+                </entryLink>
               </entryLinks>
               <costs>
                 <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
@@ -1249,6 +1271,7 @@
                 <entryLink id="2a1b-14aa-64b7-36bf" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="36a7-0b51-6983-5709" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
+                    <entryLink id="4489-5ab2-77f3-077d" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -1372,6 +1395,7 @@
                 <entryLink id="c882-b3b2-ac51-1f11" name="Commander" hidden="false" collective="false" import="true" targetId="bdea-3764-71d0-36ac" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="6102-5d06-f89d-52ff" name="Nathaniel Campbell" hidden="false" collective="false" import="true" targetId="09a3-e552-b187-8043" type="selectionEntry"/>
+                    <entryLink id="fa92-a906-4c26-fdb5" name="Edwin Crane" hidden="false" collective="false" import="true" targetId="9b2e-57a3-3b73-a845" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -1414,7 +1438,11 @@
                 <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c513-a6ed-2e61-4470" type="min"/>
               </constraints>
               <entryLinks>
-                <entryLink id="74c9-aab0-42bc-c9ca" name="Radio Operator" hidden="false" collective="false" import="true" targetId="968a-15c9-9ac3-1e33" type="selectionEntryGroup"/>
+                <entryLink id="74c9-aab0-42bc-c9ca" name="Radio Operator" hidden="false" collective="false" import="true" targetId="968a-15c9-9ac3-1e33" type="selectionEntryGroup">
+                  <entryLinks>
+                    <entryLink id="24d1-b4ba-843d-8692" name="Miles O&apos;Connell" hidden="false" collective="false" import="true" targetId="44fc-f150-9df6-304c" type="selectionEntry"/>
+                  </entryLinks>
+                </entryLink>
               </entryLinks>
               <costs>
                 <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
@@ -1532,7 +1560,11 @@
                 <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4c14-3e4b-8b28-364d" type="min"/>
               </constraints>
               <entryLinks>
-                <entryLink id="7d5f-91ba-d488-f03a" name="Loader " hidden="false" collective="false" import="true" targetId="db85-d4f3-fdf6-2d19" type="selectionEntryGroup"/>
+                <entryLink id="7d5f-91ba-d488-f03a" name="Loader " hidden="false" collective="false" import="true" targetId="db85-d4f3-fdf6-2d19" type="selectionEntryGroup">
+                  <entryLinks>
+                    <entryLink id="f5e2-8dd0-b606-8121" name="Mikhail Travkin" hidden="false" collective="false" import="true" targetId="9fbe-1eb2-6744-c89c" type="selectionEntry"/>
+                  </entryLinks>
+                </entryLink>
               </entryLinks>
               <costs>
                 <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
@@ -1662,6 +1694,7 @@
                   <entryLinks>
                     <entryLink id="d715-76d7-4380-846f" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="413d-48c4-5f99-7044" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
+                    <entryLink id="0850-f34d-f038-7307" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -1708,6 +1741,592 @@
       </selectionEntryGroups>
       <costs>
         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="54.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="162d-d26f-7b14-67cd" name="M26 Pershing" hidden="false" collective="false" import="true" type="unit">
+      <comment>USA</comment>
+      <profiles>
+        <profile id="a7a2-8e9a-bcb5-1971" name="M26 Pershing" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
+          <characteristics>
+            <characteristic name="Firepower" typeId="b897-8eda-69fb-5976">6</characteristic>
+            <characteristic name="Survivability" typeId="3ad1-d67f-867f-b8d3">2</characteristic>
+            <characteristic name="Mobility" typeId="6cdd-1e26-6533-d04e">2</characteristic>
+            <characteristic name="Initiative" typeId="d714-1b14-ad79-eaa2">5</characteristic>
+            <characteristic name="Hit Points" typeId="cfb3-634e-3297-9f2e">7</characteristic>
+            <characteristic name="Type" typeId="8a22-e966-5551-829d">Medium Tank</characteristic>
+            <characteristic name="Tier" typeId="4ff3-83a0-a830-f535">VIII</characteristic>
+            <characteristic name="Nationality" typeId="18c0-3016-3607-6aaf">U.S.A.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="c9f8-102c-b090-c469" name="M26 Pershing" hidden="false" typeId="dac0-ea5a-2478-e6a4" typeName="Hit Points">
+          <characteristics>
+            <characteristic name="Red" typeId="5aea-aba5-33fd-a449">O</characteristic>
+            <characteristic name="Orange" typeId="a878-0b58-276c-d021">OO</characteristic>
+            <characteristic name="Yellow" typeId="433e-cec8-c0d7-2628">OO</characteristic>
+            <characteristic name="Green" typeId="34cc-7f69-8c55-9c3d">OO</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="e0f2-9ec2-73fb-5529" name="Medium Tank" hidden="false" targetId="0fbc-91eb-9279-8e78" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="17f3-bbda-59b1-d8d4" name="New CategoryLink" hidden="false" targetId="c50e-61af-2446-be9c" primary="true"/>
+      </categoryLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="e4c1-6d68-d4b9-3068" name="Upgrades" hidden="false" collective="false" import="true">
+          <entryLinks>
+            <entryLink id="6bd0-cdbb-060d-7cc9" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="148c-e452-2745-910d" name="Heavy APCR Shell" hidden="false" collective="false" import="true" targetId="9c94-39b7-b899-1808" type="selectionEntry"/>
+              </entryLinks>
+            </entryLink>
+            <entryLink id="3044-f84c-1508-b7c4" name="Consumables" hidden="false" collective="false" import="true" targetId="fa87-81ff-b90d-3159" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="11cd-4005-ccf4-ac8c" name="100-Octane Gasoline" hidden="false" collective="false" import="true" targetId="7cb7-407a-0451-f196" type="selectionEntry"/>
+                <entryLink id="4785-b7c6-01d1-64ed" name="105-Octane Gasoline" hidden="false" collective="false" import="true" targetId="4480-fbd6-8a0d-86f7" type="selectionEntry"/>
+                <entryLink id="65cd-2b03-d74e-0952" name="Case of Cola" hidden="false" collective="false" import="true" targetId="d9c9-83f5-22a9-5d55" type="selectionEntry"/>
+              </entryLinks>
+            </entryLink>
+            <entryLink id="fc36-9162-92a2-0773" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+          </entryLinks>
+        </selectionEntryGroup>
+        <selectionEntryGroup id="a478-fae9-e016-a199" name="Modules" hidden="false" collective="false" import="true">
+          <entryLinks>
+            <entryLink id="d85e-2226-3cc7-e9e2" name="Turret" hidden="false" collective="false" import="true" targetId="e853-1c72-203d-0755" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="4e04-24e6-654d-a323" name="Improved Turret" hidden="false" collective="false" import="true" targetId="572f-08a6-baa7-05e3" type="selectionEntry"/>
+              </entryLinks>
+            </entryLink>
+            <entryLink id="3714-1334-e858-a34d" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup"/>
+            <entryLink id="7575-39ee-301d-626b" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
+            <entryLink id="7509-07e0-ffb0-e554" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup"/>
+            <entryLink id="5b2a-2016-6010-066c" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
+          </entryLinks>
+        </selectionEntryGroup>
+        <selectionEntryGroup id="bdde-1d77-9530-d173" name="Crew" hidden="false" collective="false" import="true">
+          <selectionEntries>
+            <selectionEntry id="bde1-b7c7-51ea-13e4" name="Driver" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3129-f98c-2145-ddcb" type="max"/>
+                <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="52cd-a26b-28d2-5782" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="7408-03fe-1b0e-fe34" name="Driver" hidden="false" collective="false" import="true" targetId="46b4-96a0-4c26-f0a4" type="selectionEntryGroup">
+                  <entryLinks>
+                    <entryLink id="6dec-3fcd-8c0c-24d4" name="Michael Hanneman" hidden="false" collective="false" import="true" targetId="3ae5-6349-f15d-1e1c" type="selectionEntry"/>
+                  </entryLinks>
+                </entryLink>
+              </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="5901-ce79-b4c9-6c62" name="Commander" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ae8d-6dae-b22e-7276" type="max"/>
+                <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ccd2-0103-fa13-58c0" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="a38b-87f7-0b58-3bed" name="Commander" hidden="false" collective="false" import="true" targetId="bdea-3764-71d0-36ac" type="selectionEntryGroup">
+                  <entryLinks>
+                    <entryLink id="83e3-9aca-0b9e-b088" name="Nathaniel Campbell" hidden="false" collective="false" import="true" targetId="09a3-e552-b187-8043" type="selectionEntry"/>
+                    <entryLink id="15a1-5f8e-eef5-e8da" name="Edwin Crane" hidden="false" collective="false" import="true" targetId="9b2e-57a3-3b73-a845" type="selectionEntry"/>
+                  </entryLinks>
+                </entryLink>
+              </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="e65f-3262-18d1-043f" name="Loader" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f5de-4df0-e301-feab" type="max"/>
+                <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cfb3-3dd0-b501-d2c6" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="e584-523c-fc4d-320e" name="Loader " hidden="false" collective="false" import="true" targetId="db85-d4f3-fdf6-2d19" type="selectionEntryGroup"/>
+              </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="e14f-550e-6339-1173" name="Gunner" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ebdc-7245-a841-85b1" type="max"/>
+                <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7be2-53e2-d8d3-a5d9" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="35c8-70d4-ea0c-843b" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
+                  <entryLinks>
+                    <entryLink id="ed64-3a2c-845c-aa46" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
+                    <entryLink id="aa20-4840-b647-cb76" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
+                  </entryLinks>
+                </entryLink>
+              </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="05b3-ac0e-5b78-c218" name="Radio Operator" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b51e-beee-a176-0f07" type="max"/>
+                <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0e9a-fd92-cfbf-775b" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="ec6a-d970-86f9-7147" name="Radio Operator" hidden="false" collective="false" import="true" targetId="968a-15c9-9ac3-1e33" type="selectionEntryGroup">
+                  <entryLinks>
+                    <entryLink id="1770-c7aa-0fdb-976f" name="Miles O&apos;Connell" hidden="false" collective="false" import="true" targetId="44fc-f150-9df6-304c" type="selectionEntry"/>
+                  </entryLinks>
+                </entryLink>
+              </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <costs>
+        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="71.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9254-f43b-6dcf-444c" name="IS-2" hidden="false" collective="false" import="true" type="unit">
+      <comment>USSR</comment>
+      <profiles>
+        <profile id="d47e-77f9-3d7d-4c59" name="IS-2" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
+          <characteristics>
+            <characteristic name="Firepower" typeId="b897-8eda-69fb-5976">6</characteristic>
+            <characteristic name="Survivability" typeId="3ad1-d67f-867f-b8d3">2</characteristic>
+            <characteristic name="Mobility" typeId="6cdd-1e26-6533-d04e">2</characteristic>
+            <characteristic name="Initiative" typeId="d714-1b14-ad79-eaa2">3</characteristic>
+            <characteristic name="Hit Points" typeId="cfb3-634e-3297-9f2e">7</characteristic>
+            <characteristic name="Type" typeId="8a22-e966-5551-829d">Heavy Tank</characteristic>
+            <characteristic name="Tier" typeId="4ff3-83a0-a830-f535">VII</characteristic>
+            <characteristic name="Nationality" typeId="18c0-3016-3607-6aaf">U.S.S.R.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="ef35-512d-fbbb-1207" name="IS-2" hidden="false" typeId="dac0-ea5a-2478-e6a4" typeName="Hit Points">
+          <characteristics>
+            <characteristic name="Red" typeId="5aea-aba5-33fd-a449">O</characteristic>
+            <characteristic name="Orange" typeId="a878-0b58-276c-d021">OO</characteristic>
+            <characteristic name="Yellow" typeId="433e-cec8-c0d7-2628">OO</characteristic>
+            <characteristic name="Green" typeId="34cc-7f69-8c55-9c3d">OO</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="0fa3-fca0-3ad5-22a6" name="Heavy Tank" hidden="false" targetId="2fe7-6d60-1398-91dd" type="rule"/>
+        <infoLink id="a381-4b55-dbf4-8454" name="Big Gun" hidden="false" targetId="24de-54b4-38a1-141f" type="rule"/>
+        <infoLink id="f10d-a652-cafa-dfba" name="Fortress" hidden="false" targetId="8fe0-bed6-e0dc-d1a0" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="8e58-5a8d-9643-2998" name="New CategoryLink" hidden="false" targetId="c50e-61af-2446-be9c" primary="true"/>
+        <categoryLink id="f70f-3680-30fc-ee88" name="New CategoryLink" hidden="false" targetId="c50e-61af-2446-be9c" primary="false"/>
+      </categoryLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="f5ca-0677-350b-8e2e" name="Upgrades" hidden="false" collective="false" import="true">
+          <entryLinks>
+            <entryLink id="46e9-326a-cf82-a6d2" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="afac-9425-aff0-2498" name="Removed Speed Governor" hidden="false" collective="false" import="true" targetId="68d1-771a-bd90-1746" type="selectionEntry"/>
+              </entryLinks>
+            </entryLink>
+            <entryLink id="8ac3-520b-1e0f-aa8f" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="e3b0-74b8-51b8-aadd" name="Heavy APCR Shell" hidden="false" collective="false" import="true" targetId="9c94-39b7-b899-1808" type="selectionEntry"/>
+              </entryLinks>
+            </entryLink>
+            <entryLink id="b914-25d9-f7db-000b" name="Consumables" hidden="false" collective="false" import="true" targetId="fa87-81ff-b90d-3159" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="6a94-e433-d1fb-7fb7" name="Lend-Lease Oil" hidden="false" collective="false" import="true" targetId="9478-a7ad-e8b0-451d" type="selectionEntry"/>
+                <entryLink id="07a4-2b1d-bd32-14ff" name="Extra Combat Rations" hidden="false" collective="false" import="true" targetId="2595-7293-d647-0ade" type="selectionEntry"/>
+              </entryLinks>
+            </entryLink>
+          </entryLinks>
+        </selectionEntryGroup>
+        <selectionEntryGroup id="b55a-e4ed-977a-440b" name="Modules" hidden="false" collective="false" import="true">
+          <entryLinks>
+            <entryLink id="7628-c733-7dc3-7e79" name="Turret" hidden="false" collective="false" import="true" targetId="e853-1c72-203d-0755" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="7b4f-c745-1124-ff4a" name="Improved Turret" hidden="false" collective="false" import="true" targetId="572f-08a6-baa7-05e3" type="selectionEntry"/>
+              </entryLinks>
+            </entryLink>
+            <entryLink id="6e69-6564-c8d3-d47e" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup"/>
+            <entryLink id="caa7-5c1b-347b-69bc" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
+            <entryLink id="1f80-fcb7-ba1c-f2b3" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup"/>
+            <entryLink id="8530-cd5b-373e-1b73" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
+          </entryLinks>
+        </selectionEntryGroup>
+        <selectionEntryGroup id="0534-ca79-e098-4f73" name="Crew" hidden="false" collective="false" import="true">
+          <selectionEntries>
+            <selectionEntry id="7f75-b796-170e-f6fe" name="Driver" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cd34-3fb9-0132-ce84" type="max"/>
+                <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f9b0-284d-192d-2cc0" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="7299-4772-83a5-045b" name="Driver" hidden="false" collective="false" import="true" targetId="46b4-96a0-4c26-f0a4" type="selectionEntryGroup"/>
+              </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="3d99-ec45-30b3-960b" name="Loader" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6fd3-5a20-d31b-69e0" type="max"/>
+                <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="dc17-78ca-ec8c-4bbd" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="bf03-cb91-fcd2-4d92" name="Loader " hidden="false" collective="false" import="true" targetId="db85-d4f3-fdf6-2d19" type="selectionEntryGroup">
+                  <entryLinks>
+                    <entryLink id="0c27-3cab-8596-d4b3" name="Mikhail Travkin" hidden="false" collective="false" import="true" targetId="9fbe-1eb2-6744-c89c" type="selectionEntry"/>
+                  </entryLinks>
+                </entryLink>
+              </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="1edd-85c8-08c0-0a7b" name="Gunner" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0f86-20bd-d415-b725" type="max"/>
+                <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f048-b1de-edd0-9d0d" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="32c8-392e-7ca7-3758" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
+                  <entryLinks>
+                    <entryLink id="e642-89f6-85e6-97fd" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
+                    <entryLink id="56ba-756b-9003-0331" name="Andrey Habibulin" hidden="false" collective="false" import="true" targetId="e9ae-599f-7c74-816b" type="selectionEntry"/>
+                  </entryLinks>
+                </entryLink>
+              </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="d616-46dd-93e8-86e7" name="Commander/Radio Operator" hidden="false" collective="false" import="true" type="model">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="da98-8ed0-d5df-48c3" type="max"/>
+                <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fac9-f136-c85c-5424" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="86cf-6eb4-9418-8ce9" name="Commander/Radio Operator" hidden="false" collective="false" import="true" targetId="670f-d6c3-5c79-f236" type="selectionEntryGroup">
+                  <entryLinks>
+                    <entryLink id="915a-a046-7c21-8a9e" name="Damir Nelrasov" hidden="false" collective="false" import="true" targetId="632a-9df2-e1f3-2444" type="selectionEntry"/>
+                    <entryLink id="da7f-6941-1635-3f08" name="Sergey Merinov" hidden="false" collective="false" import="true" targetId="fb56-abd3-1f3b-3901" type="selectionEntry"/>
+                  </entryLinks>
+                </entryLink>
+              </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <costs>
+        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="73.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="82fe-f01a-e4d9-e0b2" name="Comet" hidden="false" collective="false" import="true" type="unit">
+      <comment>UK</comment>
+      <profiles>
+        <profile id="b05e-b4b9-3ec5-a047" name="Comet" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
+          <characteristics>
+            <characteristic name="Firepower" typeId="b897-8eda-69fb-5976">5</characteristic>
+            <characteristic name="Survivability" typeId="3ad1-d67f-867f-b8d3">2</characteristic>
+            <characteristic name="Mobility" typeId="6cdd-1e26-6533-d04e">3</characteristic>
+            <characteristic name="Initiative" typeId="d714-1b14-ad79-eaa2">6</characteristic>
+            <characteristic name="Hit Points" typeId="cfb3-634e-3297-9f2e">7</characteristic>
+            <characteristic name="Type" typeId="8a22-e966-5551-829d">Medium Tank</characteristic>
+            <characteristic name="Tier" typeId="4ff3-83a0-a830-f535">VII</characteristic>
+            <characteristic name="Nationality" typeId="18c0-3016-3607-6aaf">U.K.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="d9f9-74ca-e3c1-5533" name="Comet" hidden="false" typeId="dac0-ea5a-2478-e6a4" typeName="Hit Points">
+          <characteristics>
+            <characteristic name="Red" typeId="5aea-aba5-33fd-a449">O</characteristic>
+            <characteristic name="Orange" typeId="a878-0b58-276c-d021">OO</characteristic>
+            <characteristic name="Yellow" typeId="433e-cec8-c0d7-2628">OO</characteristic>
+            <characteristic name="Green" typeId="34cc-7f69-8c55-9c3d">OO</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="e925-316d-2af9-1665" name="Medium Tank" hidden="false" targetId="0fbc-91eb-9279-8e78" type="rule"/>
+        <infoLink id="8766-702b-77ca-8de2" name="Light Flank" hidden="false" targetId="4fa5-05b0-6b9e-d0ac" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="182c-500f-ee89-e356" name="Tanks" hidden="false" targetId="c50e-61af-2446-be9c" primary="true"/>
+      </categoryLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="caf8-26f1-5198-94b8" name="Crew" hidden="false" collective="false" import="true">
+          <selectionEntries>
+            <selectionEntry id="19f9-5b21-f796-29a7" name="Driver" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b850-4b28-4496-8b09" type="max"/>
+                <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9911-b0e8-08b0-cd87" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="4af3-c73a-e0a6-4abf" name="Driver" hidden="false" collective="false" import="true" targetId="46b4-96a0-4c26-f0a4" type="selectionEntryGroup"/>
+              </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="4e1a-23a6-adef-74f4" name="Commander" hidden="false" collective="false" import="true" type="model">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3f74-4ba4-b4ed-28e2" type="max"/>
+                <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2000-ee1d-2af9-18e0" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="f76c-cf22-93ec-1e23" name="Commander" hidden="false" collective="false" import="true" targetId="bdea-3764-71d0-36ac" type="selectionEntryGroup"/>
+              </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="c7e0-7b72-219b-3220" name="Loader" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2016-05d2-0c38-362b" type="max"/>
+                <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="67f2-8758-5a10-b347" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="563f-2834-e525-5388" name="Loader " hidden="false" collective="false" import="true" targetId="db85-d4f3-fdf6-2d19" type="selectionEntryGroup">
+                  <entryLinks>
+                    <entryLink id="52e9-c63d-4ea6-fa03" name="Philip Young" hidden="false" collective="false" import="true" targetId="2219-1c6b-4b55-f030" type="selectionEntry"/>
+                  </entryLinks>
+                </entryLink>
+              </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="13ae-33e5-8073-4a09" name="Gunner" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a89d-bb80-f586-e2c7" type="max"/>
+                <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cd73-6a3d-2f97-1563" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="7c05-61eb-04c7-f1df" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
+                  <entryLinks>
+                    <entryLink id="edb8-732b-204b-fe5b" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
+                    <entryLink id="edc7-d0f9-9619-152e" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
+                    <entryLink id="3f1e-34f5-8165-d4ee" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
+                  </entryLinks>
+                </entryLink>
+              </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="05fa-17af-a0b0-da41" name="Radio Operator" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="72a8-23c5-e627-0214" type="max"/>
+                <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1ec5-1bfa-393f-146e" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="a4be-860d-bb8b-1829" name="Radio Operator" hidden="false" collective="false" import="true" targetId="968a-15c9-9ac3-1e33" type="selectionEntryGroup">
+                  <entryLinks>
+                    <entryLink id="6105-6be2-e922-d729" name="Aaron Meyrick" hidden="false" collective="false" import="true" targetId="6b92-b46e-a7cf-1da9" type="selectionEntry"/>
+                  </entryLinks>
+                </entryLink>
+              </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+        </selectionEntryGroup>
+        <selectionEntryGroup id="28e2-ed4a-d841-b51a" name="Upgrades" hidden="false" collective="false" import="true">
+          <entryLinks>
+            <entryLink id="2b31-9411-b710-58c9" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="6f02-ec9f-cd58-fdd5" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="a27d-0a93-9294-47e2" name="Heavy APCR Shell" hidden="false" collective="false" import="true" targetId="9c94-39b7-b899-1808" type="selectionEntry"/>
+              </entryLinks>
+            </entryLink>
+            <entryLink id="889c-e949-a2d1-b6a7" name="Consumables" hidden="false" collective="false" import="true" targetId="fa87-81ff-b90d-3159" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="11d7-09c6-bf82-71b4" name="100-Octane Gasoline" hidden="false" collective="false" import="true" targetId="7cb7-407a-0451-f196" type="selectionEntry"/>
+                <entryLink id="af0a-bb01-188b-007a" name="105-Octane Gasoline" hidden="false" collective="false" import="true" targetId="4480-fbd6-8a0d-86f7" type="selectionEntry"/>
+                <entryLink id="7669-65e2-fe92-596d" name="Pudding and Tea" hidden="false" collective="false" import="true" targetId="f696-8fd8-79d0-e197" type="selectionEntry"/>
+              </entryLinks>
+            </entryLink>
+          </entryLinks>
+        </selectionEntryGroup>
+        <selectionEntryGroup id="2fb8-b4ad-5952-0f2d" name="Modules" hidden="false" collective="false" import="true">
+          <entryLinks>
+            <entryLink id="b6d1-4d61-dbf7-be8c" name="Turret" hidden="false" collective="false" import="true" targetId="e853-1c72-203d-0755" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="4e1a-9805-4afc-c16d" name="Improved Turret" hidden="false" collective="false" import="true" targetId="572f-08a6-baa7-05e3" type="selectionEntry"/>
+              </entryLinks>
+            </entryLink>
+            <entryLink id="31b6-4b39-2b16-f6fb" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="fe94-e90d-4bd7-dec5" name="Rolls-Royce Meteor Mk. IVB" hidden="false" collective="false" import="true" targetId="2c2b-0860-e0e5-55a6" type="selectionEntry"/>
+              </entryLinks>
+            </entryLink>
+            <entryLink id="bddb-d7d9-321d-f007" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
+            <entryLink id="d8c3-108d-3adf-e4dd" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup"/>
+            <entryLink id="42c7-bed7-1d74-b914" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
+          </entryLinks>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <costs>
+        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="67.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="eb0b-7447-d0a8-f097" name="Pz. Kpfw. IV Ausf. H" hidden="false" collective="false" import="true" type="unit">
+      <comment>German</comment>
+      <profiles>
+        <profile id="2ebb-78ae-55e4-5b49" name="Pz. Kpfw. IV Ausf. H" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
+          <characteristics>
+            <characteristic name="Firepower" typeId="b897-8eda-69fb-5976">4</characteristic>
+            <characteristic name="Survivability" typeId="3ad1-d67f-867f-b8d3">1</characteristic>
+            <characteristic name="Mobility" typeId="6cdd-1e26-6533-d04e">2</characteristic>
+            <characteristic name="Initiative" typeId="d714-1b14-ad79-eaa2">5</characteristic>
+            <characteristic name="Hit Points" typeId="cfb3-634e-3297-9f2e">4</characteristic>
+            <characteristic name="Type" typeId="8a22-e966-5551-829d">Medium Tank</characteristic>
+            <characteristic name="Tier" typeId="4ff3-83a0-a830-f535">V</characteristic>
+            <characteristic name="Nationality" typeId="18c0-3016-3607-6aaf">Germany</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="0fc9-a23e-a9c6-977d" name="Pz. Kpfw. IV Ausf. H" hidden="false" typeId="dac0-ea5a-2478-e6a4" typeName="Hit Points">
+          <characteristics>
+            <characteristic name="Red" typeId="5aea-aba5-33fd-a449">O</characteristic>
+            <characteristic name="Orange" typeId="a878-0b58-276c-d021">O</characteristic>
+            <characteristic name="Yellow" typeId="433e-cec8-c0d7-2628">O</characteristic>
+            <characteristic name="Green" typeId="34cc-7f69-8c55-9c3d">O</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="ae83-0e40-09df-953a" name="Medium Tank" hidden="false" targetId="0fbc-91eb-9279-8e78" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="75f7-1ba7-1f15-2ba2" name="New CategoryLink" hidden="false" targetId="c50e-61af-2446-be9c" primary="true"/>
+      </categoryLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="3e88-6f9d-5746-ab08" name="Modules" hidden="false" collective="false" import="true">
+          <entryLinks>
+            <entryLink id="4d8e-ecfa-4700-e94d" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup"/>
+            <entryLink id="fb62-e159-420f-2bb1" name="Turret" hidden="false" collective="false" import="true" targetId="e853-1c72-203d-0755" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="e1d4-3ace-4bc5-e328" name="Improved Turret" hidden="false" collective="false" import="true" targetId="572f-08a6-baa7-05e3" type="selectionEntry"/>
+              </entryLinks>
+            </entryLink>
+            <entryLink id="0b2f-309d-d486-17e0" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
+            <entryLink id="cc4f-3664-c231-b648" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="965a-c581-2207-0fe2" name="10.5cm KW.K. L/28" hidden="false" collective="false" import="true" targetId="af0b-a240-1fe6-c49a" type="selectionEntry"/>
+              </entryLinks>
+            </entryLink>
+            <entryLink id="e5ed-daf5-d59e-ac97" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
+          </entryLinks>
+        </selectionEntryGroup>
+        <selectionEntryGroup id="80ba-7290-1ef3-a266" name="Upgrades" hidden="false" collective="false" import="true">
+          <entryLinks>
+            <entryLink id="df5a-a91c-426c-b9a3" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="129c-08d0-7e9a-9750" name="Light APCR Shell" hidden="false" collective="false" import="true" targetId="adb6-0a9f-6a5c-be06" type="selectionEntry"/>
+              </entryLinks>
+            </entryLink>
+            <entryLink id="c0dd-3bcb-6136-6e31" name="Consumables" hidden="false" collective="false" import="true" targetId="fa87-81ff-b90d-3159" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="4cb7-81f6-650f-860a" name="100-Octane Gasoline" hidden="false" collective="false" import="true" targetId="7cb7-407a-0451-f196" type="selectionEntry"/>
+                <entryLink id="9147-c098-b673-7716" name="105-Octane Gasoline" hidden="false" collective="false" import="true" targetId="4480-fbd6-8a0d-86f7" type="selectionEntry"/>
+                <entryLink id="5521-64aa-c01c-c306" name="Chocolate" hidden="false" collective="false" import="true" targetId="cbaf-dce2-096e-124e" type="selectionEntry"/>
+              </entryLinks>
+            </entryLink>
+            <entryLink id="0ab1-135d-934b-7c3a" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+          </entryLinks>
+        </selectionEntryGroup>
+        <selectionEntryGroup id="46bd-e0fc-87e6-b45c" name="Crew" hidden="false" collective="false" import="true">
+          <selectionEntries>
+            <selectionEntry id="931e-7b76-55c2-3cc6" name="Driver" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="afc5-0563-fcdb-e9c5" type="max"/>
+                <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a64a-cf16-bf96-95e2" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="375b-56f8-35ff-e853" name="Driver" hidden="false" collective="false" import="true" targetId="46b4-96a0-4c26-f0a4" type="selectionEntryGroup"/>
+              </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="7d2b-0f79-ac62-b97a" name="Commander" hidden="false" collective="false" import="true" type="model">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3551-09c5-f7be-76a9" type="max"/>
+                <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="06f1-66f4-28e8-3afd" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="8282-1046-d8d4-5a98" name="Commander" hidden="false" collective="false" import="true" targetId="bdea-3764-71d0-36ac" type="selectionEntryGroup">
+                  <entryLinks>
+                    <entryLink id="368f-d027-8e98-c00a" name="Albrecht Dahl" hidden="false" collective="false" import="true" targetId="d400-dd86-2757-04dd" type="selectionEntry"/>
+                  </entryLinks>
+                </entryLink>
+              </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="6b7e-3b89-2fe7-e559" name="Loader" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3f19-93d2-cfa8-1374" type="max"/>
+                <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7a5d-af88-21ec-5fd6" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="987d-390a-9167-111d" name="Loader " hidden="false" collective="false" import="true" targetId="db85-d4f3-fdf6-2d19" type="selectionEntryGroup">
+                  <entryLinks>
+                    <entryLink id="bfed-01a0-6e76-64b5" name="Bernold Knoke" hidden="false" collective="false" import="true" targetId="3f37-6a7b-ecab-f4be" type="selectionEntry"/>
+                  </entryLinks>
+                </entryLink>
+              </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="8d5e-79dd-0b96-6185" name="Gunner" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5fa5-714a-4481-7a0e" type="max"/>
+                <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a22e-4c96-e4e5-4420" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="6509-cd72-7f5b-c90f" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
+                  <entryLinks>
+                    <entryLink id="5cb1-182f-6df2-b7bc" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
+                    <entryLink id="5460-c311-28bb-a5ed" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
+                  </entryLinks>
+                </entryLink>
+              </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="d28f-b8b3-ad60-288d" name="Radio Operator" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7bed-83f3-0236-b6e3" type="max"/>
+                <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ecb7-0e88-a8e6-6bba" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="c61a-eebe-2581-ed29" name="Radio Operator" hidden="false" collective="false" import="true" targetId="968a-15c9-9ac3-1e33" type="selectionEntryGroup">
+                  <entryLinks>
+                    <entryLink id="7c94-71ee-3860-386a" name="Hans Baltzer" hidden="false" collective="false" import="true" targetId="cc18-9e86-6081-0364" type="selectionEntry"/>
+                  </entryLinks>
+                </entryLink>
+              </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <costs>
+        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="35.0"/>
       </costs>
     </selectionEntry>
   </selectionEntries>
@@ -2928,6 +3547,178 @@ Relaying: At the start of the Shooting Phase, choose another Tank to gain this T
         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="9.0"/>
       </costs>
     </selectionEntry>
+    <selectionEntry id="9b2e-57a3-3b73-a845" name="Edwin Crane" hidden="false" collective="false" import="true" type="upgrade">
+      <comment>Commander, USA, Unique</comment>
+      <constraints>
+        <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f788-7d72-84bd-ef8e" type="max"/>
+      </constraints>
+      <profiles>
+        <profile id="5593-730c-4aaf-9dc3" name="Edwin Crane" hidden="false" typeId="4113-3131-ac4d-4172" typeName="Upgrade: Crew">
+          <characteristics>
+            <characteristic name="Ability" typeId="3bf1-8780-ecde-a191">Mentor: +2 Initiative in the Movement Phase for every two Crew Cards attached to this Tank
+Eagle Eye: When Shooting, this Tank may roll one less Attack die, then Modify a Hit to a Crit</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <costs>
+        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="9.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="44fc-f150-9df6-304c" name="Miles O&apos;Connell" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4fdf-5ce1-c1d2-5310" type="max"/>
+      </constraints>
+      <profiles>
+        <profile id="e678-2e5e-b08e-3f0f" name="Miles O&apos;Connell" hidden="false" typeId="4113-3131-ac4d-4172" typeName="Upgrade: Crew">
+          <characteristics>
+            <characteristic name="Ability" typeId="3bf1-8780-ecde-a191">Situational Awareness: +2 Initiative
+Call for Vengeance: When this Tank is Destroyed all other Tanks in this Platoon gain +1 Initiative until the end of the next turn</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <costs>
+        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="6.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9fbe-1eb2-6744-c89c" name="Mikhail Travkin" hidden="false" collective="false" import="true" type="upgrade">
+      <comment>Loader, USSR, Unique</comment>
+      <constraints>
+        <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9fd1-4dc9-fd87-f37c" type="max"/>
+      </constraints>
+      <profiles>
+        <profile id="ef92-a4d1-a47e-1ecc" name="Mikhail Travkin" hidden="false" typeId="4113-3131-ac4d-4172" typeName="Upgrade: Crew">
+          <characteristics>
+            <characteristic name="Ability" typeId="3bf1-8780-ecde-a191">Adrenaline Rush: +1 Attack when In-the-red
+Firefighting: Re-roll a failed Repair roll when Repairing an Engine Fire Critical Card</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <costs>
+        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8047-8dd6-b78e-fbf2" name="Reuben Manyweather" hidden="false" collective="false" import="true" type="upgrade">
+      <comment>Gunner, UK, Unique</comment>
+      <constraints>
+        <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="42ea-76fe-bea5-94d8" type="max"/>
+      </constraints>
+      <profiles>
+        <profile id="09f2-1aca-c65c-8f34" name="Reuben Manyweather" hidden="false" typeId="4113-3131-ac4d-4172" typeName="Upgrade: Crew">
+          <characteristics>
+            <characteristic name="Ability" typeId="3bf1-8780-ecde-a191">Armorer: +1 Attack while this Tank is affected by a Crew Stunned or Optics Damaged Critical Card
+Repair: This Tank may attempt to Repair an additional Critical Card each turn</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <costs>
+        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="54d8-d964-88be-17c3" name="Factory Fresh Paint Job" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6289-3d28-325e-e877" type="max"/>
+      </constraints>
+      <profiles>
+        <profile id="46b6-3a8b-5912-1990" name="Factory Fresh Paint Job" hidden="false" typeId="5e3f-3611-adaa-2a4d" typeName="Upgrade: Consumables">
+          <characteristics>
+            <characteristic name="Ability" typeId="69c6-a3a2-4a20-cb63">DISCARD - +1 Initiative</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <costs>
+        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="1.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="cdb9-2426-3cc6-b95f" name="Custom Paint Job" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4de8-7df0-7f57-8c75" type="max"/>
+      </constraints>
+      <profiles>
+        <profile id="d188-7795-25f1-634d" name="Custom Paint Job" hidden="false" typeId="5e3f-3611-adaa-2a4d" typeName="Upgrade: Consumables">
+          <characteristics>
+            <characteristic name="Ability" typeId="69c6-a3a2-4a20-cb63">DISCARD - +2 Initiative</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <costs>
+        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="cc55-fc2c-a3e2-a00f" name="Battlefield Camouflage Scheme" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c1f6-ccb1-7f31-9972" type="max"/>
+      </constraints>
+      <profiles>
+        <profile id="ba51-b677-919e-9b3b" name="Battlefield Camouflage Scheme" hidden="false" typeId="5e3f-3611-adaa-2a4d" typeName="Upgrade: Consumables">
+          <characteristics>
+            <characteristic name="Ability" typeId="69c6-a3a2-4a20-cb63">DISCARD - +1 Defense during the Shooting Phase</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <costs>
+        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6e32-216d-cb5d-6697" name="Mentor" hidden="false" collective="false" import="true" type="upgrade">
+      <comment>Commander</comment>
+      <profiles>
+        <profile id="61cc-ec2d-0b2a-d4d5" name="Mentor" hidden="false" typeId="4113-3131-ac4d-4172" typeName="Upgrade: Crew">
+          <characteristics>
+            <characteristic name="Ability" typeId="3bf1-8780-ecde-a191">+2 Initiative in the Movement Phase for every two Crew Cards, inclduing this Crew Card, attached to this Tank</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <costs>
+        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="4.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d940-9899-89ee-0791" name="Off-Road Driving" hidden="false" collective="false" import="true" type="upgrade">
+      <comment>Driver</comment>
+      <profiles>
+        <profile id="f650-352a-f86a-bfa5" name="Off-Road Driving" hidden="false" typeId="4113-3131-ac4d-4172" typeName="Upgrade: Crew">
+          <characteristics>
+            <characteristic name="Ability" typeId="3bf1-8780-ecde-a191">+2 Initiative during the Movement Phase</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <costs>
+        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c4b6-b8e8-96d2-15c2" name="Maybach HL 230 TRM P45" hidden="false" collective="false" import="true" type="upgrade">
+      <comment>Tiger I, Tiger II</comment>
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9760-7cb1-9284-7391" type="max"/>
+      </constraints>
+      <profiles>
+        <profile id="d777-07ec-711a-dd66" name="Maybach HL 230 TRM P45" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
+          <characteristics>
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">+2 Initiative during the Movement Phase</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <costs>
+        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4f43-cc83-947a-dff5" name="Erwin Prentzel" hidden="false" collective="false" import="true" type="upgrade">
+      <comment>Gunner, Germany, Unique
+Tank without Assault Gun</comment>
+      <constraints>
+        <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6917-e22a-8420-7708" type="max"/>
+      </constraints>
+      <profiles>
+        <profile id="623b-98d5-7f83-b6aa" name="Erwin Prentzel" hidden="false" typeId="cf4c-c1c0-f411-bdbe" typeName="Upgrade: Ammo">
+          <characteristics>
+            <characteristic name="Ability" typeId="804d-13f2-a6cb-951f">Snap Shot: +2 Initiative during the Shooting Phase
+Concealment: +1 Defense while in Cover</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <costs>
+        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="8.0"/>
+      </costs>
+    </selectionEntry>
   </sharedSelectionEntries>
   <sharedSelectionEntryGroups>
     <selectionEntryGroup id="db85-d4f3-fdf6-2d19" name="Loader " hidden="false" collective="false" import="true">
@@ -2955,6 +3746,7 @@ Relaying: At the start of the Shooting Phase, choose another Tank to gain this T
         <entryLink id="9667-4c2a-0ee3-eeda" name="Smooth Ride" hidden="false" collective="false" import="true" targetId="8084-01fb-e3a7-72de" type="selectionEntry"/>
         <entryLink id="99a3-1348-7f2c-418c" name="Repair" hidden="false" collective="false" import="true" targetId="62f7-c404-699a-b9b8" type="selectionEntry"/>
         <entryLink id="5a57-86ef-7069-e7fc" name="Preventative Maintenance" hidden="false" collective="false" import="true" targetId="7dd8-8c84-bc36-e17b" type="selectionEntry"/>
+        <entryLink id="b4dc-cfae-5594-1fcc" name="Off-Road Driving" hidden="false" collective="false" import="true" targetId="d940-9899-89ee-0791" type="selectionEntry"/>
       </entryLinks>
     </selectionEntryGroup>
     <selectionEntryGroup id="bdea-3764-71d0-36ac" name="Commander" hidden="false" collective="false" import="true">
@@ -2970,6 +3762,7 @@ Relaying: At the start of the Shooting Phase, choose another Tank to gain this T
         <entryLink id="1cca-f4b1-74f3-a4da" name="Eagle Eye" hidden="false" collective="false" import="true" targetId="6503-fe68-986d-c431" type="selectionEntry"/>
         <entryLink id="8c6e-2dbf-d2b7-95fc" name="Sixth Sense" hidden="false" collective="false" import="true" targetId="e32a-666a-4c0d-546b" type="selectionEntry"/>
         <entryLink id="7e21-eb62-9aea-f39a" name="Jack of All Trades" hidden="false" collective="false" import="true" targetId="3986-1190-51d1-1909" type="selectionEntry"/>
+        <entryLink id="5f07-fc0e-5c62-322f" name="Mentor" hidden="false" collective="false" import="true" targetId="6e32-216d-cb5d-6697" type="selectionEntry"/>
       </entryLinks>
     </selectionEntryGroup>
     <selectionEntryGroup id="c4f5-5fd6-f305-346f" name="Gunner" hidden="false" collective="false" import="true">
@@ -3016,6 +3809,9 @@ Relaying: At the start of the Shooting Phase, choose another Tank to gain this T
         <entryLink id="395d-14dc-99b8-c52e" name="Manual Fire Extinguisher" hidden="false" collective="false" import="true" targetId="ac69-8ad1-a274-cce6" type="selectionEntry"/>
         <entryLink id="b227-368e-956e-6f68" name="Large Repair Kit" hidden="false" collective="false" import="true" targetId="0df3-7f4c-fa66-9735" type="selectionEntry"/>
         <entryLink id="2551-ace9-fc3d-ce46" name="Small Repair Kit" hidden="false" collective="false" import="true" targetId="2b71-b322-c9fa-d5a1" type="selectionEntry"/>
+        <entryLink id="e759-28e2-0536-bac7" name="Factory Fresh Paint Job" hidden="false" collective="false" import="true" targetId="54d8-d964-88be-17c3" type="selectionEntry"/>
+        <entryLink id="f0b3-2f9f-ffad-b2b7" name="Custom Paint Job" hidden="false" collective="false" import="true" targetId="cdb9-2426-3cc6-b95f" type="selectionEntry"/>
+        <entryLink id="e3d8-8706-1bde-a4a0" name="Battlefield Camouflage Scheme" hidden="false" collective="false" import="true" targetId="cc55-fc2c-a3e2-a00f" type="selectionEntry"/>
       </entryLinks>
     </selectionEntryGroup>
     <selectionEntryGroup id="1e2c-8a2e-d8e3-8538" name="Equipment" hidden="false" collective="false" import="true">
@@ -3053,6 +3849,7 @@ Relaying: At the start of the Shooting Phase, choose another Tank to gain this T
         <entryLink id="10c8-80a4-7199-4daf" name="Sixth Sense" hidden="false" collective="false" import="true" targetId="e32a-666a-4c0d-546b" type="selectionEntry"/>
         <entryLink id="3f7d-8015-2842-500b" name="Jack of All Trades" hidden="false" collective="false" import="true" targetId="3986-1190-51d1-1909" type="selectionEntry"/>
         <entryLink id="9a2c-13bf-0ebe-9b7f" name="Armorer" hidden="false" collective="false" import="true" targetId="afcb-4388-b2df-efb1" type="selectionEntry"/>
+        <entryLink id="1691-f191-1cf7-ac22" name="Mentor" hidden="false" collective="false" import="true" targetId="6e32-216d-cb5d-6697" type="selectionEntry"/>
       </entryLinks>
     </selectionEntryGroup>
     <selectionEntryGroup id="e853-1c72-203d-0755" name="Turret" hidden="false" collective="false" import="true">
@@ -3110,6 +3907,7 @@ Relaying: At the start of the Shooting Phase, choose another Tank to gain this T
         <entryLink id="0869-5002-1481-63fe" name="Armorer" hidden="false" collective="false" import="true" targetId="afcb-4388-b2df-efb1" type="selectionEntry"/>
         <entryLink id="e27b-b573-b088-61dc" name="Relaying" hidden="false" collective="false" import="true" targetId="fbb7-c0f4-6132-e2fb" type="selectionEntry"/>
         <entryLink id="09ec-99cc-84d9-5fa8" name="Signal Boosting" hidden="false" collective="false" import="true" targetId="0c52-f48a-541a-18ea" type="selectionEntry"/>
+        <entryLink id="e0fa-6f6b-72a1-95fa" name="Mentor" hidden="false" collective="false" import="true" targetId="6e32-216d-cb5d-6697" type="selectionEntry"/>
       </entryLinks>
     </selectionEntryGroup>
     <selectionEntryGroup id="670f-d6c3-5c79-f236" name="Commander/Radio Operator" hidden="false" collective="false" import="true">
@@ -3127,6 +3925,7 @@ Relaying: At the start of the Shooting Phase, choose another Tank to gain this T
         <entryLink id="0769-da66-e20b-f9e3" name="Jack of All Trades" hidden="false" collective="false" import="true" targetId="3986-1190-51d1-1909" type="selectionEntry"/>
         <entryLink id="525c-58f8-2b11-dfd9" name="Relaying" hidden="false" collective="false" import="true" targetId="fbb7-c0f4-6132-e2fb" type="selectionEntry"/>
         <entryLink id="1817-d052-c344-5d58" name="Signal Boosting" hidden="false" collective="false" import="true" targetId="0c52-f48a-541a-18ea" type="selectionEntry"/>
+        <entryLink id="4c84-dfbc-544e-6182" name="Mentor" hidden="false" collective="false" import="true" targetId="6e32-216d-cb5d-6697" type="selectionEntry"/>
       </entryLinks>
     </selectionEntryGroup>
     <selectionEntryGroup id="6bbb-353d-c83b-0735" name="Loader/Radio Operator" hidden="false" collective="false" import="true">
@@ -3170,6 +3969,9 @@ Relaying: At the start of the Shooting Phase, choose another Tank to gain this T
     </rule>
     <rule id="2fe7-6d60-1398-91dd" name="Heavy Tank" hidden="false">
       <description>When Defending, this Tank may re-roll a failed Defence die</description>
+    </rule>
+    <rule id="24de-54b4-38a1-141f" name="Big Gun" hidden="false">
+      <description>When Attacking, you may modify a Hit to a Crit</description>
     </rule>
   </sharedRules>
 </catalogue>
