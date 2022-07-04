@@ -3169,7 +3169,7 @@
             <entryLink id="dae6-426f-b294-be24" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
             <entryLink id="038a-6faa-c090-0dbc" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
               <entryLinks>
-                <entryLink id="7a99-0027-be21-2a03" name="57mm ZIS-4" hidden="false" collective="false" import="true" targetId="46e3-95a7-df56-f45f" type="selectionEntry"/>
+                <entryLink id="7a99-0027-be21-2a03" name="45mm VT-42" hidden="false" collective="false" import="true" targetId="c3d7-6d9b-4c2c-31e8" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
             <entryLink id="977e-f015-92a3-dd64" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
@@ -4012,15 +4012,16 @@
                 <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="c516-f52c-4a49-5926" name="Radio Operator" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="c516-f52c-4a49-5926" name="Loader/Radio Operator" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9e49-1ce2-5cb5-ee95" type="max"/>
                 <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="79fa-ee33-3b2d-7431" type="min"/>
               </constraints>
               <entryLinks>
-                <entryLink id="2436-2df8-6056-7d56" name="Radio Operator" hidden="false" collective="false" import="true" targetId="968a-15c9-9ac3-1e33" type="selectionEntryGroup">
+                <entryLink id="2436-2df8-6056-7d56" name="Loader/Radio Operator" hidden="false" collective="false" import="true" targetId="6bbb-353d-c83b-0735" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="1e80-5c64-ebd3-50c7" name="Aaron Meyrick" hidden="false" collective="false" import="true" targetId="6b92-b46e-a7cf-1da9" type="selectionEntry"/>
+                    <entryLink id="b8e6-8c72-71d7-953a" name="Philip Young" hidden="false" collective="false" import="true" targetId="2219-1c6b-4b55-f030" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -4567,8 +4568,8 @@ At the start of the Movement Phase, this Tank may suffer one Damage to gain +3 I
       <profiles>
         <profile id="2e39-9e6b-f5b7-a18d" name="Light APCR Shell" hidden="false" typeId="cf4c-c1c0-f411-bdbe" typeName="Upgrade: Ammo">
           <characteristics>
-            <characteristic name="Ability" typeId="804d-13f2-a6cb-951f">Tank with Base 4 Attack or less
-DISCARD - Add +1 Attack when Attacking a Tank at Close Range</characteristic>
+            <characteristic name="Ability" typeId="804d-13f2-a6cb-951f">Tank with Base 4 Survivability or less
+DISCARD - Add +1 Firepower when Shooting a Tank at Close Range</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -4581,8 +4582,8 @@ DISCARD - Add +1 Attack when Attacking a Tank at Close Range</characteristic>
       <profiles>
         <profile id="af1e-e899-2b79-dc79" name="Heavy APCR Shell" hidden="false" typeId="cf4c-c1c0-f411-bdbe" typeName="Upgrade: Ammo">
           <characteristics>
-            <characteristic name="Ability" typeId="804d-13f2-a6cb-951f">Tank with Base 5 Attack or greater
-DISCARD - Add +1 Attack when Attacking a Tank at Close Range</characteristic>
+            <characteristic name="Ability" typeId="804d-13f2-a6cb-951f">Tank with Base 5 Firepower or greater
+DISCARD - Add +1 Firepower when Shooting a Tank at Close Range</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -4608,7 +4609,7 @@ DISCARD - Add +1 Attack when Attacking a Tank at Close Range</characteristic>
       <profiles>
         <profile id="5f37-6506-8b08-7f83" name="Concealment" hidden="false" typeId="4113-3131-ac4d-4172" typeName="Upgrade: Crew">
           <characteristics>
-            <characteristic name="Ability" typeId="3bf1-8780-ecde-a191">+1 Defense while in Cover</characteristic>
+            <characteristic name="Ability" typeId="3bf1-8780-ecde-a191">+1 Survivability while in Cover</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -4719,7 +4720,7 @@ Tank without Assault Gun</comment>
       <profiles>
         <profile id="7e88-120a-debc-f2f6" name="Camouflage Net" hidden="false" typeId="b78a-7d3b-9161-b656" typeName="Upgrade: Equipment">
           <characteristics>
-            <characteristic name="Ability" typeId="8be5-274d-3f4e-cc0f">+1 Defense when Stationary</characteristic>
+            <characteristic name="Ability" typeId="8be5-274d-3f4e-cc0f">+1 Survivability when Stationary</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -4833,7 +4834,8 @@ Repair: This Tank may attempt to Repair an additional Critical Card each turn</c
         <profile id="17fe-500d-0df0-7cb7" name="QF 2-Pdr Mk. X" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
             <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Valentine
--1 Attack, +4 Initiative</characteristic>
+-1 Firepower
++4 Initiative</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -4882,7 +4884,7 @@ Repair: This Tank may attempt to Repair an additional Critical Card each turn</c
         <profile id="89b3-e478-d79e-397e" name="Damir Nelrasov" hidden="false" typeId="4113-3131-ac4d-4172" typeName="Upgrade: Crew">
           <characteristics>
             <characteristic name="Ability" typeId="3bf1-8780-ecde-a191">USSR
-Concealment: +1 Defense while in Cover
+Concealment: +1 Survivability while in Cover
 Recon: +1 Initiative during the Movement Phase. At the start of the game, immediately after Deployment, this Tank may make up to two Moves</characteristic>
           </characteristics>
         </profile>
@@ -5006,7 +5008,7 @@ Repair: This Tank may attempt to Repair an additional Critical Card each turn</c
         <profile id="5636-6939-f64f-55d3" name="37mm Gun M5/M6" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
             <characteristic name="Ability" typeId="9d48-3521-7475-ad05">M3 Lee
-While Attacking this Tank may take -1 Attack to ignore the Assault Gun rule</characteristic>
+While Attacking this Tank may take -1 Firepower to ignore the Assault Gun rule</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -5047,7 +5049,7 @@ While Attacking this Tank may take -1 Attack to ignore the Assault Gun rule</cha
       <profiles>
         <profile id="5e29-93a7-c856-61bf" name="Adrenaline Rush" hidden="false" typeId="4113-3131-ac4d-4172" typeName="Upgrade: Crew">
           <characteristics>
-            <characteristic name="Ability" typeId="3bf1-8780-ecde-a191">+1 Attack when In-the-red</characteristic>
+            <characteristic name="Ability" typeId="3bf1-8780-ecde-a191">+1 Firepower when In-the-red</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -5065,7 +5067,7 @@ While Attacking this Tank may take -1 Attack to ignore the Assault Gun rule</cha
         </profile>
       </profiles>
       <costs>
-        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="6.0"/>
+        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="5.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="09a3-e552-b187-8043" name="Nathaniel Campbell" hidden="false" collective="false" import="true" type="upgrade">
@@ -5155,7 +5157,7 @@ Sixth Sense: At the start of the Shooting Phase, roll a die. On a Hit or Crit th
         <profile id="3315-7daa-ec19-1fd6" name="3.7-Inch Howitzer" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
             <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Cromwell, Churchill VII
--1 Attack
+-1 Firepower
 Big Gun: When attacking you may Modify a Hit to a Crit</characteristic>
           </characteristics>
         </profile>
@@ -5219,7 +5221,7 @@ DISCARD - Repair a Radio Damaged or Bailed Out Critical Card</characteristic>
       <profiles>
         <profile id="cd1b-677f-eefe-eccc" name="Armorer" hidden="false" typeId="4113-3131-ac4d-4172" typeName="Upgrade: Crew">
           <characteristics>
-            <characteristic name="Ability" typeId="3bf1-8780-ecde-a191">+1 Attack while this Tank is affected by a Crew Stunned or Optics Damaged Critical Card</characteristic>
+            <characteristic name="Ability" typeId="3bf1-8780-ecde-a191">+1 Firepower while this Tank is affected by a Crew Stunned or Optics Damaged Critical Card</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -5236,7 +5238,7 @@ DISCARD - Repair a Radio Damaged or Bailed Out Critical Card</characteristic>
         <profile id="4082-0b1d-0349-3e50" name="10.5cm KW.K. L/28" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
             <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Pz.Kpfw. IV Ausf. H
-+2 Attack
++2 Firepower
 High Explosive: Discard all Hits before Assessing Damage</characteristic>
           </characteristics>
         </profile>
@@ -5384,7 +5386,7 @@ Firefighting: Re-roll a failed Repair roll when Repairing an Engine Fire Critica
         <profile id="6537-97d2-2239-a946" name="5cm KW.K 39 L/60" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
             <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Pz.Kpfw III Ausf. J
-+1 Attack</characteristic>
++1 Firepower</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -5418,7 +5420,7 @@ Firefighting: Re-roll a failed Repair roll when Repairing an Engine Fire Critica
         <profile id="0ec2-4efc-07dd-7fcf" name="Albrecht Dahl" hidden="false" typeId="4113-3131-ac4d-4172" typeName="Upgrade: Crew">
           <characteristics>
             <characteristic name="Ability" typeId="3bf1-8780-ecde-a191">Germany
-Concealment: +1 Defense while in Cover
+Concealment: +1 Survivability while in Cover
 Recon: +1 Initiative during the Movement Phase. At the start of the game, immediately after Deployment, this Tank may make up to two Moves</characteristic>
           </characteristics>
         </profile>
@@ -5453,7 +5455,8 @@ Recon: +1 Initiative during the Movement Phase. At the start of the game, immedi
         <profile id="fe55-bc7f-c85d-e09a" name="76mm AT Gun M1A2" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
             <characteristic name="Ability" typeId="9d48-3521-7475-ad05">M10 Wolverine
-+1 Attack, +1 Initiative</characteristic>
++1 Firepower
++1 Initiative</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -5538,7 +5541,7 @@ Tank without Assault Gun</comment>
           <characteristics>
             <characteristic name="Ability" typeId="804d-13f2-a6cb-951f">USSR
 Snap Shot: +2 Initiative during the Shooting Phase
-Concealment: +1 Defense while in Cover</characteristic>
+Concealment: +1 Survivability while in Cover</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -5555,7 +5558,7 @@ Concealment: +1 Defense while in Cover</characteristic>
         <profile id="999c-2fb8-6037-7509" name="75mm Gun M3" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
             <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Sherman VC Firefly
--2 Attack</characteristic>
+-2 Firepower</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -5626,7 +5629,7 @@ Call for Vengeance: When this Tank is Destroyed all other Tanks in this Platoon 
         <profile id="ef92-a4d1-a47e-1ecc" name="Mikhail Travkin" hidden="false" typeId="4113-3131-ac4d-4172" typeName="Upgrade: Crew">
           <characteristics>
             <characteristic name="Ability" typeId="3bf1-8780-ecde-a191">USSR
-Adrenaline Rush: +1 Attack when In-the-red
+Adrenaline Rush: +1 Firepower when In-the-red
 Firefighting: Re-roll a failed Repair roll when Repairing an Engine Fire Critical Card</characteristic>
           </characteristics>
         </profile>
@@ -5644,7 +5647,7 @@ Firefighting: Re-roll a failed Repair roll when Repairing an Engine Fire Critica
         <profile id="09f2-1aca-c65c-8f34" name="Reuben Manyweather" hidden="false" typeId="4113-3131-ac4d-4172" typeName="Upgrade: Crew">
           <characteristics>
             <characteristic name="Ability" typeId="3bf1-8780-ecde-a191">UK
-Armorer: +1 Attack while this Tank is affected by a Crew Stunned or Optics Damaged Critical Card
+Armorer: +1 Firepower while this Tank is affected by a Crew Stunned or Optics Damaged Critical Card
 Repair: This Tank may attempt to Repair an additional Critical Card each turn</characteristic>
           </characteristics>
         </profile>
@@ -5690,7 +5693,7 @@ Repair: This Tank may attempt to Repair an additional Critical Card each turn</c
       <profiles>
         <profile id="ba51-b677-919e-9b3b" name="Battlefield Camouflage Scheme" hidden="false" typeId="5e3f-3611-adaa-2a4d" typeName="Upgrade: Consumables">
           <characteristics>
-            <characteristic name="Ability" typeId="69c6-a3a2-4a20-cb63">DISCARD - +1 Defense during the Shooting Phase</characteristic>
+            <characteristic name="Ability" typeId="69c6-a3a2-4a20-cb63">DISCARD - +1 Survivability during the Shooting Phase</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -5752,7 +5755,7 @@ Tank without Assault Gun</comment>
           <characteristics>
             <characteristic name="Ability" typeId="804d-13f2-a6cb-951f">Germany
 Snap Shot: +2 Initiative during the Shooting Phase
-Concealment: +1 Defense while in Cover</characteristic>
+Concealment: +1 Survivability while in Cover</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -5769,7 +5772,7 @@ Concealment: +1 Defense while in Cover</characteristic>
         <profile id="9044-2993-67a2-6e82" name="7.5cm KW.K L/100" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
             <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Panther
-+1 Attack
++1 Firepower
 Arrow Shot: When attacking you must Modify a Critical to a Hit</characteristic>
           </characteristics>
         </profile>
@@ -5805,7 +5808,7 @@ When Shooting, treat this Tank&apos;s Movement token as one less when calculatin
         <profile id="908a-9eca-4787-f740" name="122mm  BL-9S" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
             <characteristic name="Ability" typeId="9d48-3521-7475-ad05">ISU-152
-+1 Attack</characteristic>
++1 Firepower</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -5841,7 +5844,7 @@ Repair: This Tank may attempt to Repair an additional Critical Card each turn</c
         </profile>
       </profiles>
       <costs>
-        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="6.0"/>
+        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="5.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="0690-71b9-bc45-4d18" name="Wright-Continental R-975C4" hidden="false" collective="false" import="true" type="upgrade">
@@ -5960,8 +5963,8 @@ Jagdpanzer (38)T Hetzer</comment>
           <characteristics>
             <characteristic name="Ability" typeId="9d48-3521-7475-ad05">StuG III Ausf. G
 Jagdpanzer (38)T Hetzer
-+2 Attack
-Discard all Hits before Assessing Damage</characteristic>
++2 Firepower
+High Explosive: Discard all Hits before Assessing Damage</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -6119,7 +6122,7 @@ Smooth Ride: When Shooting, treat this Tank&apos;s Movement token as one less wh
           <characteristics>
             <characteristic name="Ability" typeId="9d48-3521-7475-ad05">T-70
 +1 Firepower
-Aroow Shot: When attacking you must modify a Crit to a Hit</characteristic>
+Arrow Shot: When attacking you must modify a Crit to a Hit</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -6257,7 +6260,7 @@ Heavy Tank: +1 Initiative during the Movement Phase</characteristic>
       <profiles>
         <profile id="ab6d-aad5-12f7-fa78" name="Modified Configuration" hidden="false" typeId="b78a-7d3b-9161-b656" typeName="Upgrade: Equipment">
           <characteristics>
-            <characteristic name="Ability" typeId="8be5-274d-3f4e-cc0f">This tnak may attempt to Repair an addtional Critical card during the Repair Damage step
+            <characteristic name="Ability" typeId="8be5-274d-3f4e-cc0f">This tank may attempt to Repair an addtional Critical card during the Repair Damage step
 Discard to cancel an Ammo Damaged, Engine Damaged or Engine Fire Critical card
 Heavy Tank: Re-roll a failed Repair roll</characteristic>
           </characteristics>
@@ -6304,7 +6307,7 @@ Loses Light Flank</characteristic>
       </costs>
     </selectionEntry>
     <selectionEntry id="71e0-c97b-9216-d549" name="OQF 32-PDR AT Gun Mk.II" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Challenger with Avenegr Turret Only</comment>
+      <comment>Challenger with Avenger Turret Only</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cac5-d978-3ef4-260b" type="max"/>
       </constraints>
@@ -6398,7 +6401,7 @@ Eagle Eye: When Shooting, this tnak may roll one less attack die, then modify a 
         <profile id="d719-f36c-8c82-4fa0" name="122mm U-11" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
             <characteristic name="Ability" typeId="9d48-3521-7475-ad05">T-34-85
-+2 Attack
++2 Firepower
 High Explosive: Discard all Hits before Assessing Damage</characteristic>
           </characteristics>
         </profile>
@@ -6416,7 +6419,7 @@ High Explosive: Discard all Hits before Assessing Damage</characteristic>
         <profile id="9fcd-3423-d28e-5031" name="105mm M4" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
             <characteristic name="Ability" typeId="9d48-3521-7475-ad05">M4A1 Sherman, M4A3E8 Sherman
-+2 Attack
++2 Firepower
 -1 Initiative
 High Explosive: Discard all Hits before Assessing Damage</characteristic>
           </characteristics>
@@ -6533,6 +6536,7 @@ Repair: This tank may attempt to Repair an addtional Critical card each turn</ch
         <entryLink id="51c7-3d2e-0d23-e611" name="Call for Vengeance" hidden="false" collective="false" import="true" targetId="637a-05b7-9112-4537" type="selectionEntry"/>
         <entryLink id="725e-4215-1911-0808" name="Relaying" hidden="false" collective="false" import="true" targetId="fbb7-c0f4-6132-e2fb" type="selectionEntry"/>
         <entryLink id="b11a-b5d9-3200-49da" name="Signal Boosting" hidden="false" collective="false" import="true" targetId="0c52-f48a-541a-18ea" type="selectionEntry"/>
+        <entryLink id="676e-2576-db46-e70e" name="Situational Awareness" hidden="false" collective="false" import="true" targetId="d33d-42d7-eb3f-1d97" type="selectionEntry"/>
       </entryLinks>
     </selectionEntryGroup>
     <selectionEntryGroup id="1156-2984-08cc-6cc9" name="Ammo" hidden="false" collective="false" import="true">
@@ -6554,7 +6558,6 @@ Repair: This tank may attempt to Repair an addtional Critical card each turn</ch
         <entryLink id="e759-28e2-0536-bac7" name="Factory Fresh Paint Job" hidden="false" collective="false" import="true" targetId="54d8-d964-88be-17c3" type="selectionEntry"/>
         <entryLink id="f0b3-2f9f-ffad-b2b7" name="Custom Paint Job" hidden="false" collective="false" import="true" targetId="cdb9-2426-3cc6-b95f" type="selectionEntry"/>
         <entryLink id="e3d8-8706-1bde-a4a0" name="Battlefield Camouflage Scheme" hidden="false" collective="false" import="true" targetId="cc55-fc2c-a3e2-a00f" type="selectionEntry"/>
-        <entryLink id="16b4-4200-76d0-7d08" name="Lend-Lease Oil" hidden="false" collective="false" import="true" targetId="9478-a7ad-e8b0-451d" type="selectionEntry"/>
       </entryLinks>
     </selectionEntryGroup>
     <selectionEntryGroup id="1e2c-8a2e-d8e3-8538" name="Equipment" hidden="false" collective="false" import="true">
@@ -6574,12 +6577,12 @@ Repair: This tank may attempt to Repair an addtional Critical card each turn</ch
         <entryLink id="28e4-982e-d6f5-ab7a" name="Cyclone Filter" hidden="false" collective="false" import="true" targetId="ee27-0a73-4d60-d721" type="selectionEntry"/>
         <entryLink id="c572-41c4-8f97-c91c" name="Vertical Stabilizer" hidden="false" collective="false" import="true" targetId="5939-c690-bb6a-9050" type="selectionEntry"/>
         <entryLink id="a175-33d8-a2d4-f25c" name="Enhanced Suspension" hidden="false" collective="false" import="true" targetId="510d-41fd-55bf-39d2" type="selectionEntry"/>
-        <entryLink id="3064-0cca-fb02-cbb5" name="Removed Speed Governor" hidden="false" collective="false" import="true" targetId="68d1-771a-bd90-1746" type="selectionEntry"/>
         <entryLink id="abea-5ca5-4dd2-a0a3" name="Wet Ammo Rack" hidden="false" collective="false" import="true" targetId="ee08-72ff-ddc9-deb4" type="selectionEntry"/>
         <entryLink id="6c0d-40d5-4576-41a2" name="Improved Hardening" hidden="false" collective="false" import="true" targetId="78c5-459c-5448-93ab" type="selectionEntry"/>
         <entryLink id="9ab3-1cdf-9efa-9c0d" name="Modified Configuration" hidden="false" collective="false" import="true" targetId="19a5-cc61-8601-6055" type="selectionEntry"/>
         <entryLink id="b848-4671-217f-21b2" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry"/>
         <entryLink id="c0ad-b701-38a1-23fc" name="Turbocharger" hidden="false" collective="false" import="true" targetId="db09-428e-e5a4-0743" type="selectionEntry"/>
+        <entryLink id="c973-98ef-f4b8-54fd" name="Low Noise System" hidden="false" collective="false" import="true" targetId="0487-3d67-7b55-966a" type="selectionEntry"/>
       </entryLinks>
     </selectionEntryGroup>
     <selectionEntryGroup id="c883-55ed-7a92-4129" name="Commander/Gunner" hidden="false" collective="false" import="true">
@@ -6657,6 +6660,7 @@ Repair: This tank may attempt to Repair an addtional Critical card each turn</ch
         <entryLink id="e27b-b573-b088-61dc" name="Relaying" hidden="false" collective="false" import="true" targetId="fbb7-c0f4-6132-e2fb" type="selectionEntry"/>
         <entryLink id="09ec-99cc-84d9-5fa8" name="Signal Boosting" hidden="false" collective="false" import="true" targetId="0c52-f48a-541a-18ea" type="selectionEntry"/>
         <entryLink id="e0fa-6f6b-72a1-95fa" name="Mentor" hidden="false" collective="false" import="true" targetId="6e32-216d-cb5d-6697" type="selectionEntry"/>
+        <entryLink id="82d0-798c-64a6-b770" name="Situational Awareness" hidden="false" collective="false" import="true" targetId="d33d-42d7-eb3f-1d97" type="selectionEntry"/>
       </entryLinks>
     </selectionEntryGroup>
     <selectionEntryGroup id="670f-d6c3-5c79-f236" name="Commander/Radio Operator" hidden="false" collective="false" import="true">
@@ -6675,6 +6679,7 @@ Repair: This tank may attempt to Repair an addtional Critical card each turn</ch
         <entryLink id="525c-58f8-2b11-dfd9" name="Relaying" hidden="false" collective="false" import="true" targetId="fbb7-c0f4-6132-e2fb" type="selectionEntry"/>
         <entryLink id="1817-d052-c344-5d58" name="Signal Boosting" hidden="false" collective="false" import="true" targetId="0c52-f48a-541a-18ea" type="selectionEntry"/>
         <entryLink id="4c84-dfbc-544e-6182" name="Mentor" hidden="false" collective="false" import="true" targetId="6e32-216d-cb5d-6697" type="selectionEntry"/>
+        <entryLink id="f347-288a-1e89-bbaa" name="Situational Awareness" hidden="false" collective="false" import="true" targetId="d33d-42d7-eb3f-1d97" type="selectionEntry"/>
       </entryLinks>
     </selectionEntryGroup>
     <selectionEntryGroup id="6bbb-353d-c83b-0735" name="Loader/Radio Operator" hidden="false" collective="false" import="true">
@@ -6691,6 +6696,7 @@ Repair: This tank may attempt to Repair an addtional Critical card each turn</ch
         <entryLink id="558b-25df-60c3-1578" name="Adrenaline Rush" hidden="false" collective="false" import="true" targetId="bb0e-a6b0-39b3-ebe9" type="selectionEntry"/>
         <entryLink id="0d9d-dc2c-5f6b-f4f0" name="Relaying" hidden="false" collective="false" import="true" targetId="fbb7-c0f4-6132-e2fb" type="selectionEntry"/>
         <entryLink id="475d-938d-1c5a-bae1" name="Signal Boosting" hidden="false" collective="false" import="true" targetId="0c52-f48a-541a-18ea" type="selectionEntry"/>
+        <entryLink id="3fc8-b655-f170-def8" name="Situational Awareness" hidden="false" collective="false" import="true" targetId="d33d-42d7-eb3f-1d97" type="selectionEntry"/>
       </entryLinks>
     </selectionEntryGroup>
   </sharedSelectionEntryGroups>
