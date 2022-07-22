@@ -3169,7 +3169,7 @@
             <entryLink id="dae6-426f-b294-be24" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
             <entryLink id="038a-6faa-c090-0dbc" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
               <entryLinks>
-                <entryLink id="7a99-0027-be21-2a03" name="45mm VT-42" hidden="false" collective="false" import="true" targetId="c3d7-6d9b-4c2c-31e8" type="selectionEntry"/>
+                <entryLink id="7a99-0027-be21-2a03" name="57mm ZIS-4" hidden="false" collective="false" import="true" targetId="46e3-95a7-df56-f45f" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
             <entryLink id="977e-f015-92a3-dd64" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
@@ -4012,16 +4012,15 @@
                 <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="c516-f52c-4a49-5926" name="Loader/Radio Operator" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="c516-f52c-4a49-5926" name="Radio Operator" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9e49-1ce2-5cb5-ee95" type="max"/>
                 <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="79fa-ee33-3b2d-7431" type="min"/>
               </constraints>
               <entryLinks>
-                <entryLink id="2436-2df8-6056-7d56" name="Loader/Radio Operator" hidden="false" collective="false" import="true" targetId="6bbb-353d-c83b-0735" type="selectionEntryGroup">
+                <entryLink id="2436-2df8-6056-7d56" name="Radio Operator" hidden="false" collective="false" import="true" targetId="968a-15c9-9ac3-1e33" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="1e80-5c64-ebd3-50c7" name="Aaron Meyrick" hidden="false" collective="false" import="true" targetId="6b92-b46e-a7cf-1da9" type="selectionEntry"/>
-                    <entryLink id="b8e6-8c72-71d7-953a" name="Philip Young" hidden="false" collective="false" import="true" targetId="2219-1c6b-4b55-f030" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -6260,7 +6259,7 @@ Heavy Tank: +1 Initiative during the Movement Phase</characteristic>
       <profiles>
         <profile id="ab6d-aad5-12f7-fa78" name="Modified Configuration" hidden="false" typeId="b78a-7d3b-9161-b656" typeName="Upgrade: Equipment">
           <characteristics>
-            <characteristic name="Ability" typeId="8be5-274d-3f4e-cc0f">This tank may attempt to Repair an addtional Critical card during the Repair Damage step
+            <characteristic name="Ability" typeId="8be5-274d-3f4e-cc0f">This tnak may attempt to Repair an addtional Critical card during the Repair Damage step
 Discard to cancel an Ammo Damaged, Engine Damaged or Engine Fire Critical card
 Heavy Tank: Re-roll a failed Repair roll</characteristic>
           </characteristics>
@@ -6307,7 +6306,7 @@ Loses Light Flank</characteristic>
       </costs>
     </selectionEntry>
     <selectionEntry id="71e0-c97b-9216-d549" name="OQF 32-PDR AT Gun Mk.II" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Challenger with Avenger Turret Only</comment>
+      <comment>Challenger with Avenegr Turret Only</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cac5-d978-3ef4-260b" type="max"/>
       </constraints>
