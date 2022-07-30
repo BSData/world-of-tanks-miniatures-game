@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="07a5-5595-4339-6356" name="Platoon" revision="10" battleScribeVersion="2.03" authorName="Kirby Walden" authorContact="Original Author: Chris Sheperd
-
-Kirby -
-You can find me on the Discord as xKLUWx or on the official facebook page." authorUrl="" library="false" gameSystemId="51c4-a0cc-d17b-1e94" gameSystemRevision="4" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="07a5-5595-4339-6356" name="Platoon" revision="10" battleScribeVersion="2.03" authorName="Kirby Walden" authorContact="Original Author: Chris Sheperd  Kirby - You can find me on the Discord as xKLUWx or on the official facebook page." authorUrl="" library="false" gameSystemId="51c4-a0cc-d17b-1e94" gameSystemRevision="4" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <comment>Updated to Wave 8. 
 SPG Update!</comment>
   <selectionEntries>
@@ -3523,17 +3520,13 @@ SPG Update!</comment>
                 <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="153b-ff59-a78c-c862" type="min"/>
               </constraints>
               <entryLinks>
-                <entryLink id="ec7e-4bfb-09ad-c8d8" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
+                <entryLink id="59cd-de3e-f7b9-f326" name="Gunner/Loader" hidden="false" collective="false" import="true" targetId="ec84-f581-16f1-aad2" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="b100-c818-b9f6-c02a" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
-                    <entryLink id="20c6-2aeb-e478-bb2b" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
-                    <entryLink id="1f77-3f8c-b843-e1d6" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
-                  </entryLinks>
-                </entryLink>
-                <entryLink id="792e-106e-73ae-6754" name="Loader " hidden="false" collective="false" import="true" targetId="db85-d4f3-fdf6-2d19" type="selectionEntryGroup">
-                  <entryLinks>
-                    <entryLink id="9fbd-59c3-af3e-2e54" name="Philip Young" hidden="false" collective="false" import="true" targetId="2219-1c6b-4b55-f030" type="selectionEntry"/>
-                    <entryLink id="2200-2ec2-2cde-2fb7" name="Malcolm Pride" hidden="false" collective="false" import="true" targetId="7306-2163-ecb6-66a8" type="selectionEntry"/>
+                    <entryLink id="b9ab-14aa-a310-17cc" name="Malcolm Pride" hidden="false" collective="false" import="true" targetId="7306-2163-ecb6-66a8" type="selectionEntry"/>
+                    <entryLink id="5efd-a03a-132c-51c2" name="Philip Young" hidden="false" collective="false" import="true" targetId="2219-1c6b-4b55-f030" type="selectionEntry"/>
+                    <entryLink id="3a7d-a5e2-5e68-dc94" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
+                    <entryLink id="c5fe-6eaf-b18d-644d" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
+                    <entryLink id="18fe-c8f6-9018-6042" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -4426,7 +4419,7 @@ SPG Update!</comment>
         <profile id="002d-eacf-59c3-698a" name="Sexton II" hidden="false" typeId="dac0-ea5a-2478-e6a4" typeName="Hit Points">
           <characteristics>
             <characteristic name="Red" typeId="5aea-aba5-33fd-a449">O</characteristic>
-            <characteristic name="Orange" typeId="a878-0b58-276c-d021"></characteristic>
+            <characteristic name="Orange" typeId="a878-0b58-276c-d021"/>
             <characteristic name="Yellow" typeId="433e-cec8-c0d7-2628">O</characteristic>
             <characteristic name="Green" typeId="34cc-7f69-8c55-9c3d">O</characteristic>
           </characteristics>
@@ -4559,6 +4552,9 @@ SPG Update!</comment>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
             </selectionEntry>
             <selectionEntry id="27d1-4830-29fe-085a" name="Radio Operator" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
@@ -4572,6 +4568,9 @@ SPG Update!</comment>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
             </selectionEntry>
           </selectionEntries>
         </selectionEntryGroup>
@@ -4730,6 +4729,9 @@ SPG Update!</comment>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
             </selectionEntry>
             <selectionEntry id="07e5-fb2d-a432-42b2" name="Radio Operator" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
@@ -4743,6 +4745,9 @@ SPG Update!</comment>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
             </selectionEntry>
           </selectionEntries>
         </selectionEntryGroup>
@@ -4769,7 +4774,7 @@ SPG Update!</comment>
         <profile id="c097-ec60-903b-c832" name="M7 Priest" hidden="false" typeId="dac0-ea5a-2478-e6a4" typeName="Hit Points">
           <characteristics>
             <characteristic name="Red" typeId="5aea-aba5-33fd-a449">O</characteristic>
-            <characteristic name="Orange" typeId="a878-0b58-276c-d021"></characteristic>
+            <characteristic name="Orange" typeId="a878-0b58-276c-d021"/>
             <characteristic name="Yellow" typeId="433e-cec8-c0d7-2628">O</characteristic>
             <characteristic name="Green" typeId="34cc-7f69-8c55-9c3d">O</characteristic>
           </characteristics>
@@ -5457,7 +5462,7 @@ DISCARD - Add +1 Firepower when Shooting a Tank at Close Range</characteristic>
         </profile>
       </profiles>
       <costs>
-        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="1.0"/>
+        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="9332-a0a1-0c0d-0a00" name="Firefighting" hidden="false" collective="false" import="true" type="upgrade">
@@ -7753,6 +7758,23 @@ Gains Arrow Shot</characteristic>
         <entryLink id="0d9d-dc2c-5f6b-f4f0" name="Relaying" hidden="false" collective="false" import="true" targetId="fbb7-c0f4-6132-e2fb" type="selectionEntry"/>
         <entryLink id="475d-938d-1c5a-bae1" name="Signal Boosting" hidden="false" collective="false" import="true" targetId="0c52-f48a-541a-18ea" type="selectionEntry"/>
         <entryLink id="3fc8-b655-f170-def8" name="Situational Awareness" hidden="false" collective="false" import="true" targetId="d33d-42d7-eb3f-1d97" type="selectionEntry"/>
+      </entryLinks>
+    </selectionEntryGroup>
+    <selectionEntryGroup id="ec84-f581-16f1-aad2" name="Gunner/Loader" hidden="false" collective="false" import="true">
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8afb-053a-8c43-be0a" type="max"/>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ff0a-e153-ed19-a1ee" type="min"/>
+      </constraints>
+      <entryLinks>
+        <entryLink id="d7c5-acd0-444d-7bd4" name="Concealment" hidden="false" collective="false" import="true" targetId="f507-175e-e6a4-fc4b" type="selectionEntry"/>
+        <entryLink id="b44a-1921-b771-a14f" name="Firefighting" hidden="false" collective="false" import="true" targetId="9332-a0a1-0c0d-0a00" type="selectionEntry"/>
+        <entryLink id="f92a-4739-1b7c-dfef" name="Repair" hidden="false" collective="false" import="true" targetId="62f7-c404-699a-b9b8" type="selectionEntry"/>
+        <entryLink id="75cf-9441-b090-a019" name="Designated Target" hidden="false" collective="false" import="true" targetId="8811-933f-9645-a5ac" type="selectionEntry"/>
+        <entryLink id="509f-c3f8-36a4-96bd" name="Deadeye" hidden="false" collective="false" import="true" targetId="3452-2dfc-de91-bf32" type="selectionEntry"/>
+        <entryLink id="461c-fb1f-9488-d988" name="Armorer" hidden="false" collective="false" import="true" targetId="afcb-4388-b2df-efb1" type="selectionEntry"/>
+        <entryLink id="31e6-eb06-4373-89a4" name="Adrenaline Rush" hidden="false" collective="false" import="true" targetId="bb0e-a6b0-39b3-ebe9" type="selectionEntry"/>
+        <entryLink id="3554-e0bf-8714-0bab" name="Intuition" hidden="false" collective="false" import="true" targetId="4c39-ead5-bddf-55e5" type="selectionEntry"/>
+        <entryLink id="2ce1-3e23-8514-09bd" name="Safe Stowage" hidden="false" collective="false" import="true" targetId="4d85-2687-1a0d-a1d4" type="selectionEntry"/>
       </entryLinks>
     </selectionEntryGroup>
   </sharedSelectionEntryGroups>
