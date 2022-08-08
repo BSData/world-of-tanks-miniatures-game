@@ -1827,7 +1827,8 @@ SPG Update!</comment>
             <entryLink id="c20a-87db-fb27-1525" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
             <entryLink id="86a7-4cf3-c9d9-c6c1" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
               <entryLinks>
-                <entryLink id="e6c4-8a05-4348-806a" name="Heavy APCR Shell" hidden="false" collective="false" import="true" targetId="9c94-39b7-b899-1808" type="selectionEntry"/>
+                <entryLink id="e6c4-8a05-4348-806a" name="
+                                                    Shell" hidden="false" collective="false" import="true" targetId="9c94-39b7-b899-1808" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
             <entryLink id="dc5b-2acd-14dc-52e3" name="Consumables" hidden="false" collective="false" import="true" targetId="fa87-81ff-b90d-3159" type="selectionEntryGroup">
@@ -5941,7 +5942,7 @@ While Attacking this Tank may take -1 Firepower to ignore the Assault Gun rule</
         </profile>
       </profiles>
       <costs>
-        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="5.0"/>
+        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="6.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="09a3-e552-b187-8043" name="Nathaniel Campbell" hidden="false" collective="false" import="true" type="upgrade">
