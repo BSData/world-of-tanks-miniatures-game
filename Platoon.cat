@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="07a5-5595-4339-6356" name="Platoon" revision="11" battleScribeVersion="2.03" authorName="Kirby Walden" authorContact="Original Author: Patrick Patrick
-" authorUrl="" library="false" gameSystemId="51c4-a0cc-d17b-1e94" gameSystemRevision="4" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="07a5-5595-4339-6356" name="Platoon" revision="11" battleScribeVersion="2.03" authorName="Kirby Walden" authorContact="Original Author: Patrick Patrick " authorUrl="" library="false" gameSystemId="51c4-a0cc-d17b-1e94" gameSystemRevision="4" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <comment>Updated to Wave 9. 
 SPG Update!</comment>
   <selectionEntries>
@@ -1492,7 +1491,15 @@ SPG Update!</comment>
                 <entryLink id="9828-76e4-7c85-403e" name="M10T72M1" hidden="false" collective="false" import="true" targetId="7ba8-9552-6a5b-cca0" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
-            <entryLink id="b0d9-030d-ee55-0a82" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup"/>
+            <entryLink id="b0d9-030d-ee55-0a82" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="9cc6-a0fe-a557-2fd0" name="Write-Continental R-975C4" hidden="false" collective="false" import="true" targetId="0690-71b9-bc45-4d18" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
             <entryLink id="5258-c1c7-d627-b637" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
             <entryLink id="7ba0-2024-2794-c09f" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
               <entryLinks>
@@ -5784,7 +5791,15 @@ SPG Update!</comment>
                 <entryLink id="eb7e-b29a-06a8-48f7" name="Improved Turret" hidden="false" collective="false" import="true" targetId="572f-08a6-baa7-05e3" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
-            <entryLink id="a797-a449-60a9-9a62" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup"/>
+            <entryLink id="a797-a449-60a9-9a62" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="4be1-6e30-2842-4eca" name="Write-Continental R-975C4" hidden="false" collective="false" import="true" targetId="0690-71b9-bc45-4d18" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
             <entryLink id="9060-17c2-1b44-7c71" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
             <entryLink id="7522-59dc-05ad-7c81" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
               <entryLinks>
