@@ -1491,15 +1491,7 @@ SPG Update!</comment>
                 <entryLink id="9828-76e4-7c85-403e" name="M10T72M1" hidden="false" collective="false" import="true" targetId="7ba8-9552-6a5b-cca0" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
-            <entryLink id="b0d9-030d-ee55-0a82" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup">
-              <entryLinks>
-                <entryLink id="9cc6-a0fe-a557-2fd0" name="Write-Continental R-975C4" hidden="false" collective="false" import="true" targetId="0690-71b9-bc45-4d18" type="selectionEntry">
-                  <costs>
-                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
-                  </costs>
-                </entryLink>
-              </entryLinks>
-            </entryLink>
+            <entryLink id="b0d9-030d-ee55-0a82" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup"/>
             <entryLink id="5258-c1c7-d627-b637" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
             <entryLink id="7ba0-2024-2794-c09f" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
               <entryLinks>
@@ -3693,7 +3685,7 @@ SPG Update!</comment>
         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="37.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="fb2c-5355-dcea-f8ec" name="M24 Chafee" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="fb2c-5355-dcea-f8ec" name="M24 Chaffee" hidden="false" collective="false" import="true" type="unit">
       <comment>USA</comment>
       <profiles>
         <profile id="a9a8-5d97-9dd1-264c" name="M24 Chaffee" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
@@ -5205,7 +5197,7 @@ SPG Update!</comment>
         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="28.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="646a-e188-eb48-7fb9" name="SU-122A (Not Final, Missing Info)" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="646a-e188-eb48-7fb9" name="SU-122A" hidden="false" collective="false" import="true" type="unit">
       <comment>USSR</comment>
       <profiles>
         <profile id="a957-78b7-f10b-2653" name="SU-122A" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
@@ -5346,23 +5338,6 @@ SPG Update!</comment>
                 <entryLink id="c162-d12e-4c0d-c8e1" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="5e35-3112-5712-2de7" name="Andrey Habibulin" hidden="false" collective="false" import="true" targetId="e9ae-599f-7c74-816b" type="selectionEntry"/>
-                  </entryLinks>
-                </entryLink>
-              </entryLinks>
-              <costs>
-                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
-              </costs>
-            </selectionEntry>
-            <selectionEntry id="92ef-4802-e49c-fd74" name="Loader" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9a49-b616-6c02-6044" type="max"/>
-                <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d206-2e35-329e-f6eb" type="min"/>
-              </constraints>
-              <entryLinks>
-                <entryLink id="2a48-3d7e-5760-a977" name="Loader " hidden="false" collective="false" import="true" targetId="db85-d4f3-fdf6-2d19" type="selectionEntryGroup">
-                  <entryLinks>
-                    <entryLink id="3f82-eb2a-0d2b-29bf" name="Mikhail Travkin" hidden="false" collective="false" import="true" targetId="9fbe-1eb2-6744-c89c" type="selectionEntry"/>
-                    <entryLink id="65df-4a98-1e21-3094" name="Timur Troshin" hidden="false" collective="false" import="true" targetId="0ab4-6d93-62f4-07e9" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -7558,7 +7533,7 @@ Repair: This Tank may attempt to Repair an additional Critical Card each turn</c
       <profiles>
         <profile id="26fd-9b4a-3bc6-8321" name="Wright-Continental R-975C4" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">M4A1, M4A1(76mm), M18 Hellcat
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">M4A1, M4A1(76mm), M7 Priest, M18 Hellcat
 +2 Initiative during the Movement Phase</characteristic>
           </characteristics>
         </profile>
@@ -8458,7 +8433,7 @@ Firefighting: Re-roll a failed repair roll when Repairing an Engine fire Critica
         <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="054b-3e46-957b-9e32" type="max"/>
       </constraints>
       <profiles>
-        <profile id="3428-2af6-0aa6-004c" name="Peter Kingston" hidden="false" typeId="4113-3131-ac4d-4172" typeName="Upgrade: Crew">
+        <profile id="3428-2af6-0aa6-004c" name="Hubert McDowall" hidden="false" typeId="4113-3131-ac4d-4172" typeName="Upgrade: Crew">
           <characteristics>
             <characteristic name="Ability" typeId="3bf1-8780-ecde-a191">UK
 Off-Road Driving: +2 Initiative during the Movement Phase
