@@ -8469,7 +8469,8 @@ Recon:  +1 initiative during the Movement Phase.  At the start of the game, imme
       <profiles>
         <profile id="1a1c-bb62-43f5-8e4a" name="90MM AT GUN M3" hidden="false" typeId="cf4c-c1c0-f411-bdbe" typeName="Upgrade: Ammo">
           <characteristics>
-            <characteristic name="Ability" typeId="804d-13f2-a6cb-951f"/>
+            <characteristic name="Ability" typeId="804d-13f2-a6cb-951f">M18 Hellcat
++1 Firepower, -1 Initiative</characteristic>
           </characteristics>
         </profile>
       </profiles>
