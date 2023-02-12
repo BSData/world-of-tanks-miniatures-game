@@ -3396,6 +3396,23 @@ SPG Update!</comment>
                 <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
               </costs>
             </selectionEntry>
+            <selectionEntry id="0a57-ca1f-8819-592e" name="Driver" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7c98-b290-b4de-347a" type="max"/>
+                <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7363-cb39-198e-f1c2" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="acb2-4c6b-5b53-e4a0" name="Driver" hidden="false" collective="false" import="true" targetId="46b4-96a0-4c26-f0a4" type="selectionEntryGroup">
+                  <entryLinks>
+                    <entryLink id="f5d1-67a7-1bfb-21de" name="Philip Stulpnagel" hidden="false" collective="false" import="true" targetId="14ce-5e52-9b61-9dd3" type="selectionEntry"/>
+                    <entryLink id="a53f-37da-4d39-fff1" name="Wilhelm Lindemann" hidden="false" collective="false" import="true" targetId="552e-a9e8-b426-de55" type="selectionEntry"/>
+                  </entryLinks>
+                </entryLink>
+              </entryLinks>
+              <costs>
+                <cost name="pts" typeId="3c39-e72d-814c-d95e" value="0.0"/>
+              </costs>
+            </selectionEntry>
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
