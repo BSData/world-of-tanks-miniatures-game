@@ -6448,11 +6448,11 @@ SPG Update!</comment>
       <profiles>
         <profile id="316a-480a-41c8-9958" name="T-54" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
           <characteristics>
-            <characteristic name="Firepower" typeId="b897-8eda-69fb-5976">4</characteristic>
-            <characteristic name="Survivability" typeId="3ad1-d67f-867f-b8d3">1</characteristic>
+            <characteristic name="Firepower" typeId="b897-8eda-69fb-5976">6</characteristic>
+            <characteristic name="Survivability" typeId="3ad1-d67f-867f-b8d3">3</characteristic>
             <characteristic name="Mobility" typeId="6cdd-1e26-6533-d04e">3</characteristic>
             <characteristic name="Initiative" typeId="d714-1b14-ad79-eaa2">6</characteristic>
-            <characteristic name="Hit Points" typeId="cfb3-634e-3297-9f2e">4</characteristic>
+            <characteristic name="Hit Points" typeId="cfb3-634e-3297-9f2e">8</characteristic>
             <characteristic name="Type" typeId="8a22-e966-5551-829d">Medium Tank</characteristic>
             <characteristic name="Tier" typeId="4ff3-83a0-a830-f535">IX</characteristic>
             <characteristic name="Nationality" typeId="18c0-3016-3607-6aaf">U.S.S.R.</characteristic>
@@ -6460,10 +6460,10 @@ SPG Update!</comment>
         </profile>
         <profile id="28b3-016c-770b-a1be" name="T-54" hidden="false" typeId="dac0-ea5a-2478-e6a4" typeName="Hit Points">
           <characteristics>
-            <characteristic name="Red" typeId="5aea-aba5-33fd-a449">O</characteristic>
-            <characteristic name="Orange" typeId="a878-0b58-276c-d021">O</characteristic>
-            <characteristic name="Yellow" typeId="433e-cec8-c0d7-2628">O</characteristic>
-            <characteristic name="Green" typeId="34cc-7f69-8c55-9c3d">O</characteristic>
+            <characteristic name="Red" typeId="5aea-aba5-33fd-a449">OO</characteristic>
+            <characteristic name="Orange" typeId="a878-0b58-276c-d021">OO</characteristic>
+            <characteristic name="Yellow" typeId="433e-cec8-c0d7-2628">OO</characteristic>
+            <characteristic name="Green" typeId="34cc-7f69-8c55-9c3d">OO</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -6600,7 +6600,7 @@ SPG Update!</comment>
         </selectionEntryGroup>
       </selectionEntryGroups>
       <costs>
-        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="40.0"/>
+        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="105.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="58a6-87e3-7008-f1aa" name="Churchill VII" hidden="false" collective="false" import="true" type="unit">
