@@ -2779,7 +2779,7 @@ SPG Update!</comment>
             <characteristic name="Initiative" typeId="d714-1b14-ad79-eaa2">5</characteristic>
             <characteristic name="Hit Points" typeId="cfb3-634e-3297-9f2e">4</characteristic>
             <characteristic name="Type" typeId="8a22-e966-5551-829d">Medium Tank</characteristic>
-            <characteristic name="Tier" typeId="4ff3-83a0-a830-f535">IV</characteristic>
+            <characteristic name="Tier" typeId="4ff3-83a0-a830-f535">V</characteristic>
             <characteristic name="Nationality" typeId="18c0-3016-3607-6aaf">USA</characteristic>
           </characteristics>
         </profile>
