@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="51c4-a0cc-d17b-1e94" name="World of Tanks Miniatures" revision="4" battleScribeVersion="2.03" authorName="Chris Shepard" authorContact="wastelandtools@gmail.com" authorUrl="wastelandgamestudio.com" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="51c4-a0cc-d17b-1e94" name="World of Tanks Miniatures" revision="5" battleScribeVersion="2.03" authorName="Patrick Patrick" authorContact="reconspecialisttv@gmail.com" authorUrl="reconspecialisttv@gmail.com" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <costTypes>
     <costType id="3c39-e72d-814c-d95e" name="pts" defaultCostLimit="-1.0" hidden="false"/>
   </costTypes>
