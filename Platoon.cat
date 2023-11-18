@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="07a5-5595-4339-6356" name="Platoon" revision="15" battleScribeVersion="2.03" authorName="Kirby Walden" authorContact="Original Author: Patrick Patrick " authorUrl="" library="false" gameSystemId="51c4-a0cc-d17b-1e94" gameSystemRevision="4" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="07a5-5595-4339-6356" name="Platoon" revision="15" battleScribeVersion="2.03" authorName="Kirby Walden" authorContact="Original Author: Patrick Patrick " authorUrl="" library="false" gameSystemId="51c4-a0cc-d17b-1e94" gameSystemRevision="5" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <comment>Updated to Wave 12</comment>
   <selectionEntries>
     <selectionEntry id="aae8-8669-2e4f-c167" name="Cromwell" hidden="false" collective="false" import="true" type="unit">
@@ -632,7 +632,6 @@
               <entryLinks>
                 <entryLink id="c755-719b-b565-2997" name="Commander/Gunner" hidden="false" collective="false" import="true" targetId="c883-55ed-7a92-4129" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="f502-58c8-bbf3-41a0" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="f507-b0b3-01e8-aa07" name="Damir Nelrasov" hidden="false" collective="false" import="true" targetId="632a-9df2-e1f3-2444" type="selectionEntry"/>
                     <entryLink id="10ad-0bfc-d3d2-a7dc" name="Nikita Ovsyanniko" hidden="false" collective="false" import="true" targetId="1390-6a3f-d709-d3c9" type="selectionEntry"/>
                     <entryLink id="93a0-7e14-a4b6-fb37" name="Leon Khokhlov" hidden="false" collective="false" import="true" targetId="e818-51bd-1fbd-dbfb" type="selectionEntry">
@@ -645,6 +644,7 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="11.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="5be8-428c-5b8e-dadd" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -1808,12 +1808,13 @@
                 <entryLink id="2e85-5cb8-954a-3576" name="Commander" hidden="false" collective="false" import="true" targetId="bdea-3764-71d0-36ac" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="134b-035a-ebcc-8a3e" name="Damir Nelrasov" hidden="false" collective="false" import="true" targetId="632a-9df2-e1f3-2444" type="selectionEntry"/>
-                    <entryLink id="845a-4a15-51cb-660f" name="Nikita Ovsyanniko" hidden="false" collective="false" import="true" targetId="1390-6a3f-d709-d3c9" type="selectionEntry"/>
-                    <entryLink id="f9f1-9721-3d6b-9f16" name="Leon Khokhlov" hidden="false" collective="false" import="true" targetId="e818-51bd-1fbd-dbfb" type="selectionEntry">
+                    <entryLink id="f9f1-9721-3d6b-9f16" name="Ekaterina Petlyuk" hidden="false" collective="false" import="true" targetId="e818-51bd-1fbd-dbfb" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="6.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="428d-34ca-0e49-9785" name="Nikita Ovsyanniko" hidden="false" collective="false" import="true" targetId="1390-6a3f-d709-d3c9" type="selectionEntry"/>
+                    <entryLink id="59c3-99b2-8b0f-c6da" name="Sergey Merinov" hidden="false" collective="false" import="true" targetId="fb56-abd3-1f3b-3901" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -2364,6 +2365,7 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="6.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="4d6e-68ce-2795-4b33" name="Nikita Ovsyanniko" hidden="false" collective="false" import="true" targetId="1390-6a3f-d709-d3c9" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -3174,13 +3176,13 @@
                   <entryLinks>
                     <entryLink id="7612-4634-4cc1-46ea" name="Sergey Merinov" hidden="false" collective="false" import="true" targetId="fb56-abd3-1f3b-3901" type="selectionEntry"/>
                     <entryLink id="1509-c450-5c17-d11d" name="Nikita Ovsyanniko" hidden="false" collective="false" import="true" targetId="1390-6a3f-d709-d3c9" type="selectionEntry"/>
+                    <entryLink id="822d-5255-5a4a-84ed" name="Ekaterina Petlyuk" hidden="false" collective="false" import="true" targetId="e818-51bd-1fbd-dbfb" type="selectionEntry">
+                      <costs>
+                        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="6.0"/>
+                      </costs>
+                    </entryLink>
+                    <entryLink id="44df-bdcd-8ea8-46a7" name="Damir Nelrasov" hidden="false" collective="false" import="true" targetId="632a-9df2-e1f3-2444" type="selectionEntry"/>
                   </entryLinks>
-                </entryLink>
-                <entryLink id="240f-9e53-87fa-18e5" name="Damir Nelrasov" hidden="false" collective="false" import="true" targetId="632a-9df2-e1f3-2444" type="selectionEntry"/>
-                <entryLink id="c323-f516-39be-4721" name="Leon Khokhlov" hidden="false" collective="false" import="true" targetId="e818-51bd-1fbd-dbfb" type="selectionEntry">
-                  <costs>
-                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="6.0"/>
-                  </costs>
                 </entryLink>
               </entryLinks>
               <costs>
@@ -4558,11 +4560,12 @@
                   <entryLinks>
                     <entryLink id="3df3-a95e-e6cc-29d6" name="Damir Nelrasov" hidden="false" collective="false" import="true" targetId="632a-9df2-e1f3-2444" type="selectionEntry"/>
                     <entryLink id="d56d-7075-6878-4b33" name="Nikita Ovsyanniko" hidden="false" collective="false" import="true" targetId="1390-6a3f-d709-d3c9" type="selectionEntry"/>
-                    <entryLink id="8f1c-ef12-add3-5033" name="Leon Khokhlov" hidden="false" collective="false" import="true" targetId="e818-51bd-1fbd-dbfb" type="selectionEntry">
+                    <entryLink id="cf10-4ed2-55e8-1650" name="Ekaterina Petlyuk" hidden="false" collective="false" import="true" targetId="e818-51bd-1fbd-dbfb" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="6.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="c2ea-5926-5ffc-7861" name="Sergey Merinov" hidden="false" collective="false" import="true" targetId="fb56-abd3-1f3b-3901" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -5433,11 +5436,12 @@
                   <entryLinks>
                     <entryLink id="b73f-da35-1f07-e82b" name="Damir Nelrasov" hidden="false" collective="false" import="true" targetId="632a-9df2-e1f3-2444" type="selectionEntry"/>
                     <entryLink id="732e-41cb-14c1-222f" name="Nikita Ovsyanniko" hidden="false" collective="false" import="true" targetId="1390-6a3f-d709-d3c9" type="selectionEntry"/>
-                    <entryLink id="9593-1c97-2412-9745" name="Leon Khokhlov" hidden="false" collective="false" import="true" targetId="e818-51bd-1fbd-dbfb" type="selectionEntry">
+                    <entryLink id="9593-1c97-2412-9745" name="Ekaterina Petlyuk" hidden="false" collective="false" import="true" targetId="e818-51bd-1fbd-dbfb" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="6.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="7a18-3c8f-4ebf-fd7b" name="Sergey Merinov" hidden="false" collective="false" import="true" targetId="fb56-abd3-1f3b-3901" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -6337,6 +6341,11 @@
                     <entryLink id="7a4d-6053-9e8f-3b42" name="Damir Nelrasov" hidden="false" collective="false" import="true" targetId="632a-9df2-e1f3-2444" type="selectionEntry"/>
                     <entryLink id="d410-c9e2-351c-0d3c" name="Sergey Merinov" hidden="false" collective="false" import="true" targetId="fb56-abd3-1f3b-3901" type="selectionEntry"/>
                     <entryLink id="115b-38d2-2742-b31b" name="Nikita Ovsyanniko" hidden="false" collective="false" import="true" targetId="1390-6a3f-d709-d3c9" type="selectionEntry"/>
+                    <entryLink id="54db-f20b-6181-ce42" name="Ekaterina Petlyuk" hidden="false" collective="false" import="true" targetId="e818-51bd-1fbd-dbfb" type="selectionEntry">
+                      <costs>
+                        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="6.0"/>
+                      </costs>
+                    </entryLink>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -7638,7 +7647,7 @@
       </costs>
     </selectionEntry>
     <selectionEntry id="b6f6-0513-ea07-3dfc" name="IS-3" hidden="false" collective="false" import="true" type="unit">
-      <comment>German</comment>
+      <comment>USSR</comment>
       <profiles>
         <profile id="a623-44aa-63b8-49a6" name="IS-3" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
           <characteristics>
@@ -7789,13 +7798,13 @@
                   <entryLinks>
                     <entryLink id="511e-f23e-5fee-5f3b" name="Sergey Merinov" hidden="false" collective="false" import="true" targetId="fb56-abd3-1f3b-3901" type="selectionEntry"/>
                     <entryLink id="4238-29aa-5eab-b3e2" name="Nikita Ovsyanniko" hidden="false" collective="false" import="true" targetId="1390-6a3f-d709-d3c9" type="selectionEntry"/>
+                    <entryLink id="9ef5-403f-4149-a80e" name="Damir Nelrasov" hidden="false" collective="false" import="true" targetId="632a-9df2-e1f3-2444" type="selectionEntry"/>
+                    <entryLink id="e1c0-cb27-4e93-7f53" name="Ekaterina Petlyuk" hidden="false" collective="false" import="true" targetId="e818-51bd-1fbd-dbfb" type="selectionEntry">
+                      <costs>
+                        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="6.0"/>
+                      </costs>
+                    </entryLink>
                   </entryLinks>
-                </entryLink>
-                <entryLink id="c38a-6543-37a8-7771" name="Damir Nelrasov" hidden="false" collective="false" import="true" targetId="632a-9df2-e1f3-2444" type="selectionEntry"/>
-                <entryLink id="7110-a23f-4c7d-b376" name="Leon Khokhlov" hidden="false" collective="false" import="true" targetId="e818-51bd-1fbd-dbfb" type="selectionEntry">
-                  <costs>
-                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="6.0"/>
-                  </costs>
                 </entryLink>
               </entryLinks>
               <costs>
@@ -7984,6 +7993,7 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="6.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="b3f4-db86-e1ff-372e" name="Sergey Merinov" hidden="false" collective="false" import="true" targetId="fb56-abd3-1f3b-3901" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
