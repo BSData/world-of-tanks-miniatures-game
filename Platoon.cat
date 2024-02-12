@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="07a5-5595-4339-6356" name="Platoon" revision="20" battleScribeVersion="2.03" authorName="Kirby Walden" authorContact="Original Author: Patrick Patrick " authorUrl="" library="false" gameSystemId="51c4-a0cc-d17b-1e94" gameSystemRevision="5" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="07a5-5595-4339-6356" name="Platoon" revision="21" battleScribeVersion="2.03" authorName="Kirby Walden" authorContact="Original Author: Patrick Patrick " authorUrl="" library="false" gameSystemId="51c4-a0cc-d17b-1e94" gameSystemRevision="5" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <comment>Updated to Wave 12</comment>
   <selectionEntries>
     <selectionEntry id="aae8-8669-2e4f-c167" name="Cromwell" hidden="false" collective="false" import="true" type="unit">
@@ -7907,12 +7907,6 @@
             <entryLink id="5cb5-303d-9496-a68b" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="5f85-5369-5742-a485" name="Heavy APCR Shell" hidden="false" collective="false" import="true" targetId="9c94-39b7-b899-1808" type="selectionEntry"/>
-                <entryLink id="43c3-c8d9-d448-28ca" name="Burst HE Shell" hidden="false" collective="false" import="true" targetId="e82d-70d0-80b3-02de" type="selectionEntry"/>
-                <entryLink id="fe39-a629-0556-ea2a" name="Light Heat Shell" hidden="false" collective="false" import="true" targetId="fd4f-93f6-a6d9-9a8a" type="selectionEntry">
-                  <costs>
-                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="1.0"/>
-                  </costs>
-                </entryLink>
               </entryLinks>
             </entryLink>
             <entryLink id="c629-a570-8fec-346d" name="Consumables" hidden="false" collective="false" import="true" targetId="fa87-81ff-b90d-3159" type="selectionEntryGroup">
