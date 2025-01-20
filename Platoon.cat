@@ -11905,7 +11905,6 @@ High Explosive: Discard all Hits before Assessing Damage</characteristic>
         <entryLink id="abea-5ca5-4dd2-a0a3" name="Wet Ammo Rack" hidden="false" collective="false" import="true" targetId="ee08-72ff-ddc9-deb4" type="selectionEntry"/>
         <entryLink id="6c0d-40d5-4576-41a2" name="Improved Hardening" hidden="false" collective="false" import="true" targetId="78c5-459c-5448-93ab" type="selectionEntry"/>
         <entryLink id="9ab3-1cdf-9efa-9c0d" name="Modified Configuration" hidden="false" collective="false" import="true" targetId="19a5-cc61-8601-6055" type="selectionEntry"/>
-        <entryLink id="b848-4671-217f-21b2" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry"/>
         <entryLink id="c0ad-b701-38a1-23fc" name="Turbocharger" hidden="false" collective="false" import="true" targetId="db09-428e-e5a4-0743" type="selectionEntry"/>
         <entryLink id="c973-98ef-f4b8-54fd" name="Low Noise System" hidden="false" collective="false" import="true" targetId="0487-3d67-7b55-966a" type="selectionEntry"/>
         <entryLink id="795b-1975-97d1-4f4d" name="Improved Aiming" hidden="false" collective="false" import="true" targetId="41c7-85bc-300f-744a" type="selectionEntry">
