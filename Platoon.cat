@@ -135,7 +135,15 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="13d0-4037-39b1-2050" name="Upgrades" hidden="false" collective="false" import="true">
           <entryLinks>
-            <entryLink id="7534-150a-9ccc-cd4d" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="7534-150a-9ccc-cd4d" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="d2b2-5939-2fd5-404e" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
             <entryLink id="cd61-e28a-fa93-5ca9" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="e8bc-abc2-a679-0691" name="Light APCR Shell" hidden="false" collective="false" import="true" targetId="adb6-0a9f-6a5c-be06" type="selectionEntry"/>
@@ -393,7 +401,15 @@
                 <entryLink id="0ae4-2208-bb58-f7b1" name="Case of Cola" hidden="false" collective="false" import="true" targetId="d9c9-83f5-22a9-5d55" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
-            <entryLink id="80f9-c005-b556-d28a" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="80f9-c005-b556-d28a" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="c001-685b-c595-a18c" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
           </entryLinks>
         </selectionEntryGroup>
         <selectionEntryGroup id="dc86-f165-f219-a4e8" name="Modules" hidden="false" collective="false" import="true">
@@ -568,6 +584,11 @@
             <entryLink id="f705-ed32-cd57-2c57" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="e9fb-8708-5b34-3240" name="Removed Speed Governor" hidden="false" collective="false" import="true" targetId="68d1-771a-bd90-1746" type="selectionEntry"/>
+                <entryLink id="c812-b6ad-716b-9003" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
               </entryLinks>
             </entryLink>
             <entryLink id="4749-8430-1c0e-b67e" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
@@ -895,6 +916,11 @@
             <entryLink id="649e-574d-9940-6711" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="d4ae-94a0-8a20-42ce" name="Removed Speed Governor" hidden="false" collective="false" import="true" targetId="68d1-771a-bd90-1746" type="selectionEntry"/>
+                <entryLink id="ff25-a2c6-abe4-f870" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
               </entryLinks>
             </entryLink>
             <entryLink id="52b2-aa96-51ec-6e51" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
@@ -1081,7 +1107,15 @@
                 <entryLink id="93ea-1fe1-a08c-9e6a" name="Chocolate" hidden="false" collective="false" import="true" targetId="cbaf-dce2-096e-124e" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
-            <entryLink id="4a59-813c-8070-829b" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="4a59-813c-8070-829b" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="181d-1362-800a-fb3c" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
           </entryLinks>
         </selectionEntryGroup>
         <selectionEntryGroup id="178a-41a5-e60a-843b" name="Crew" hidden="false" collective="false" import="true">
@@ -1214,7 +1248,15 @@
                 <entryLink id="ed5a-b134-c6ef-a5fa" name="Case of Cola" hidden="false" collective="false" import="true" targetId="d9c9-83f5-22a9-5d55" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
-            <entryLink id="76e7-ce41-2df3-bb7f" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="76e7-ce41-2df3-bb7f" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="4ace-7f26-751d-90cc" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
           </entryLinks>
         </selectionEntryGroup>
         <selectionEntryGroup id="99f2-1ea4-0bc3-d692" name="Modules" hidden="false" collective="false" import="true">
@@ -1427,7 +1469,15 @@
                 <entryLink id="b05b-8698-d1c0-fdd8" name="Chocolate" hidden="false" collective="false" import="true" targetId="cbaf-dce2-096e-124e" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
-            <entryLink id="45b4-e007-c7b7-1c7b" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="45b4-e007-c7b7-1c7b" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="4cbf-868f-5800-c21f" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
           </entryLinks>
         </selectionEntryGroup>
         <selectionEntryGroup id="5855-f7b2-ef1f-8f85" name="Crew" hidden="false" collective="false" import="true">
@@ -1575,7 +1625,15 @@
                 <entryLink id="d5a0-ce9a-1934-1b77" name="Case of Cola" hidden="false" collective="false" import="true" targetId="d9c9-83f5-22a9-5d55" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
-            <entryLink id="7bd2-4a1a-c87e-9ae1" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="7bd2-4a1a-c87e-9ae1" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="d391-54bb-1c09-8cdd" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
           </entryLinks>
         </selectionEntryGroup>
         <selectionEntryGroup id="e517-8140-da99-9fd3" name="Modules" hidden="false" collective="false" import="true">
@@ -2012,7 +2070,15 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="cd9f-d688-9253-a3e6" name="Upgrades" hidden="false" collective="false" import="true">
           <entryLinks>
-            <entryLink id="c20a-87db-fb27-1525" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="c20a-87db-fb27-1525" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="63d1-3f23-5acf-e838" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
             <entryLink id="86a7-4cf3-c9d9-c6c1" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="e6c4-8a05-4348-806a" name="Heavy APCR Shell" hidden="false" collective="false" import="true" targetId="9c94-39b7-b899-1808" type="selectionEntry"/>
@@ -2094,7 +2160,15 @@
                 <entryLink id="65cd-2b03-d74e-0952" name="Case of Cola" hidden="false" collective="false" import="true" targetId="d9c9-83f5-22a9-5d55" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
-            <entryLink id="fc36-9162-92a2-0773" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="fc36-9162-92a2-0773" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="c9ae-388b-6e62-15e4" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
           </entryLinks>
         </selectionEntryGroup>
         <selectionEntryGroup id="a478-fae9-e016-a199" name="Modules" hidden="false" collective="false" import="true">
@@ -2513,7 +2587,15 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="28e2-ed4a-d841-b51a" name="Upgrades" hidden="false" collective="false" import="true">
           <entryLinks>
-            <entryLink id="2b31-9411-b710-58c9" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="2b31-9411-b710-58c9" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="3d94-42a1-b02d-9c22" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
             <entryLink id="6f02-ec9f-cd58-fdd5" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="6639-598a-af97-33cc" name="Heavy APCR Shell" hidden="false" collective="false" import="true" targetId="9c94-39b7-b899-1808" type="selectionEntry"/>
@@ -2620,7 +2702,15 @@
                 <entryLink id="299e-26bf-1cf1-68d1" name="105-Octane Gasoline" hidden="false" collective="false" import="true" targetId="4480-fbd6-8a0d-86f7" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
-            <entryLink id="0ab1-135d-934b-7c3a" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="0ab1-135d-934b-7c3a" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="d973-46d1-ffe2-a297" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
           </entryLinks>
         </selectionEntryGroup>
         <selectionEntryGroup id="46bd-e0fc-87e6-b45c" name="Crew" hidden="false" collective="false" import="true">
@@ -2857,7 +2947,15 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="d2c2-c110-c3d3-f9b2" name="Upgrades" hidden="false" collective="false" import="true">
           <entryLinks>
-            <entryLink id="6646-5966-1080-e0ae" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="6646-5966-1080-e0ae" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="e597-0e44-b7aa-bc24" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
             <entryLink id="ef63-e70d-a005-7e7c" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="0418-eac6-8842-79c8" name="Heavy APCR Shell" hidden="false" collective="false" import="true" targetId="9c94-39b7-b899-1808" type="selectionEntry"/>
@@ -3036,7 +3134,15 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="9e4b-30d5-c301-4800" name="Upgrades" hidden="false" collective="false" import="true">
           <entryLinks>
-            <entryLink id="6d61-34da-5f74-9471" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="6d61-34da-5f74-9471" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="bff6-96ca-8904-dafb" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
             <entryLink id="3ea0-b1fa-30ca-8bc9" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="f573-4d4d-aa52-37fd" name="Heavy APCR Shell" hidden="false" collective="false" import="true" targetId="9c94-39b7-b899-1808" type="selectionEntry"/>
@@ -3140,6 +3246,11 @@
             <entryLink id="33ec-244e-29e9-3355" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="687b-d53f-fc1f-fa2c" name="Removed Speed Governor" hidden="false" collective="false" import="true" targetId="68d1-771a-bd90-1746" type="selectionEntry"/>
+                <entryLink id="59ae-e69d-9ed0-9144" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
               </entryLinks>
             </entryLink>
           </entryLinks>
@@ -3717,7 +3828,15 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="bdbe-643b-9437-9bc5" name="Upgrades" hidden="false" collective="false" import="true">
           <entryLinks>
-            <entryLink id="2d61-ed44-2023-0032" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="2d61-ed44-2023-0032" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="42d4-f558-99e0-fc9e" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
             <entryLink id="5c3a-66ec-0d83-5537" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="a37f-16bf-77e5-2610" name="Light APCR Shell" hidden="false" collective="false" import="true" targetId="adb6-0a9f-6a5c-be06" type="selectionEntry"/>
@@ -4333,7 +4452,15 @@
                 <entryLink id="ff51-3c16-4027-3c39" name="Pudding and Tea" hidden="false" collective="false" import="true" targetId="f696-8fd8-79d0-e197" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
-            <entryLink id="e6e6-3d23-3103-0e28" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="e6e6-3d23-3103-0e28" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="2724-8e47-4f21-9c8d" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
           </entryLinks>
         </selectionEntryGroup>
         <selectionEntryGroup id="75b8-9996-99ee-7222" name="Crew" hidden="false" collective="false" import="true">
@@ -4458,6 +4585,11 @@
             <entryLink id="70da-f4d9-4ebd-f2b8" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="ece2-789f-d454-42e1" name="Removed Speed Governor" hidden="false" collective="false" import="true" targetId="68d1-771a-bd90-1746" type="selectionEntry"/>
+                <entryLink id="5271-1b55-d404-bfa3" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
               </entryLinks>
             </entryLink>
             <entryLink id="6adb-2a7b-0149-c9c0" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
@@ -4652,7 +4784,15 @@
                 <entryLink id="5c87-6449-fd47-6f28" name="100-Octane Gasoline" hidden="false" collective="false" import="true" targetId="7cb7-407a-0451-f196" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
-            <entryLink id="7485-c76f-ba42-a12e" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="7485-c76f-ba42-a12e" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="1c64-bb2e-6746-dd09" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
           </entryLinks>
         </selectionEntryGroup>
         <selectionEntryGroup id="79a5-4fb0-57dd-32f6" name="Modules" hidden="false" collective="false" import="true">
@@ -4853,7 +4993,15 @@
                 <entryLink id="807a-5a32-d6f0-a277" name="Pudding and Tea" hidden="false" collective="false" import="true" targetId="f696-8fd8-79d0-e197" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
-            <entryLink id="62ab-7b0c-b22b-52e9" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="62ab-7b0c-b22b-52e9" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="bbce-ba3f-7732-d297" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
           </entryLinks>
         </selectionEntryGroup>
         <selectionEntryGroup id="5afa-e5cd-41fb-2f48" name="Crew" hidden="false" collective="false" import="true">
@@ -5038,7 +5186,15 @@
                 <entryLink id="dc04-6d57-fd03-7c9a" name="Chocolate" hidden="false" collective="false" import="true" targetId="cbaf-dce2-096e-124e" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
-            <entryLink id="2102-44ab-2cd6-a825" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="2102-44ab-2cd6-a825" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="8f56-5f3f-be18-f389" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
           </entryLinks>
         </selectionEntryGroup>
         <selectionEntryGroup id="273e-30cf-2412-88bc" name="Crew" hidden="false" collective="false" import="true">
@@ -5208,7 +5364,15 @@
                 <entryLink id="d29b-3739-7da9-1900" name="Case of Cola" hidden="false" collective="false" import="true" targetId="d9c9-83f5-22a9-5d55" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
-            <entryLink id="437c-e0e8-bf38-2a66" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="437c-e0e8-bf38-2a66" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="8ad3-7fa3-277f-4a88" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
           </entryLinks>
         </selectionEntryGroup>
         <selectionEntryGroup id="c7fb-ab9c-7fe4-3dfb" name="Modules" hidden="false" collective="false" import="true">
@@ -5399,6 +5563,11 @@
             <entryLink id="2a7e-a57e-1d81-4b03" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="f6f8-daad-fc43-2172" name="Removed Speed Governor" hidden="false" collective="false" import="true" targetId="68d1-771a-bd90-1746" type="selectionEntry"/>
+                <entryLink id="8ae6-7552-c96e-9dab" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
               </entryLinks>
             </entryLink>
             <entryLink id="f25a-690c-0de6-0dca" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
@@ -5568,6 +5737,11 @@
             <entryLink id="e20a-76bf-9737-2a98" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="ad9d-2254-d625-4b7c" name="Removed Speed Governor" hidden="false" collective="false" import="true" targetId="68d1-771a-bd90-1746" type="selectionEntry"/>
+                <entryLink id="3d81-1ab8-1bbe-c874" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
               </entryLinks>
             </entryLink>
             <entryLink id="64c1-425f-b84d-bc9a" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
@@ -5854,7 +6028,15 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="6426-4e33-4a1d-6f1a" name="Upgrades" hidden="false" collective="false" import="true">
           <entryLinks>
-            <entryLink id="f31f-89ac-6614-5a9e" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="f31f-89ac-6614-5a9e" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="8179-e5c5-f6b8-f4b0" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
             <entryLink id="d4dd-e6f9-3c3a-aeb5" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="ab97-4c87-6c92-ea5d" name="Heavy APCR Shell" hidden="false" collective="false" import="true" targetId="9c94-39b7-b899-1808" type="selectionEntry"/>
@@ -5963,7 +6145,15 @@
                 <entryLink id="c643-f83f-cec5-9f2c" name="Pudding and Tea" hidden="false" collective="false" import="true" targetId="f696-8fd8-79d0-e197" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
-            <entryLink id="bfde-2926-c720-5b01" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="bfde-2926-c720-5b01" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="5068-1660-d538-3a54" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
           </entryLinks>
         </selectionEntryGroup>
         <selectionEntryGroup id="de98-72b9-e29f-541c" name="Crew" hidden="false" collective="false" import="true">
@@ -6123,7 +6313,15 @@
                 <entryLink id="c332-af46-b24d-be2f" name="Case of Cola" hidden="false" collective="false" import="true" targetId="d9c9-83f5-22a9-5d55" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
-            <entryLink id="9490-f500-d7bd-d902" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="9490-f500-d7bd-d902" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="a695-7789-0b75-7da6" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
           </entryLinks>
         </selectionEntryGroup>
         <selectionEntryGroup id="c3fb-171a-f094-b3fd" name="Modules" hidden="false" collective="false" import="true">
@@ -6307,6 +6505,11 @@
             <entryLink id="9497-9d60-d8cf-22c4" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="4191-6f1a-ebd2-674b" name="Removed Speed Governor" hidden="false" collective="false" import="true" targetId="68d1-771a-bd90-1746" type="selectionEntry"/>
+                <entryLink id="bf22-ad73-04de-8a81" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
               </entryLinks>
             </entryLink>
             <entryLink id="33d6-0603-427f-6019" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
@@ -6493,7 +6696,15 @@
               </entryLinks>
             </entryLink>
             <entryLink id="9f74-c4ed-265a-4eae" name="Consumables" hidden="false" collective="false" import="true" targetId="fa87-81ff-b90d-3159" type="selectionEntryGroup"/>
-            <entryLink id="cfb1-d681-a2da-01c8" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="cfb1-d681-a2da-01c8" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="0e8e-a6d6-54aa-1755" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
           </entryLinks>
         </selectionEntryGroup>
         <selectionEntryGroup id="d81e-db43-6481-7fe7" name="Crew" hidden="false" collective="false" import="true">
@@ -6648,7 +6859,15 @@
                 <entryLink id="f669-7235-e319-87b2" name="Case of Cola" hidden="false" collective="false" import="true" targetId="d9c9-83f5-22a9-5d55" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
-            <entryLink id="6921-2f42-c449-c504" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="6921-2f42-c449-c504" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="63f1-c6f8-e7bf-747a" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
           </entryLinks>
         </selectionEntryGroup>
         <selectionEntryGroup id="27eb-5036-6716-4033" name="Modules" hidden="false" collective="false" import="true">
@@ -6815,6 +7034,11 @@
             <entryLink id="a101-3af2-18ca-df69" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="36ad-9df6-7ee1-895f" name="Removed Speed Governor" hidden="false" collective="false" import="true" targetId="68d1-771a-bd90-1746" type="selectionEntry"/>
+                <entryLink id="3ff5-6f6c-3d90-2743" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
               </entryLinks>
             </entryLink>
             <entryLink id="f5a9-f8ce-3514-fb63" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
@@ -7438,7 +7662,15 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="c4c3-a059-c5e8-04ac" name="Upgrades" hidden="false" collective="false" import="true">
           <entryLinks>
-            <entryLink id="bce9-d620-12d1-f0be" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="bce9-d620-12d1-f0be" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="f163-b6b2-70a1-277d" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
             <entryLink id="c5f8-a99e-610b-f82f" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="3aa1-989b-6b6e-5cab" name="Heavy APCR Shell" hidden="false" collective="false" import="true" targetId="9c94-39b7-b899-1808" type="selectionEntry"/>
@@ -7902,6 +8134,11 @@
             <entryLink id="5c11-99d5-a9d4-996f" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="35c2-6ff8-2d3f-98cd" name="Removed Speed Governor" hidden="false" collective="false" import="true" targetId="68d1-771a-bd90-1746" type="selectionEntry"/>
+                <entryLink id="3a2c-77c1-1259-702c" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
               </entryLinks>
             </entryLink>
             <entryLink id="5cb5-303d-9496-a68b" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
@@ -8097,7 +8334,15 @@
                 <entryLink id="1a51-dbb5-2fc8-7bfd" name="100-Octane Gasoline" hidden="false" collective="false" import="true" targetId="7cb7-407a-0451-f196" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
-            <entryLink id="e39e-fb00-dc68-2e8f" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="e39e-fb00-dc68-2e8f" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="1b22-f09c-17ea-66a3" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
           </entryLinks>
         </selectionEntryGroup>
         <selectionEntryGroup id="8d2f-6e35-5064-2732" name="Modules" hidden="false" collective="false" import="true">
@@ -8307,7 +8552,15 @@
                 <entryLink id="b6b0-9b09-89e6-e5ae" name="Pudding and Tea" hidden="false" collective="false" import="true" targetId="f696-8fd8-79d0-e197" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
-            <entryLink id="a2b6-ed64-bfc4-3c53" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="a2b6-ed64-bfc4-3c53" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="5159-8691-6514-83a2" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
           </entryLinks>
         </selectionEntryGroup>
         <selectionEntryGroup id="a965-832d-235f-c12c" name="Crew" hidden="false" collective="false" import="true">
@@ -8525,7 +8778,15 @@
         </selectionEntryGroup>
         <selectionEntryGroup id="4330-0a73-2004-bfcb" name="Upgrades" hidden="false" collective="false" import="true">
           <entryLinks>
-            <entryLink id="f002-8179-32cb-75fc" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup"/>
+            <entryLink id="f002-8179-32cb-75fc" name="Equipment" hidden="false" collective="false" import="true" targetId="1e2c-8a2e-d8e3-8538" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="465e-bdc1-fd50-2491" name="Improved Rotation Mechanism" hidden="false" collective="false" import="true" targetId="53e9-a4e1-de71-3642" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
             <entryLink id="74aa-6cb1-7a40-df6a" name="Ammo" hidden="false" collective="false" import="true" targetId="1156-2984-08cc-6cc9" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="c75e-6bb0-d06b-0f28" name="Heavy APCR Shell" hidden="false" collective="false" import="true" targetId="9c94-39b7-b899-1808" type="selectionEntry"/>
