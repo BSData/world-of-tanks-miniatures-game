@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="07a5-5595-4339-6356" name="Platoon" revision="21" battleScribeVersion="2.03" authorName="Kirby Walden" authorContact="Original Author: Patrick Patrick " authorUrl="" library="false" gameSystemId="51c4-a0cc-d17b-1e94" gameSystemRevision="5" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="07a5-5595-4339-6356" name="Platoon" revision="22" battleScribeVersion="2.03" authorName="Kirby Walden" authorContact="Original Author: Patrick Patrick " authorUrl="" library="false" gameSystemId="51c4-a0cc-d17b-1e94" gameSystemRevision="5" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <comment>Updated to Wave 12</comment>
   <selectionEntries>
     <selectionEntry id="aae8-8669-2e4f-c167" name="Cromwell" hidden="false" collective="false" import="true" type="unit">
