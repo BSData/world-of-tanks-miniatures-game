@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="07a5-5595-4339-6356" name="Platoon" revision="25" battleScribeVersion="2.03" authorName="Kirby Walden" authorContact="Original Author: Patrick Patrick " authorUrl="" library="false" gameSystemId="51c4-a0cc-d17b-1e94" gameSystemRevision="5" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="07a5-5595-4339-6356" name="Platoon" revision="26" battleScribeVersion="2.03" authorName="Kirby Walden" authorContact="Original Author: Patrick Patrick " authorUrl="" library="false" gameSystemId="51c4-a0cc-d17b-1e94" gameSystemRevision="5" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <comment>Updated to Wave 16</comment>
   <selectionEntries>
     <selectionEntry id="aae8-8669-2e4f-c167" name="Cromwell" hidden="false" collective="false" import="true" type="unit">
@@ -335,6 +335,7 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="114f-3cfd-3573-ae03" name="Markus Theissen" hidden="false" collective="false" import="true" targetId="8f23-a2e0-6639-b202" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -1286,6 +1287,7 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="7578-59cf-ba5e-9ff6" name="Markus Theissen" hidden="false" collective="false" import="true" targetId="8f23-a2e0-6639-b202" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -1682,6 +1684,7 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="6e75-5e95-5ab6-1ea2" name="Markus Theissen" hidden="false" collective="false" import="true" targetId="8f23-a2e0-6639-b202" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -2807,6 +2810,7 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="18c2-55ed-1d99-e43d" name="Markus Theissen" hidden="false" collective="false" import="true" targetId="8f23-a2e0-6639-b202" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -3040,6 +3044,7 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="d647-bdbf-29be-2337" name="Markus Theissen" hidden="false" collective="false" import="true" targetId="8f23-a2e0-6639-b202" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -4197,6 +4202,7 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="a9db-a0d3-86c1-50c0" name="Markus Theissen" hidden="false" collective="false" import="true" targetId="8f23-a2e0-6639-b202" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -4780,6 +4786,7 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="a994-54fd-255f-635f" name="Markus Theissen" hidden="false" collective="false" import="true" targetId="8f23-a2e0-6639-b202" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -5793,6 +5800,7 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="a4f4-9db7-4e68-8bb4" name="Markus Theissen" hidden="false" collective="false" import="true" targetId="8f23-a2e0-6639-b202" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -5836,6 +5844,7 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="8f03-7943-1f95-0dab" name="Markus Theissen" hidden="false" collective="false" import="true" targetId="8f23-a2e0-6639-b202" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -6578,6 +6587,7 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="5450-65b8-1ed4-5148" name="Markus Theissen" hidden="false" collective="false" import="true" targetId="8f23-a2e0-6639-b202" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -6622,6 +6632,7 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="11f4-8ec0-9702-7e0c" name="Markus Theissen" hidden="false" collective="false" import="true" targetId="8f23-a2e0-6639-b202" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -8003,6 +8014,7 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="d037-f074-e1e0-1e7e" name="Markus Theissen" hidden="false" collective="false" import="true" targetId="8f23-a2e0-6639-b202" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -8047,6 +8059,7 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="ed81-0876-2ca5-0081" name="Markus Theissen" hidden="false" collective="false" import="true" targetId="8f23-a2e0-6639-b202" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -9478,6 +9491,7 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="3d0d-b49e-5dcb-e526" name="Markus Theissen" hidden="false" collective="false" import="true" targetId="8f23-a2e0-6639-b202" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -9886,6 +9900,7 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="7.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="69b9-d252-77bf-9c76" name="Markus Theissen" hidden="false" collective="false" import="true" targetId="8f23-a2e0-6639-b202" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -10305,6 +10320,7 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="9.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="76a5-ead6-2d0f-19c7" name="Markus Theissen" hidden="false" collective="false" import="true" targetId="8f23-a2e0-6639-b202" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -10971,6 +10987,7 @@
                     </entryLink>
                     <entryLink id="128a-947d-74f0-e4d8" name="Bernold Knoke" hidden="false" collective="false" import="true" targetId="3f37-6a7b-ecab-f4be" type="selectionEntry"/>
                     <entryLink id="397c-334a-73f3-121b" name="Craig Maddocks" hidden="false" collective="false" import="true" targetId="329f-c9f6-3ab9-a20c" type="selectionEntry"/>
+                    <entryLink id="8805-bcbd-ebcd-a9f8" name="Markus Theissen" hidden="false" collective="false" import="true" targetId="8f23-a2e0-6639-b202" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -11880,6 +11897,7 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="ba48-c9e3-d192-6e5b" name="Markus Theissen" hidden="false" collective="false" import="true" targetId="8f23-a2e0-6639-b202" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -11944,6 +11962,7 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="430d-5a97-7652-4057" name="Markus Theissen" hidden="false" collective="false" import="true" targetId="8f23-a2e0-6639-b202" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -12664,6 +12683,7 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
                       </costs>
                     </entryLink>
+                    <entryLink id="0084-6ab3-6377-153d" name="Markus Theissen" hidden="false" collective="false" import="true" targetId="8f23-a2e0-6639-b202" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -16198,6 +16218,24 @@ Concealment:  +1 Survivability while in Cover</characteristic>
       </profiles>
       <costs>
         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="7.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8f23-a2e0-6639-b202" name="Markus Theissen" hidden="false" collective="false" import="true" type="upgrade">
+      <comment>Loader, Germany, Unique</comment>
+      <constraints>
+        <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="69f9-cbe3-7b51-61f6" type="max"/>
+      </constraints>
+      <profiles>
+        <profile id="ee18-484a-ef36-bc0a" name="Markus Theissen" hidden="false" typeId="4113-3131-ac4d-4172" typeName="Upgrade: Crew">
+          <characteristics>
+            <characteristic name="Ability" typeId="3bf1-8780-ecde-a191">Germany
+Safe Stowage:  +1 initiative during the Shooting Phase - Disacrd to cancel an Ammor Damaged Critical Card.
+Intuition:  At the beginning of the Shooting Phase, discard an Ammo upgrade card to gain +6 initiative for the Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <costs>
+        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="8.0"/>
       </costs>
     </selectionEntry>
   </sharedSelectionEntries>
