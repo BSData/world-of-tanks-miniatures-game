@@ -9370,7 +9370,7 @@
     <selectionEntry id="c7f3-1c27-ed93-9955" name="Jagdpanther" hidden="false" collective="false" import="true" type="unit">
       <comment>German</comment>
       <profiles>
-        <profile id="727c-249a-986d-f22a" name="Jagdtiger" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
+        <profile id="727c-249a-986d-f22a" name="Jagdpanther" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
           <characteristics>
             <characteristic name="Firepower" typeId="b897-8eda-69fb-5976">6</characteristic>
             <characteristic name="Survivability" typeId="3ad1-d67f-867f-b8d3">2</characteristic>
@@ -9378,11 +9378,11 @@
             <characteristic name="Initiative" typeId="d714-1b14-ad79-eaa2">4</characteristic>
             <characteristic name="Hit Points" typeId="cfb3-634e-3297-9f2e">6</characteristic>
             <characteristic name="Type" typeId="8a22-e966-5551-829d">Tank Destroyer</characteristic>
-            <characteristic name="Tier" typeId="4ff3-83a0-a830-f535">VII</characteristic>
+            <characteristic name="Tier" typeId="4ff3-83a0-a830-f535">VI</characteristic>
             <characteristic name="Nationality" typeId="18c0-3016-3607-6aaf">Germany</characteristic>
           </characteristics>
         </profile>
-        <profile id="f88a-37e0-60c8-54f2" name="Jagdtiger" hidden="false" typeId="dac0-ea5a-2478-e6a4" typeName="Hit Points">
+        <profile id="f88a-37e0-60c8-54f2" name="Jagdpanther" hidden="false" typeId="dac0-ea5a-2478-e6a4" typeName="Hit Points">
           <characteristics>
             <characteristic name="Red" typeId="5aea-aba5-33fd-a449">O</characteristic>
             <characteristic name="Orange" typeId="a878-0b58-276c-d021">O</characteristic>
