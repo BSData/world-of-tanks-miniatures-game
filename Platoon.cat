@@ -15504,14 +15504,14 @@ High Explosive: Discard all Hits before Assessing Damage</characteristic>
       </costs>
     </selectionEntry>
     <selectionEntry id="99ee-ca02-faa1-c0f5" name="105mm M4" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>M4A1 Sherman, M4A3E8 Sherman</comment>
+      <comment>M4A1 Sherman, M4A3E8 Sherman, M4A3E2 Sherman Jumbo</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="add0-7c46-d87a-0959" type="max"/>
       </constraints>
       <profiles>
         <profile id="9fcd-3423-d28e-5031" name="105mm M4" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">M4A1 Sherman, M4A3E8 Sherman
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">M4A1 Sherman, M4A3E8 Sherman, M4A3E2 Sherman Jumbo
 +2 Firepower
 -1 Initiative
 High Explosive: Discard all Hits before Assessing Damage</characteristic>
