@@ -16443,8 +16443,7 @@ High Explosive: Discard all Hits before Assessing Damage</characteristic>
       </costs>
     </selectionEntry>
     <selectionEntry id="f559-9535-6044-3ac8" name="10.5cm Stu.H. 42 L/28 (Stug, Jagdpanzer)" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>StuG III Ausf. G
-Jagdpanzer (38)T Hetzer</comment>
+      <comment>StuG III Ausf. G, Jagdpanzer (38)T Hetzer</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6d64-082b-e360-1d64" type="max"/>
       </constraints>
