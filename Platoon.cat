@@ -9635,11 +9635,7 @@
               </entryLinks>
             </entryLink>
             <entryLink id="100e-51c1-afb5-38c6" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
-            <entryLink id="4dd2-ec45-3578-3c83" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
-              <entryLinks>
-                <entryLink id="a6bb-e18b-de54-9189" name="155mm AT GUN T7" hidden="false" collective="false" import="true" targetId="b38b-9d74-10ed-e1a2" type="selectionEntry"/>
-              </entryLinks>
-            </entryLink>
+            <entryLink id="4dd2-ec45-3578-3c83" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup"/>
             <entryLink id="5020-24a5-2312-93b6" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
           </entryLinks>
         </selectionEntryGroup>
@@ -11426,6 +11422,7 @@
             <entryLink id="ee47-2653-519b-a8c0" name="Turret" hidden="false" collective="false" import="true" targetId="e853-1c72-203d-0755" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="ecf7-8e30-7b69-e742" name="Improved Turret" hidden="false" collective="false" import="true" targetId="572f-08a6-baa7-05e3" type="selectionEntry"/>
+                <entryLink id="a6bb-e18b-de54-9189" name="155mm AT GUN T7" hidden="false" collective="false" import="true" targetId="b38b-9d74-10ed-e1a2" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
             <entryLink id="dc01-2350-d0ba-0472" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup">
