@@ -15959,24 +15959,6 @@ Repair:  this Tank may attempt to Repair an additional Critical Card each turn</
         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="4.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="0e52-6c37-4e56-023c" name="7.5cm PAK 42 L/20" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Pz.Kpfw. IV Ausf. H</comment>
-      <constraints>
-        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6bd6-a996-d4c7-fa5c" type="max"/>
-      </constraints>
-      <profiles>
-        <profile id="29e6-6ccd-860f-8f6c" name="7.5cm PAK 42 L/20" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
-          <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Jagdpather. Nashorn
-+2 Initiative
--1 Firepower</characteristic>
-          </characteristics>
-        </profile>
-      </profiles>
-      <costs>
-        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="1.0"/>
-      </costs>
-    </selectionEntry>
     <selectionEntry id="0419-a441-f4d6-8108" name="Viktor Possinger" hidden="false" collective="false" import="true" type="upgrade">
       <comment>Commander, Germany, Unique</comment>
       <constraints>
