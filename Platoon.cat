@@ -16264,7 +16264,7 @@ Deadeye: Draw 2 Critical Cards for the first Crit scored by this Tank each turn.
       </costs>
     </selectionEntry>
     <selectionEntry id="c337-aaeb-f003-8976" name="76mm AT Gun M1A1" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>M10 Wolverine, Sherman Jumbo</comment>
+      <comment>Sherman Jumbo</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4f15-1c6b-1782-1fd8" type="max"/>
       </constraints>
