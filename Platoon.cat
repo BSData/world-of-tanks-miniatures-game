@@ -2943,7 +2943,7 @@
             <entryLink id="0b2f-309d-d486-17e0" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
             <entryLink id="cc4f-3664-c231-b648" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
               <entryLinks>
-                <entryLink id="7ebb-84d9-8510-b2ea" name="10.5cm Stu.H. 42 L/28 (PZ H)" hidden="false" collective="false" import="true" targetId="a53a-37dc-94a9-3ad4" type="selectionEntry"/>
+                <entryLink id="011c-6049-39f0-71d0" name="10.5cm KW.K. L/28" hidden="false" collective="false" import="true" targetId="f452-01bd-c994-93a0" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
             <entryLink id="e5ed-daf5-d59e-ac97" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
@@ -16317,14 +16317,14 @@ Call for Vengence: When this Tank is Destroyed all other Tanks in this Platoon g
       </costs>
     </selectionEntry>
     <selectionEntry id="f452-01bd-c994-93a0" name="10.5cm KW.K. L/28" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Pz.Kpfw. IV Ausf. H</comment>
+      <comment>Pz. Kpfw. IV Ausf. H</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ff1b-f8cc-afcd-c792" type="max"/>
       </constraints>
       <profiles>
         <profile id="7279-fd10-0ecf-ac99" name="10.5cm KW.K. L/28" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Pz.Kpfw. IV Ausf. H
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Pz. Kpfw. IV Ausf. H
 +2 Firepower
 High Explosive: Discard all Hits before Assessing Damage</characteristic>
           </characteristics>
@@ -16386,24 +16386,6 @@ High Explosive: Discard all Hits before Assessing Damage</characteristic>
       </profiles>
       <costs>
         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
-      </costs>
-    </selectionEntry>
-    <selectionEntry id="a53a-37dc-94a9-3ad4" name="10.5cm Stu.H. 42 L/28 (PZ H)" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Panzer H</comment>
-      <constraints>
-        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="dbab-7b74-7335-6e79" type="max"/>
-      </constraints>
-      <profiles>
-        <profile id="fce4-6989-9eae-8efb" name="10.5cm Stu.H. 42 L/28" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
-          <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">PZ Iv Ausf H
-+2 Firepower
-High Explosive: Discard all Hits before Assessing Damage</characteristic>
-          </characteristics>
-        </profile>
-      </profiles>
-      <costs>
-        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="d4ce-82d4-9221-c517" name="75mm Gun M17" hidden="false" collective="false" import="true" type="upgrade">
