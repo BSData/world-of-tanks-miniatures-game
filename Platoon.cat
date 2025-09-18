@@ -7549,7 +7549,11 @@
                 <entryLink id="2939-e8c9-6c04-78ad" name="Improved Turret" hidden="false" collective="false" import="true" targetId="572f-08a6-baa7-05e3" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
-            <entryLink id="6a49-42f2-9e0c-cb79" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup"/>
+            <entryLink id="6a49-42f2-9e0c-cb79" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="8b2e-52b6-f0b2-b5f2" name="V-14" hidden="false" collective="false" import="true" targetId="983b-69d5-8587-fc1e" type="selectionEntry"/>
+              </entryLinks>
+            </entryLink>
             <entryLink id="819e-15da-db08-a62b" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
             <entryLink id="b7ab-4f15-fccc-57f9" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup"/>
             <entryLink id="5ecd-f084-9e2d-675d" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
