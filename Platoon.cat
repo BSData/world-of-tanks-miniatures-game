@@ -4630,7 +4630,7 @@
             <entryLink id="a786-3e91-9b01-fcdb" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
             <entryLink id="8af0-7a42-8919-6558" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
               <entryLinks>
-                <entryLink id="a3cb-7924-d119-ca58" name="75mm Gun M17" hidden="false" collective="false" import="true" targetId="2392-d061-dc0a-7ebe" type="selectionEntry"/>
+                <entryLink id="a3cb-7924-d119-ca58" name="75mm Gun M17" hidden="false" collective="false" import="true" targetId="d4ce-82d4-9221-c517" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
             <entryLink id="2fc3-a82f-5712-c549" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
