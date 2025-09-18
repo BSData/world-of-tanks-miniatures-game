@@ -10038,6 +10038,7 @@
             <entryLink id="b9ff-c2ea-83bd-9861" name="Turret" hidden="false" collective="false" import="true" targetId="e853-1c72-203d-0755" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="1d5f-f0a8-14fa-ba86" name="Improved Turret" hidden="false" collective="false" import="true" targetId="572f-08a6-baa7-05e3" type="selectionEntry"/>
+                <entryLink id="1e00-ca3b-c296-178d" name="OQF 17-PDR AT GUN MK. V" hidden="False" collective="false" import="true"/>
               </entryLinks>
             </entryLink>
             <entryLink id="e727-29fc-1e10-ecb7" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup"/>
