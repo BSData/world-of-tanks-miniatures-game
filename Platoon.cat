@@ -16211,14 +16211,14 @@ Sixth Sense: At the start of the Shooting Phase, roll a die. On a Hit or Crit th
       </costs>
     </selectionEntry>
     <selectionEntry id="3c47-113c-2b90-8b71" name="Kirovets-1" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Kirovets-1</comment>
+      <comment>IS-3</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1d3e-3d46-7399-30d4" type="max"/>
       </constraints>
       <profiles>
         <profile id="5c68-9a13-5972-c22f" name="Kirovets-1" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Kirovets-1
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">IS-3
 -1 Survivability</characteristic>
           </characteristics>
         </profile>
