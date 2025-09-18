@@ -6724,7 +6724,11 @@
               </entryLinks>
             </entryLink>
             <entryLink id="a01b-381e-41e1-e55d" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
-            <entryLink id="7b46-7ca8-810e-89dd" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup"/>
+            <entryLink id="7b46-7ca8-810e-89dd" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="f807-b0c3-f84d-910b" name="105mm AT GUN L7" hidden="false" collective="false" import="true" targetId="acbf-b20e-0a32-2c98" type="selectionEntry"/>
+              </entryLinks>
+            </entryLink>
             <entryLink id="75ad-c543-1bcd-0d88" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
           </entryLinks>
         </selectionEntryGroup>
@@ -16594,7 +16598,7 @@ Concealment: +1 while in Cover</characteristic>
       <profiles>
         <profile id="2927-3f54-ef74-d47e" name="105mm AT GUN L7" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">M4A1 Sherman, M4A3E8 Sherman
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Charioteer
 +1 Firepower</characteristic>
           </characteristics>
         </profile>
