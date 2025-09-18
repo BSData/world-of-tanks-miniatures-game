@@ -9545,7 +9545,7 @@
             <entryLink id="060a-dd79-72d1-d815" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
             <entryLink id="5e25-ce55-5ffc-53bc" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
               <entryLinks>
-                <entryLink id="59a1-a171-0fd0-d7f1" name="705cm PAK 42 L/70" hidden="false" collective="false" import="true" targetId="fd3e-3690-a72c-e5da" type="selectionEntry"/>
+                <entryLink id="59a1-a171-0fd0-d7f1" name="7.5cm PAK 42 L/70" hidden="false" collective="false" import="true" targetId="fd3e-3690-a72c-e5da" type="selectionEntry"/>
                 <entryLink id="ca02-1b64-a9fb-3625" name="10.5cm PAK L/52" hidden="false" collective="false" import="true" targetId="23db-cb47-7398-0901" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
@@ -10819,7 +10819,7 @@
             <entryLink id="f1ef-d368-9c10-0d1e" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
             <entryLink id="0782-a94d-846d-9add" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
               <entryLinks>
-                <entryLink id="fa3f-4a26-480f-015b" name="705cm PAK 42 L/70" hidden="false" collective="false" import="true" targetId="fd3e-3690-a72c-e5da" type="selectionEntry"/>
+                <entryLink id="fa3f-4a26-480f-015b" name="7.5cm PAK 42 L/70" hidden="false" collective="false" import="true" targetId="fd3e-3690-a72c-e5da" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
             <entryLink id="046f-95b3-1a73-bd6d" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
@@ -16352,7 +16352,7 @@ High Explosive: Discard all Hits before Assessing Damage</characteristic>
         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="fd3e-3690-a72c-e5da" name="705cm PAK 42 L/70" hidden="false" collective="false" import="true" type="upgrade">
+    <selectionEntry id="fd3e-3690-a72c-e5da" name="7.5cm PAK 42 L/70" hidden="false" collective="false" import="true" type="upgrade">
       <comment>Jagdpanther, Nashorn</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="252f-44a0-ad10-824b" type="max"/>
