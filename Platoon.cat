@@ -14653,7 +14653,8 @@ Tank without Assault Gun</comment>
         <profile id="9af1-b765-9e34-9501" name="Andrey Habibulin" hidden="false" typeId="cf4c-c1c0-f411-bdbe" typeName="Upgrade: Ammo">
           <characteristics>
             <characteristic name="Ability" typeId="804d-13f2-a6cb-951f">USSR
-Snap Shot: +2 Initiative during the Shooting Phase
+Snap Shot: Tank Without Assault Gun
++2 Initiative during the Shooting Phase
 Concealment: +1 Survivability while in Cover</characteristic>
           </characteristics>
         </profile>
@@ -14867,7 +14868,8 @@ Tank without Assault Gun</comment>
         <profile id="623b-98d5-7f83-b6aa" name="Erwin Prentzel" hidden="false" typeId="cf4c-c1c0-f411-bdbe" typeName="Upgrade: Ammo">
           <characteristics>
             <characteristic name="Ability" typeId="804d-13f2-a6cb-951f">Germany, Tank without Assalt Gun
-Snap Shot: +2 Initiative during the Shooting Phase
+Snap Shot: Tank Without Assault Gun
++2 Initiative during the Shooting Phase
 Concealment: +1 Survivability while in Cover</characteristic>
           </characteristics>
         </profile>
@@ -16290,7 +16292,8 @@ Deadeye: Draw 2 Critical Cards for the first Crit scored by this Tank each turn.
         <profile id="2f8f-0026-8d2b-91c7" name="Tony Meacham" hidden="false" typeId="4113-3131-ac4d-4172" typeName="Upgrade: Crew">
           <characteristics>
             <characteristic name="Ability" typeId="3bf1-8780-ecde-a191">USA
-Snap Shot: +2 Initiative during the Shooting Phase
+Snap Shot: Tank Without Assault Gun
++2 Initiative during the Shooting Phase
 Concealment:  +1 Survivability while in Cover</characteristic>
           </characteristics>
         </profile>
@@ -16434,7 +16437,8 @@ Sound Detection:  +1 Survivability when defending against a SPG</characteristic>
         <profile id="bb98-92a4-c1e2-4729" name="Maria Boyko" hidden="false" typeId="cf4c-c1c0-f411-bdbe" typeName="Upgrade: Ammo">
           <characteristics>
             <characteristic name="Ability" typeId="804d-13f2-a6cb-951f">USSR
-Snap Shot: +2 Initiative during the Shooting Phase
+Snap Shot: Tank Without Assault Gun
++2 Initiative during the Shooting Phase
 Repair:  This Tank may attempt to Repair an additional Critical Card each turn</characteristic>
           </characteristics>
         </profile>
@@ -16542,7 +16546,8 @@ Repair:  This Tank may attempt to Repair an additional Critical Card each turn</
         <profile id="64ed-0aa3-e44a-615a" name="Greta Irrgang" hidden="false" typeId="cf4c-c1c0-f411-bdbe" typeName="Upgrade: Ammo">
           <characteristics>
             <characteristic name="Ability" typeId="804d-13f2-a6cb-951f">Germany, Tank without Assalt Gun
-Snap Shot: +2 Initiative during the Shooting Phase
+Snap Shot: Tank Without Assault Gun
++2 Initiative during the Shooting Phase
 Repair: This Tank may attempt to Repair an additional Critical Card each turn</characteristic>
           </characteristics>
         </profile>
