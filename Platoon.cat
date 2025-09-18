@@ -114,7 +114,6 @@
               <entryLinks>
                 <entryLink id="4ffb-a817-4e85-5997" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="5962-c25f-3527-39f1" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="1a77-6372-24c7-d97b" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                     <entryLink id="06c6-e31f-36bd-9890" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
                     <entryLink id="65bc-b07c-5056-979c" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
@@ -351,7 +350,6 @@
               <entryLinks>
                 <entryLink id="ae3b-8463-5fd8-8a6f" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="2e00-e922-3ed6-b761" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="a72d-589d-14b3-23e8" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="bc47-9af6-6829-9f90" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="e1f0-05d8-be59-1c97" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -558,7 +556,6 @@
               <entryLinks>
                 <entryLink id="a8e7-fa8c-e095-758d" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="cee7-ffa8-c991-52b8" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="fffc-f750-db80-8203" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="42a4-3bbb-9769-67e5" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="aa24-9b0b-671e-363b" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -724,7 +721,6 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="11.0"/>
                       </costs>
                     </entryLink>
-                    <entryLink id="5be8-428c-5b8e-dadd" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="0235-0647-a1f2-4a0e" name="Maria Boyko" hidden="false" collective="false" import="true" targetId="3b64-a99e-d01c-5c20" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="4.0"/>
@@ -863,7 +859,6 @@
               <entryLinks>
                 <entryLink id="2bca-8494-13c9-4b0d" name="Commander/Gunner/Radio Operator" hidden="false" collective="false" import="true" targetId="aaa4-a233-794c-2bb3" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="da95-9de2-9488-3a67" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="3a2b-97ae-952d-3ff7" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                     <entryLink id="c147-81cc-b33e-ed1f" name="Aaron Meyrick" hidden="false" collective="false" import="true" targetId="6b92-b46e-a7cf-1da9" type="selectionEntry"/>
                     <entryLink id="364f-79d4-3dbd-9b4b" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
@@ -1136,7 +1131,6 @@
               <entryLinks>
                 <entryLink id="1c3c-f4d2-5c31-7b5b" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="f2c3-9ec0-2213-b8db" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="f09f-ba81-b901-a910" name="Andrey Habibulin" hidden="false" collective="false" import="true" targetId="e9ae-599f-7c74-816b" type="selectionEntry"/>
                     <entryLink id="5e5d-5e42-4b49-d195" name="Ivan Revinskiy" hidden="false" collective="false" import="true" targetId="97c2-7d08-4ebf-38ba" type="selectionEntry">
                       <costs>
@@ -1700,7 +1694,6 @@
               <entryLinks>
                 <entryLink id="2a1b-14aa-64b7-36bf" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="36a7-0b51-6983-5709" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="4489-5ab2-77f3-077d" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="b56e-3ec4-08cc-80c0" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="c69f-c826-d805-f486" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -1902,7 +1895,6 @@
               <entryLinks>
                 <entryLink id="2dc2-5d97-3f9c-e3d4" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="9a9f-8e1d-640a-8cf2" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="3498-e6ad-b8f0-2bbe" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="e502-106b-af4f-c818" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="c397-4370-08aa-bdd1" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -2123,7 +2115,6 @@
               <entryLinks>
                 <entryLink id="208c-0beb-89b5-72b3" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="c1fb-f4ed-0c7e-62d5" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="be34-6d30-4ffd-fbec" name="Andrey Habibulin" hidden="false" collective="false" import="true" targetId="e9ae-599f-7c74-816b" type="selectionEntry"/>
                     <entryLink id="38c3-ba14-6641-42ba" name="Ivan Revinskiy" hidden="false" collective="false" import="true" targetId="97c2-7d08-4ebf-38ba" type="selectionEntry">
                       <costs>
@@ -2268,7 +2259,6 @@
               <entryLinks>
                 <entryLink id="5bc0-a943-f7e1-b7e6" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="d715-76d7-4380-846f" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="413d-48c4-5f99-7044" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                     <entryLink id="0850-f34d-f038-7307" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
                     <entryLink id="225d-ad3a-8c1a-7918" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
@@ -2491,7 +2481,6 @@
               <entryLinks>
                 <entryLink id="35c8-70d4-ea0c-843b" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="ed64-3a2c-845c-aa46" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="aa20-4840-b647-cb76" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="0184-3e08-b45b-16fa" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="21bd-50d4-63b0-82b9" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -2662,7 +2651,6 @@
                 <entryLink id="32c8-392e-7ca7-3758" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="56ba-756b-9003-0331" name="Andrey Habibulin" hidden="false" collective="false" import="true" targetId="e9ae-599f-7c74-816b" type="selectionEntry"/>
-                    <entryLink id="7751-528f-0a43-619c" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="1bb7-c7cc-feb6-1a47" name="Ivan Revinskiy" hidden="false" collective="false" import="true" targetId="97c2-7d08-4ebf-38ba" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="11.0"/>
@@ -2826,7 +2814,6 @@
               <entryLinks>
                 <entryLink id="7c05-61eb-04c7-f1df" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="edb8-732b-204b-fe5b" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="87b4-2742-cbd6-a50b" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="bd94-5757-fefb-b4e0" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="e384-e1f8-f153-f3e1" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -3060,7 +3047,6 @@
               <entryLinks>
                 <entryLink id="6509-cd72-7f5b-c90f" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="5cb1-182f-6df2-b7bc" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="5460-c311-28bb-a5ed" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="43c0-ccb3-887f-6137" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="4b6a-712a-8f5f-c281" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -3211,7 +3197,6 @@
               <entryLinks>
                 <entryLink id="5508-c22c-1e8d-a27c" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="ad93-b618-c720-df0b" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="6fa9-28bd-795f-d066" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
                     <entryLink id="dc84-75a0-42dd-dd91" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                     <entryLink id="ef78-b24a-7054-4b09" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
@@ -3423,7 +3408,6 @@
                 <entryLink id="4cf9-3a82-a3c0-86b4" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="bd7d-7690-5905-62cf" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
-                    <entryLink id="77d7-bd20-1e1a-65b8" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="2347-bdc0-868b-24ca" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="29f8-e67e-d70f-5637" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
                       <costs>
@@ -3893,7 +3877,6 @@
                   <entryLinks>
                     <entryLink id="61c4-1e7d-6c32-a664" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
                     <entryLink id="ae7a-861d-8f8c-9ef7" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
-                    <entryLink id="7725-f892-aea5-fd9b" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="553c-0700-bc8f-f5f2" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="4.0"/>
@@ -3921,7 +3904,6 @@
                   <entryLinks>
                     <entryLink id="269d-0857-4e34-7543" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
                     <entryLink id="e5f7-3327-dd5c-b312" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
-                    <entryLink id="3f65-e215-c6da-4c9c" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="5c76-c5d3-c3ea-42ce" name="Adrian Daughtry" hidden="false" collective="false" import="true" targetId="dd92-bb81-97f5-3e8f" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="8.0"/>
@@ -4043,7 +4025,6 @@
                     <entryLink id="253a-ebb2-36a3-5d3b" name="Makar Ushakov" hidden="false" collective="false" import="true" targetId="5f0f-d074-d886-99b0" type="selectionEntry"/>
                     <entryLink id="d8ca-7089-ccf2-81c2" name="Yaroslav Abdulov" hidden="false" collective="false" import="true" targetId="713f-37ba-b673-ca3f" type="selectionEntry"/>
                     <entryLink id="867c-578b-bd41-ce98" name="Andrey Habibulin" hidden="false" collective="false" import="true" targetId="e9ae-599f-7c74-816b" type="selectionEntry"/>
-                    <entryLink id="de4a-b74b-0055-9f2d" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="203d-378d-facf-ed7a" name="Mikhail Travkin" hidden="false" collective="false" import="true" targetId="9fbe-1eb2-6744-c89c" type="selectionEntry"/>
                     <entryLink id="d3e8-eb3e-5217-5573" name="Timur Troshin" hidden="false" collective="false" import="true" targetId="0ab4-6d93-62f4-07e9" type="selectionEntry"/>
                     <entryLink id="89e4-1333-396f-3034" name="Sergey Merinov" hidden="false" collective="false" import="true" targetId="fb56-abd3-1f3b-3901" type="selectionEntry"/>
@@ -4218,7 +4199,6 @@
               <entryLinks>
                 <entryLink id="d4dd-447b-0803-8f29" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="5331-34fd-a4cd-f08d" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="8f97-53a1-f139-d7ea" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="2432-ffc7-886c-c5b0" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="8826-b07c-044d-7ddf" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -4383,7 +4363,6 @@
                     <entryLink id="b9ab-14aa-a310-17cc" name="Malcolm Pride" hidden="false" collective="false" import="true" targetId="7306-2163-ecb6-66a8" type="selectionEntry"/>
                     <entryLink id="5efd-a03a-132c-51c2" name="Philip Young" hidden="false" collective="false" import="true" targetId="2219-1c6b-4b55-f030" type="selectionEntry"/>
                     <entryLink id="3a7d-a5e2-5e68-dc94" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
-                    <entryLink id="c5fe-6eaf-b18d-644d" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="18fe-c8f6-9018-6042" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                     <entryLink id="ec06-c181-d00e-d101" name="Craig Maddocks" hidden="false" collective="false" import="true" targetId="329f-c9f6-3ab9-a20c" type="selectionEntry"/>
                     <entryLink id="25aa-edda-ee06-4434" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
@@ -4550,7 +4529,6 @@
                 <entryLink id="0c68-33f7-aba3-cb71" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="d0fe-d200-f1e5-4404" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
-                    <entryLink id="03ba-510b-fb0e-9b34" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="c6ea-2fa5-05c8-2de1" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="16c3-a960-f20f-5885" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
                       <costs>
@@ -4803,7 +4781,6 @@
                 <entryLink id="9e53-7bd8-6ca8-811a" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="29ce-1c36-208d-524a" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
-                    <entryLink id="08c0-7489-6df4-d90c" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="ca62-ae6c-a769-3e96" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="957c-f57c-65ab-d7e1" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
                       <costs>
@@ -5138,7 +5115,6 @@
                 <entryLink id="6a94-4e3a-35ad-5e5c" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="2306-c2fe-c8b8-6319" name="Andrey Habibulin" hidden="false" collective="false" import="true" targetId="e9ae-599f-7c74-816b" type="selectionEntry"/>
-                    <entryLink id="19a1-6017-74eb-933a" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="303d-8311-c20c-9594" name="Ivan Revinskiy" hidden="false" collective="false" import="true" targetId="97c2-7d08-4ebf-38ba" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="11.0"/>
@@ -5409,7 +5385,6 @@
               <entryLinks>
                 <entryLink id="edf1-66c6-46b5-30e6" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="bf1e-9d68-3a3c-2af7" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="af82-e186-c984-ae44" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="2696-9e7e-0981-8d02" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="2e2d-1a18-41e4-2cde" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -6603,7 +6578,6 @@
               <entryLinks>
                 <entryLink id="308e-d5f3-8d60-0ff2" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="6375-a1f2-e4c7-a5c8" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="27aa-c880-adc2-5173" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="4085-f8e1-c271-5897" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="6f6d-b5b8-76ac-08be" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -6839,7 +6813,6 @@
                   <entryLinks>
                     <entryLink id="5e20-a726-1e6e-0d71" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                     <entryLink id="b593-e477-a812-c7bf" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
-                    <entryLink id="19f5-c41b-92ba-9187" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="787e-9fd4-a757-a3ac" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="4.0"/>
@@ -7077,7 +7050,6 @@
               <entryLinks>
                 <entryLink id="aeaf-c3ff-1525-42a2" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="b096-6534-d0eb-7559" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="285b-8dc9-87c7-f3ba" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="f946-859b-bbf4-0a6f" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="6afa-272e-7992-6147" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -7291,7 +7263,6 @@
               <entryLinks>
                 <entryLink id="a1da-053e-e827-8cb3" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="c050-fc4e-5a9b-7245" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="a220-3178-cafa-3244" name="Andrey Habibulin" hidden="false" collective="false" import="true" targetId="e9ae-599f-7c74-816b" type="selectionEntry"/>
                     <entryLink id="8257-316b-863c-ed34" name="Ivan Revinskiy" hidden="false" collective="false" import="true" targetId="97c2-7d08-4ebf-38ba" type="selectionEntry">
                       <costs>
@@ -7471,7 +7442,6 @@
               <entryLinks>
                 <entryLink id="9c6e-f53b-af0f-db95" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="7db0-f2c2-65c9-f6a0" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="e0f0-6af7-f269-2c0d" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="468e-f09b-993b-de3f" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="7feb-1107-4fb2-89b1" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -7617,7 +7587,6 @@
               <entryLinks>
                 <entryLink id="f864-3830-e1ff-9823" name="Commander/Gunner" hidden="false" collective="false" import="true" targetId="c883-55ed-7a92-4129" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="695a-139b-20b3-8f9d" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="154f-b189-fdec-d18b" name="Damir Nelrasov" hidden="false" collective="false" import="true" targetId="632a-9df2-e1f3-2444" type="selectionEntry"/>
                     <entryLink id="4496-27a9-4049-a477" name="Nikita Ovsyanniko" hidden="false" collective="false" import="true" targetId="1390-6a3f-d709-d3c9" type="selectionEntry"/>
                     <entryLink id="3fd2-44fc-a90d-7256" name="Ekaterina Petlyuk" hidden="false" collective="false" import="true" targetId="e818-51bd-1fbd-dbfb" type="selectionEntry">
@@ -7879,7 +7848,6 @@
                   <entryLinks>
                     <entryLink id="8cc0-1200-0b6d-1817" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
                     <entryLink id="805a-b3c3-58ae-725d" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
-                    <entryLink id="bdbb-e33b-cc06-e9bd" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="c69b-93e4-7be8-04e3" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="4.0"/>
@@ -8030,7 +7998,6 @@
               <entryLinks>
                 <entryLink id="f2d3-1bb7-604f-8b3d" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="719d-7295-6fa1-4a18" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="be86-1555-2247-6ea1" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="1e78-1526-d640-1fe1" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="c074-6c55-23af-9831" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -8209,7 +8176,6 @@
               <entryLinks>
                 <entryLink id="c391-2040-1871-2be0" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="237e-cb1f-4525-91b1" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="a3fc-70b2-b24e-73db" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                     <entryLink id="ac7a-07ee-5b73-5044" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
                     <entryLink id="9c98-5099-8cc1-ecc3" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
@@ -8491,7 +8457,6 @@
               <entryLinks>
                 <entryLink id="5fa6-75da-1c16-bf6c" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="de54-07c6-b963-ec20" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="9f9c-0f78-e9ab-822f" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="c0f1-1a6c-f427-5ddc" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="29f9-1087-a675-a724" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -8697,7 +8662,6 @@
                 <entryLink id="2e7d-0ccd-924d-c98c" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="11e2-7819-f76e-22ea" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
-                    <entryLink id="38e0-314f-188f-6dc0" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="0ee5-e3d7-8f5d-0e38" name="Ivan Revinskiy" hidden="false" collective="false" import="true" targetId="97c2-7d08-4ebf-38ba" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="11.0"/>
@@ -8872,7 +8836,6 @@
                 <entryLink id="5508-28c4-8474-c106" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="1dbe-b69f-2bd5-5e36" name="Andrey Habibulin" hidden="false" collective="false" import="true" targetId="e9ae-599f-7c74-816b" type="selectionEntry"/>
-                    <entryLink id="b037-caf4-60d9-bed0" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -9131,7 +9094,6 @@
               <entryLinks>
                 <entryLink id="a39a-e439-7585-afa9" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="f0f6-15d8-1817-863b" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="6ef1-57b1-4251-aded" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="a6cb-af89-0508-ab9c" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="7f6d-bf93-1faf-8fbc" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -9507,7 +9469,6 @@
               <entryLinks>
                 <entryLink id="5aba-2da8-08ea-b06a" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="4817-846f-9f60-9ea3" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="ebb2-c684-9170-9a7f" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="ea05-9af6-3822-fb31" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="d9c8-2343-5b92-bcc5" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -9708,7 +9669,6 @@
                   <entryLinks>
                     <entryLink id="d464-a8d2-89ea-da2a" name="Damir Nelrasov" hidden="false" collective="false" import="true" targetId="632a-9df2-e1f3-2444" type="selectionEntry"/>
                     <entryLink id="c66b-d56d-e0bd-d638" name="Nikita Ovsyanniko" hidden="false" collective="false" import="true" targetId="1390-6a3f-d709-d3c9" type="selectionEntry"/>
-                    <entryLink id="177f-28f2-6d78-97b1" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="9b61-9ab4-3aee-224c" name="Leon Khokhlov" hidden="false" collective="false" import="true" targetId="6a26-a26b-5f6a-6eee" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="6.0"/>
@@ -9772,7 +9732,6 @@
                 <entryLink id="171c-4e46-ab53-dfab" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="e04b-ddcc-2d10-a9fa" name="Andrey Habibulin" hidden="false" collective="false" import="true" targetId="e9ae-599f-7c74-816b" type="selectionEntry"/>
-                    <entryLink id="4ad9-db01-6a85-22e5" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="1040-b0c8-b81c-2ea7" name="Ivan Revinskiy" hidden="false" collective="false" import="true" targetId="97c2-7d08-4ebf-38ba" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="11.0"/>
@@ -9916,7 +9875,6 @@
               <entryLinks>
                 <entryLink id="7866-74c1-a16f-9979" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="c731-0d1d-1632-7950" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="bd87-1812-8db0-3bfe" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="6d8c-b7eb-8190-b49a" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="0898-3639-5b3d-541f" name="Greta Irrgang" hidden="false" collective="false" import="true" targetId="e054-1e50-845a-2bc0" type="selectionEntry">
@@ -10190,7 +10148,6 @@
                       </costs>
                     </entryLink>
                     <entryLink id="8d91-ee10-6e96-2f99" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
-                    <entryLink id="492e-6f0d-49a4-8ee9" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="40fb-86ce-08d3-4307" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
@@ -10336,7 +10293,6 @@
               <entryLinks>
                 <entryLink id="b00b-cb0c-89ba-c48c" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="1109-ab27-f2de-d4b0" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="ff1f-b9fd-f8b1-1b7d" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="0f03-c9a6-e1b2-c2d6" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="e6b0-0840-8359-22b5" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -10556,7 +10512,6 @@
               <entryLinks>
                 <entryLink id="b20a-7231-8586-ad5b" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="b709-06ac-8963-a0b8" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="8f0f-8d76-885f-fd4a" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="38d8-1dd2-e2f3-51d7" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="be43-d1f9-1b03-4215" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -10734,7 +10689,6 @@
                 <entryLink id="1d06-cb8a-81a4-54cc" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="b4b1-a8eb-f2a0-820d" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
-                    <entryLink id="c075-0375-d9a1-988b" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="4eed-06dd-5f5d-1154" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="929a-9fcd-ab95-6afe" name="Ivan Revinskiy" hidden="false" collective="false" import="true" targetId="97c2-7d08-4ebf-38ba" type="selectionEntry">
                       <costs>
@@ -10936,7 +10890,6 @@
               <entryLinks>
                 <entryLink id="d953-aa43-e538-594d" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="3dbf-de14-529d-c208" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="53de-df3b-97b9-ea24" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="dd5d-0634-7186-4804" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="35e3-54de-73af-04fb" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -11168,7 +11121,6 @@
                   <entryLinks>
                     <entryLink id="d123-7c60-9151-3879" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                     <entryLink id="ef1a-56ac-0e2a-43d5" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
-                    <entryLink id="9010-9b80-73fa-a90e" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="df40-013e-a2eb-aa96" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="4.0"/>
@@ -11353,7 +11305,6 @@
                 <entryLink id="054b-dab6-8bf0-390e" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="c1a5-5513-8ef3-a6d6" name="Andrey Habibulin" hidden="false" collective="false" import="true" targetId="e9ae-599f-7c74-816b" type="selectionEntry"/>
-                    <entryLink id="9823-ed14-293a-467f" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="3bc3-df61-5a99-9a58" name="Ivan Revinskiy" hidden="false" collective="false" import="true" targetId="97c2-7d08-4ebf-38ba" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="11.0"/>
@@ -11591,7 +11542,6 @@
               <entryLinks>
                 <entryLink id="8f8d-bb18-8400-5155" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="5d5e-fcb5-4546-d74b" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="8bce-95d5-cb7a-1ca0" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="deb7-2807-7be2-fa7e" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="bbdb-723b-26b7-ce50" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -11780,7 +11730,6 @@
               <entryLinks>
                 <entryLink id="6df8-b1b3-0f93-c71a" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="06d3-14cc-5e62-4b70" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="a223-03a6-6148-d56f" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="82cb-9b9e-84b7-89cb" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="d89b-5c40-46d7-de36" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -11913,7 +11862,6 @@
               <entryLinks>
                 <entryLink id="28fb-23ca-7e29-3024" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="e30d-00fc-afb0-f326" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="8aa0-358b-4896-7e9a" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="9484-787d-5d2c-3149" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="c896-3e1e-cc2c-68d5" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -12167,7 +12115,6 @@
                   <entryLinks>
                     <entryLink id="c253-1cf3-9c33-0891" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
                     <entryLink id="3020-82fa-f357-29bf" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
-                    <entryLink id="f7e8-0dc7-c92c-8f6c" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="b95f-4caf-8e27-e2e6" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="4.0"/>
@@ -12352,7 +12299,6 @@
                   <entryLinks>
                     <entryLink id="e12b-3b40-fcf9-bebf" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                     <entryLink id="9700-6cc4-6371-eb3c" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
-                    <entryLink id="29e2-b649-b321-2319" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="e247-2978-4b5e-50d4" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="4.0"/>
@@ -12566,7 +12512,6 @@
               <entryLinks>
                 <entryLink id="739f-c7fb-f37e-56c8" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="6250-5a65-eea4-8135" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="065b-ee13-3f14-bde7" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="6746-2f07-6b1e-c808" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="0ed4-f791-4cf1-0425" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -12699,7 +12644,6 @@
               <entryLinks>
                 <entryLink id="d703-27a1-8a0e-4e5f" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="8e08-f7cf-5d41-2b11" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="8d9f-3517-c806-2f0a" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="d6a4-0ad1-4ba3-cab5" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="1cb8-f5cb-e634-824f" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -12895,7 +12839,6 @@
                 <entryLink id="9141-867f-d31c-6212" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="e4a3-4081-dab7-f678" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
-                    <entryLink id="b230-e5c5-b217-e68b" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="15c9-7ac1-9112-d0dc" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="957b-612a-6e84-dd57" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
                       <costs>
@@ -13044,7 +12987,6 @@
               <entryLinks>
                 <entryLink id="3a18-5847-0e4e-184c" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="24d3-1551-99ba-eef4" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="0b8a-7d84-01d4-95cb" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                     <entryLink id="f81e-1c4d-2418-f8ab" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
                     <entryLink id="be78-279e-0ba9-fbb1" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
@@ -13292,7 +13234,6 @@
               <entryLinks>
                 <entryLink id="7ffd-b34c-1151-0942" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="5e8d-fcb4-fc75-9e65" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="ab03-d475-2134-2ebd" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="7f84-011c-5f8a-9321" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="3a9d-4d55-a559-3fad" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -13451,7 +13392,6 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="11.0"/>
                       </costs>
                     </entryLink>
-                    <entryLink id="9b28-c9f3-4189-9897" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="782c-5114-5222-74b8" name="Maria Boyko" hidden="false" collective="false" import="true" targetId="3b64-a99e-d01c-5c20" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="4.0"/>
