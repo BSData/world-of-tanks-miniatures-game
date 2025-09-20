@@ -16364,7 +16364,7 @@ High Explosive: Discard all Hits before Assessing Damage</characteristic>
       <profiles>
         <profile id="8e1b-991a-8416-aa98" name="10.5cm Stu.H. 42 L/28" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">StuG III Ausf. G, Jagdpanzer (38)T Hetzer
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">StuG III Ausf. G, Jagdpanzer 38(T) Hetzer
 +2 Firepower
 High Explosive: Discard all Hits before Assessing Damage</characteristic>
           </characteristics>
