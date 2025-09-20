@@ -16128,7 +16128,7 @@ Light Flank</characteristic>
       <profiles>
         <profile id="bf22-3dd8-1695-07d1" name="OQF 17-PDR AT Gun Mk.VII (Archer)" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Challenger
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Archer
 +1 Firepower</characteristic>
           </characteristics>
         </profile>
