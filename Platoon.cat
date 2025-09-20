@@ -8789,11 +8789,7 @@
             </entryLink>
             <entryLink id="364c-2536-15d1-1aac" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup"/>
             <entryLink id="d69e-d0d4-4354-21ee" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
-            <entryLink id="3b31-af86-9426-4f59" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
-              <entryLinks>
-                <entryLink id="9563-bd80-b8fb-51b1" name="122mm U-11" hidden="false" collective="false" import="true" targetId="ce5e-71cc-7247-c069" type="selectionEntry"/>
-              </entryLinks>
-            </entryLink>
+            <entryLink id="3b31-af86-9426-4f59" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup"/>
             <entryLink id="0e9f-d974-5e89-cd7b" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
           </entryLinks>
         </selectionEntryGroup>
