@@ -6682,7 +6682,7 @@
     <selectionEntry id="549e-6d04-344e-d7a4" name="Charioteer" hidden="false" collective="false" import="true" type="unit">
       <comment>UK</comment>
       <profiles>
-        <profile id="e7fa-ff42-6597-c6e2" name="Challenger" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
+        <profile id="e7fa-ff42-6597-c6e2" name="Charioteer" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
           <characteristics>
             <characteristic name="Firepower" typeId="b897-8eda-69fb-5976">6</characteristic>
             <characteristic name="Survivability" typeId="3ad1-d67f-867f-b8d3">0</characteristic>
