@@ -14945,14 +14945,14 @@ Repair: This Tank may attempt to Repair an additional Critical Card each turn</c
       </costs>
     </selectionEntry>
     <selectionEntry id="0690-71b9-bc45-4d18" name="Wright-Continental R-975C4" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>M4A1, M4A1(76mm), M18 Hellcat</comment>
+      <comment>M4A1 Sherman, M4A1 Sherman (76mm), M7 Priest, M18 Hellcat</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="65ea-1066-13d2-a463" type="max"/>
       </constraints>
       <profiles>
         <profile id="26fd-9b4a-3bc6-8321" name="Wright-Continental R-975C4" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">M4A1, M4A1(76mm), M7 Priest, M18 Hellcat
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">M4A1 Sherman, M4A1 Sherman (76mm), M7 Priest, M18 Hellcat
 +2 Initiative during the Movement Phase</characteristic>
           </characteristics>
         </profile>
