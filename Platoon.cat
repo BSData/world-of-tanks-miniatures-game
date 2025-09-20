@@ -14473,14 +14473,14 @@ Firefighting: Re-roll a failed Repair roll when Repairing an Engine Fire Critica
       </costs>
     </selectionEntry>
     <selectionEntry id="57b6-deb3-9a4b-2d9f" name="5cm KW.K 39 L/60" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Pz.Kpfw III Ausf. J</comment>
+      <comment>Pz.Kpfw. III Ausf. J</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="20a3-db52-cde6-3b99" type="max"/>
       </constraints>
       <profiles>
         <profile id="6537-97d2-2239-a946" name="5cm KW.K 39 L/60" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Pz.Kpfw III Ausf. J
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Pz.Kpfw. III Ausf. J
 +1 Firepower</characteristic>
           </characteristics>
         </profile>
