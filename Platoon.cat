@@ -15261,14 +15261,14 @@ High Explosive: Discard all Hits before assessing damage</characteristic>
       </costs>
     </selectionEntry>
     <selectionEntry id="20ac-3d07-87d5-fce9" name="WS. NO. 19 Mk. III" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Cromwell, Crusader, Churchill VII, Sexton, Valentine</comment>
+      <comment>Cromwell, Crusader, Churchill VII, Sexton II, Valentine</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="06ed-ae5b-63ab-8ca1" type="max"/>
       </constraints>
       <profiles>
         <profile id="63c6-5e20-24e6-474e" name="WS. NO. 19 Mk. III" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Cromwell, Crusader, Churchill VII, Sexton, Valentine
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Cromwell, Crusader, Churchill VII, Sexton II, Valentine
 +1 Initiative</characteristic>
           </characteristics>
         </profile>
