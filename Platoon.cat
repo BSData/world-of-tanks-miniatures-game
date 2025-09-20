@@ -15711,14 +15711,14 @@ Intuition: At the beginning of the Shooting Phase, discard an Ammo upgrade card 
       </costs>
     </selectionEntry>
     <selectionEntry id="a086-dc52-8910-102b" name="57mm ZIS-2" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>SU-76m</comment>
+      <comment>SU-76M</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9437-5279-9903-bde8" type="max"/>
       </constraints>
       <profiles>
         <profile id="59f3-c76e-e921-d400" name="57mm ZIS-2" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">SU-76m
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">SU-76M
 + 2 Initiative 
 Gains Arrow Shot</characteristic>
           </characteristics>
