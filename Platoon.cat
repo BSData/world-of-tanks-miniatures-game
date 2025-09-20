@@ -6716,11 +6716,6 @@
             <entryLink id="d3b6-0a86-c83f-104f" name="Turret" hidden="false" collective="false" import="true" targetId="e853-1c72-203d-0755" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="4002-d449-bbbc-3664" name="Improved Turret" hidden="false" collective="false" import="true" targetId="572f-08a6-baa7-05e3" type="selectionEntry"/>
-                <entryLink id="be90-2176-27b6-fd12" name="Conqueror MK. II ABP" hidden="false" collective="false" import="true" targetId="4f9f-7a58-48a5-f420" type="selectionEntry">
-                  <costs>
-                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="5.0"/>
-                  </costs>
-                </entryLink>
               </entryLinks>
             </entryLink>
             <entryLink id="a01b-381e-41e1-e55d" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
@@ -11951,19 +11946,19 @@
     <selectionEntry id="c90a-1ba9-b78e-7463" name="Conqueror" hidden="false" collective="false" import="true" type="unit">
       <comment>UK</comment>
       <profiles>
-        <profile id="8f2c-d2c9-a547-cdb8" name="Churchill VII" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
+        <profile id="8f2c-d2c9-a547-cdb8" name="Conqueror" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
           <characteristics>
-            <characteristic name="Firepower" typeId="b897-8eda-69fb-5976">4</characteristic>
-            <characteristic name="Survivability" typeId="3ad1-d67f-867f-b8d3">3</characteristic>
-            <characteristic name="Mobility" typeId="6cdd-1e26-6533-d04e">1</characteristic>
+            <characteristic name="Firepower" typeId="b897-8eda-69fb-5976">6</characteristic>
+            <characteristic name="Survivability" typeId="3ad1-d67f-867f-b8d3">4</characteristic>
+            <characteristic name="Mobility" typeId="6cdd-1e26-6533-d04e">2</characteristic>
             <characteristic name="Initiative" typeId="d714-1b14-ad79-eaa2">5</characteristic>
-            <characteristic name="Hit Points" typeId="cfb3-634e-3297-9f2e">6</characteristic>
+            <characteristic name="Hit Points" typeId="cfb3-634e-3297-9f2e">9</characteristic>
             <characteristic name="Type" typeId="8a22-e966-5551-829d">Heavy Tank</characteristic>
-            <characteristic name="Tier" typeId="4ff3-83a0-a830-f535">VI</characteristic>
+            <characteristic name="Tier" typeId="4ff3-83a0-a830-f535">XV</characteristic>
             <characteristic name="Nationality" typeId="18c0-3016-3607-6aaf">UK</characteristic>
           </characteristics>
         </profile>
-        <profile id="ed8f-204f-8e54-876c" name="Churchill VII" hidden="false" typeId="dac0-ea5a-2478-e6a4" typeName="Hit Points">
+        <profile id="ed8f-204f-8e54-876c" name="Conqueror" hidden="false" typeId="dac0-ea5a-2478-e6a4" typeName="Hit Points">
           <characteristics>
             <characteristic name="Red" typeId="5aea-aba5-33fd-a449">O</characteristic>
             <characteristic name="Orange" typeId="a878-0b58-276c-d021">O</characteristic>
@@ -11985,20 +11980,16 @@
             <entryLink id="2fcd-1c78-6917-f074" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup"/>
             <entryLink id="424b-fccf-59ce-0d28" name="Turret" hidden="false" collective="false" import="true" targetId="e853-1c72-203d-0755" type="selectionEntryGroup">
               <entryLinks>
-                <entryLink id="50de-fc48-5168-d547" name="Churchill IV" hidden="false" collective="false" import="true" targetId="4764-037c-9df3-6146" type="selectionEntry"/>
                 <entryLink id="e1e9-787e-3d73-ef7b" name="Improved Turret" hidden="false" collective="false" import="true" targetId="572f-08a6-baa7-05e3" type="selectionEntry"/>
-              </entryLinks>
-            </entryLink>
-            <entryLink id="446f-7d96-401a-13ea" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
-            <entryLink id="2117-e424-a217-276b" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
-              <entryLinks>
-                <entryLink id="f163-51fb-cec8-9271" name="120MM Gun L1A1" hidden="false" collective="false" import="true" targetId="2392-d061-dc0a-7ebe" type="selectionEntry">
+                <entryLink id="be90-2176-27b6-fd12" name="Conqueror MK. II ABP" hidden="false" collective="false" import="true" targetId="4f9f-7a58-48a5-f420" type="selectionEntry">
                   <costs>
-                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="19.0"/>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="5.0"/>
                   </costs>
                 </entryLink>
               </entryLinks>
             </entryLink>
+            <entryLink id="446f-7d96-401a-13ea" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
+            <entryLink id="2117-e424-a217-276b" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup"/>
             <entryLink id="fe9e-4b69-e002-63a5" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="2211-7f2e-d13d-a02a" name="WS. NO. 19 Mk. III" hidden="false" collective="false" import="true" targetId="20ac-3d07-87d5-fce9" type="selectionEntry">
@@ -16704,7 +16695,7 @@ Concealment: +1 while in Cover</characteristic>
       <profiles>
         <profile id="9be0-a132-3d0b-9f47" name="Conqueror MK. II ABP" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Challenger
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Conqueror
 +1 Green Hit Points</characteristic>
           </characteristics>
         </profile>
