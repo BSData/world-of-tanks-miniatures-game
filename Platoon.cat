@@ -8573,11 +8573,7 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="8247-b35f-92ac-f532" name="Modules" hidden="false" collective="false" import="true">
           <entryLinks>
-            <entryLink id="b366-af72-428d-1ea5" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup">
-              <entryLinks>
-                <entryLink id="fe05-6d3c-8130-6a52" name="Maybach HL 230 TRM P45" hidden="false" collective="false" import="true" targetId="c4b6-b8e8-96d2-15c2" type="selectionEntry"/>
-              </entryLinks>
-            </entryLink>
+            <entryLink id="b366-af72-428d-1ea5" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup"/>
             <entryLink id="f38d-f0f7-bb87-423b" name="Turret" hidden="false" collective="false" import="true" targetId="e853-1c72-203d-0755" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="82eb-61c5-80ee-4936" name="Improved Turret" hidden="false" collective="false" import="true" targetId="572f-08a6-baa7-05e3" type="selectionEntry"/>
