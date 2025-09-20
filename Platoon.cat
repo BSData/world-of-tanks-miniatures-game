@@ -11985,7 +11985,15 @@
               </entryLinks>
             </entryLink>
             <entryLink id="446f-7d96-401a-13ea" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
-            <entryLink id="2117-e424-a217-276b" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup"/>
+            <entryLink id="2117-e424-a217-276b" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="f163-51fb-cec8-9171" name="120MM Gun L1A1" hidden="false" collective="false" import="true" targetId="2392-d061-dc0a-7ebe" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="19.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
             <entryLink id="fe9e-4b69-e002-63a5" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
           </entryLinks>
         </selectionEntryGroup>
