@@ -15763,9 +15763,9 @@ Light Tank, Medium Tank, Heavy Tank: +2 during the shooting Phase</characteristi
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0fe4-d681-083e-11c4" type="max"/>
       </constraints>
       <profiles>
-        <profile id="24c2-0334-97bf-f116" name="Maybach HL 230 TRM P45" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
+        <profile id="24c2-0334-97bf-f116" name="Maybach HL 210 TRM P30" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Panther, Jagdpather, Jagdtiger
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Panther, Jagdpanther, Jagdtiger
 +1 Initiative during the Movement Phase</characteristic>
           </characteristics>
         </profile>
