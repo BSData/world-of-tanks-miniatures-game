@@ -15050,14 +15050,14 @@ Eagle Eye: When Shooting, this Tank may roll one less Attack die, then Modify a 
       </costs>
     </selectionEntry>
     <selectionEntry id="7e8e-ae60-c5e4-5631" name="Tatra Typ 103" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Jagdpanzer(38)T Hetzer</comment>
+      <comment>Jagdpanzer 38(T) Hetzer</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7933-596d-f613-66c6" type="max"/>
       </constraints>
       <profiles>
         <profile id="da24-4c66-9b92-8dc3" name="Tatra Typ 103" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Jagdpanzer(38)T Hetzer
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Jagdpanzer 38(T) Hetzer
 +2 Initiative during the Movement Phase
 Reroll a failed Repair roll when repairing an Engine Fire Critical card.</characteristic>
           </characteristics>
@@ -15384,14 +15384,14 @@ Loses Light Flank</characteristic>
       </costs>
     </selectionEntry>
     <selectionEntry id="71e0-c97b-9216-d549" name="OQF 32-PDR AT Gun Mk.II" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Challenger with Avenger Turret Only</comment>
+      <comment>Challenger (with Avenger Turret Only)</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cac5-d978-3ef4-260b" type="max"/>
       </constraints>
       <profiles>
         <profile id="8d96-a347-6764-393b" name="OQF 32-PDR AT Gun Mk.II" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Challenger with Avenger Turret
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Challenger (with Avenger Turret)
 +1 Firepower</characteristic>
           </characteristics>
         </profile>
