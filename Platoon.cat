@@ -16504,7 +16504,7 @@ Repair:  This Tank may attempt to Repair an additional Critical Card each turn</
       <profiles>
         <profile id="a862-7ecd-74ab-cbcb" name="105mm AT GUN T5E1" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">M4A1 Sherman, M4A3E8 Sherman
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">T95
 -1 Firepower
 +1 Initiative</characteristic>
           </characteristics>
