@@ -1547,10 +1547,10 @@
         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="33.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="fdd1-8751-9b49-cb6c" name="Pz. Kpfw. III Ausf. J" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="fdd1-8751-9b49-cb6c" name="Pz.Kpfw. III Ausf. J" hidden="false" collective="false" import="true" type="unit">
       <comment>German</comment>
       <profiles>
-        <profile id="b582-6a8d-79f4-6995" name="Pz. Kpfw. III Ausf. J" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
+        <profile id="b582-6a8d-79f4-6995" name="Pz.Kpfw. III Ausf. J" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
           <characteristics>
             <characteristic name="Firepower" typeId="b897-8eda-69fb-5976">3</characteristic>
             <characteristic name="Survivability" typeId="3ad1-d67f-867f-b8d3">0</characteristic>
@@ -1562,7 +1562,7 @@
             <characteristic name="Nationality" typeId="18c0-3016-3607-6aaf">Germany</characteristic>
           </characteristics>
         </profile>
-        <profile id="7d06-9a18-c5c3-64ca" name="Pz. Kpfw. III Ausf. J" hidden="false" typeId="dac0-ea5a-2478-e6a4" typeName="Hit Points">
+        <profile id="7d06-9a18-c5c3-64ca" name="Pz.Kpfw. III Ausf. J" hidden="false" typeId="dac0-ea5a-2478-e6a4" typeName="Hit Points">
           <characteristics>
             <characteristic name="Red" typeId="5aea-aba5-33fd-a449">O</characteristic>
             <characteristic name="Orange" typeId="a878-0b58-276c-d021">O</characteristic>
