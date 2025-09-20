@@ -15792,7 +15792,7 @@ Firefighting: Re-roll a failed repair roll when Repairing an Engine fire Critica
       <profiles>
         <profile id="90ee-8d09-ee88-f7f2" name="OQF 17-PDR AT Gun Mk.VII (Centurion)" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Centurion
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Centurion MK. I 
 +1 Firepower</characteristic>
           </characteristics>
         </profile>
@@ -16081,14 +16081,15 @@ Fire Fighting:  Re-roll a failed Repair roll when Repairing an Engine Fire Criti
       </costs>
     </selectionEntry>
     <selectionEntry id="15db-feeb-6a98-5368" name="Centurion MK. III" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Challenger</comment>
+      <comment>Centurion MK. I</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4018-fae0-d0b3-f119" type="max"/>
       </constraints>
       <profiles>
         <profile id="c75f-74b1-7a4f-c430" name="Centurion MK. III" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">+1 Hit Point Green
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Centurion MK. I
++1 Hit Point Green
 +1 Survivability
 Light Flank</characteristic>
           </characteristics>
@@ -16099,14 +16100,14 @@ Light Flank</characteristic>
       </costs>
     </selectionEntry>
     <selectionEntry id="96b0-72c4-243b-5bc7" name="OQF 20-PDR AT Gun Type A Barrel" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Tank with Centurion MK. III Turret Only</comment>
+      <comment>Centurion MK. I</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="24a1-afb9-b056-cb4a" type="max"/>
       </constraints>
       <profiles>
         <profile id="1fe7-6888-efed-fcdc" name="OQF 20-PDR AT Gun Type A Barrel" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Centurion
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Centurion MK. I (with Centurion MK. III Turret Only)
 +1 Firepower
 -1 Initiative</characteristic>
           </characteristics>
