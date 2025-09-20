@@ -15503,14 +15503,14 @@ High Explosive: Discard all Hits before Assessing Damage</characteristic>
       </costs>
     </selectionEntry>
     <selectionEntry id="7291-2e69-f32b-8d7a" name="Ford GAA" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>M4A3E8</comment>
+      <comment>M4A3E2 Sherman Jumbo, M4A3E8</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a7c0-5cf3-09cc-1de6" type="max"/>
       </constraints>
       <profiles>
         <profile id="0548-e3d8-df4e-6e2d" name="Ford GAA" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">M4A3E8
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">M4A3E2 Sherman Jumbo, M4A3E8
 +2 Initiative during the Movement Phase</characteristic>
           </characteristics>
         </profile>
