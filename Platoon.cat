@@ -16865,7 +16865,7 @@ Concealment:  +1 Survivability while in Cover</characteristic>
       </costs>
     </selectionEntry>
     <selectionEntry id="1247-5410-0870-825d" name="T140" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>T140</comment>
+      <comment>M103</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8075-3ff0-35b2-7377" type="max"/>
       </constraints>
@@ -16873,7 +16873,7 @@ Concealment:  +1 Survivability while in Cover</characteristic>
         <profile id="f479-10e9-b457-9a9e" name="T140" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <comment>Turret</comment>
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">T140
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">M103
 +1 Hit Point (Green) </characteristic>
           </characteristics>
         </profile>
