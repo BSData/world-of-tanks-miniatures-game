@@ -8797,11 +8797,6 @@
             <entryLink id="3b31-af86-9426-4f59" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="9563-bd80-b8fb-51b1" name="122mm U-11" hidden="false" collective="false" import="true" targetId="ce5e-71cc-7247-c069" type="selectionEntry"/>
-                <entryLink id="2159-adad-836e-0007" name="76mm AT Gun M1A1" hidden="false" collective="false" import="true" targetId="c337-aaeb-f003-8976" type="selectionEntry">
-                  <costs>
-                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="6.0"/>
-                  </costs>
-                </entryLink>
               </entryLinks>
             </entryLink>
             <entryLink id="0e9f-d974-5e89-cd7b" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
