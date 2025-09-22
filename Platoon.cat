@@ -10159,7 +10159,7 @@
       </costs>
     </selectionEntry>
     <selectionEntry id="c366-8ec5-2d16-9e31" name="Rheinmetall Skorpion" hidden="false" collective="false" import="true" type="unit">
-      <comment>German</comment>
+      <comment>Germany</comment>
       <profiles>
         <profile id="8a4f-b6dc-a96c-c447" name="Rheinmetall Skorpion" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
           <characteristics>
@@ -14200,7 +14200,7 @@ Sound Detector: +1 Survivability when Defending against an SPG</characteristic>
       </costs>
     </selectionEntry>
     <selectionEntry id="637a-05b7-9112-4537" name="Call for Vengeance" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Radio operator</comment>
+      <comment>Radio Operator</comment>
       <profiles>
         <profile id="78cb-e225-a91b-ec70" name="Call for Vengeance" hidden="false" typeId="4113-3131-ac4d-4172" typeName="Upgrade: Crew">
           <characteristics>
