@@ -18,3 +18,7 @@
 
 # Don't ignore .yml for CI build definitions
 !*.yml
+
+# Don't ignore images directory and its contents
+!/images/
+!/images/**
