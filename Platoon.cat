@@ -13,7 +13,7 @@
             <characteristic name="Initiative" typeId="d714-1b14-ad79-eaa2">8</characteristic>
             <characteristic name="Hit Points" typeId="cfb3-634e-3297-9f2e">5</characteristic>
             <characteristic name="Type" typeId="8a22-e966-5551-829d">Medium Tank</characteristic>
-            <characteristic name="Tier" typeId="4ff3-83a0-a830-f535">VI</characteristic>
+            <characteristic name="Tier" typeId="4ff3-83a0-a830-f535">II</characteristic>
             <characteristic name="Nationality" typeId="18c0-3016-3607-6aaf">U.K.</characteristic>
           </characteristics>
         </profile>
@@ -114,7 +114,6 @@
               <entryLinks>
                 <entryLink id="4ffb-a817-4e85-5997" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="5962-c25f-3527-39f1" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="1a77-6372-24c7-d97b" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                     <entryLink id="06c6-e31f-36bd-9890" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
                     <entryLink id="65bc-b07c-5056-979c" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
@@ -351,7 +350,6 @@
               <entryLinks>
                 <entryLink id="ae3b-8463-5fd8-8a6f" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="2e00-e922-3ed6-b761" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="a72d-589d-14b3-23e8" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="bc47-9af6-6829-9f90" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="e1f0-05d8-be59-1c97" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -558,7 +556,6 @@
               <entryLinks>
                 <entryLink id="a8e7-fa8c-e095-758d" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="cee7-ffa8-c991-52b8" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="fffc-f750-db80-8203" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="42a4-3bbb-9769-67e5" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="aa24-9b0b-671e-363b" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -724,7 +721,6 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="11.0"/>
                       </costs>
                     </entryLink>
-                    <entryLink id="5be8-428c-5b8e-dadd" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="0235-0647-a1f2-4a0e" name="Maria Boyko" hidden="false" collective="false" import="true" targetId="3b64-a99e-d01c-5c20" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="4.0"/>
@@ -863,7 +859,6 @@
               <entryLinks>
                 <entryLink id="2bca-8494-13c9-4b0d" name="Commander/Gunner/Radio Operator" hidden="false" collective="false" import="true" targetId="aaa4-a233-794c-2bb3" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="da95-9de2-9488-3a67" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="3a2b-97ae-952d-3ff7" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                     <entryLink id="c147-81cc-b33e-ed1f" name="Aaron Meyrick" hidden="false" collective="false" import="true" targetId="6b92-b46e-a7cf-1da9" type="selectionEntry"/>
                     <entryLink id="364f-79d4-3dbd-9b4b" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
@@ -1136,7 +1131,6 @@
               <entryLinks>
                 <entryLink id="1c3c-f4d2-5c31-7b5b" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="f2c3-9ec0-2213-b8db" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="f09f-ba81-b901-a910" name="Andrey Habibulin" hidden="false" collective="false" import="true" targetId="e9ae-599f-7c74-816b" type="selectionEntry"/>
                     <entryLink id="5e5d-5e42-4b49-d195" name="Ivan Revinskiy" hidden="false" collective="false" import="true" targetId="97c2-7d08-4ebf-38ba" type="selectionEntry">
                       <costs>
@@ -1553,10 +1547,10 @@
         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="33.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="fdd1-8751-9b49-cb6c" name="Pz. Kpfw. III Ausf. J" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="fdd1-8751-9b49-cb6c" name="Pz.Kpfw. III Ausf. J" hidden="false" collective="false" import="true" type="unit">
       <comment>German</comment>
       <profiles>
-        <profile id="b582-6a8d-79f4-6995" name="Pz. Kpfw. III Ausf. J" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
+        <profile id="b582-6a8d-79f4-6995" name="Pz.Kpfw. III Ausf. J" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
           <characteristics>
             <characteristic name="Firepower" typeId="b897-8eda-69fb-5976">3</characteristic>
             <characteristic name="Survivability" typeId="3ad1-d67f-867f-b8d3">0</characteristic>
@@ -1568,7 +1562,7 @@
             <characteristic name="Nationality" typeId="18c0-3016-3607-6aaf">Germany</characteristic>
           </characteristics>
         </profile>
-        <profile id="7d06-9a18-c5c3-64ca" name="Pz. Kpfw. III Ausf. J" hidden="false" typeId="dac0-ea5a-2478-e6a4" typeName="Hit Points">
+        <profile id="7d06-9a18-c5c3-64ca" name="Pz.Kpfw. III Ausf. J" hidden="false" typeId="dac0-ea5a-2478-e6a4" typeName="Hit Points">
           <characteristics>
             <characteristic name="Red" typeId="5aea-aba5-33fd-a449">O</characteristic>
             <characteristic name="Orange" typeId="a878-0b58-276c-d021">O</characteristic>
@@ -1700,7 +1694,6 @@
               <entryLinks>
                 <entryLink id="2a1b-14aa-64b7-36bf" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="36a7-0b51-6983-5709" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="4489-5ab2-77f3-077d" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="b56e-3ec4-08cc-80c0" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="c69f-c826-d805-f486" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -1902,7 +1895,6 @@
               <entryLinks>
                 <entryLink id="2dc2-5d97-3f9c-e3d4" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="9a9f-8e1d-640a-8cf2" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="3498-e6ad-b8f0-2bbe" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="e502-106b-af4f-c818" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="c397-4370-08aa-bdd1" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -2123,7 +2115,6 @@
               <entryLinks>
                 <entryLink id="208c-0beb-89b5-72b3" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="c1fb-f4ed-0c7e-62d5" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="be34-6d30-4ffd-fbec" name="Andrey Habibulin" hidden="false" collective="false" import="true" targetId="e9ae-599f-7c74-816b" type="selectionEntry"/>
                     <entryLink id="38c3-ba14-6641-42ba" name="Ivan Revinskiy" hidden="false" collective="false" import="true" targetId="97c2-7d08-4ebf-38ba" type="selectionEntry">
                       <costs>
@@ -2268,7 +2259,6 @@
               <entryLinks>
                 <entryLink id="5bc0-a943-f7e1-b7e6" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="d715-76d7-4380-846f" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="413d-48c4-5f99-7044" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                     <entryLink id="0850-f34d-f038-7307" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
                     <entryLink id="225d-ad3a-8c1a-7918" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
@@ -2491,7 +2481,6 @@
               <entryLinks>
                 <entryLink id="35c8-70d4-ea0c-843b" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="ed64-3a2c-845c-aa46" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="aa20-4840-b647-cb76" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="0184-3e08-b45b-16fa" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="21bd-50d4-63b0-82b9" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -2662,7 +2651,6 @@
                 <entryLink id="32c8-392e-7ca7-3758" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="56ba-756b-9003-0331" name="Andrey Habibulin" hidden="false" collective="false" import="true" targetId="e9ae-599f-7c74-816b" type="selectionEntry"/>
-                    <entryLink id="7751-528f-0a43-619c" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="1bb7-c7cc-feb6-1a47" name="Ivan Revinskiy" hidden="false" collective="false" import="true" targetId="97c2-7d08-4ebf-38ba" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="11.0"/>
@@ -2826,7 +2814,6 @@
               <entryLinks>
                 <entryLink id="7c05-61eb-04c7-f1df" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="edb8-732b-204b-fe5b" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="87b4-2742-cbd6-a50b" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="bd94-5757-fefb-b4e0" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="e384-e1f8-f153-f3e1" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -2956,7 +2943,7 @@
             <entryLink id="0b2f-309d-d486-17e0" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
             <entryLink id="cc4f-3664-c231-b648" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
               <entryLinks>
-                <entryLink id="7ebb-84d9-8510-b2ea" name="10.5cm Stu.H. 42 L/28 (PZ H)" hidden="false" collective="false" import="true" targetId="a53a-37dc-94a9-3ad4" type="selectionEntry"/>
+                <entryLink id="011c-6049-39f0-71d0" name="10.5cm KW.K. L/28" hidden="false" collective="false" import="true" targetId="f452-01bd-c994-93a0" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
             <entryLink id="e5ed-daf5-d59e-ac97" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
@@ -3060,7 +3047,6 @@
               <entryLinks>
                 <entryLink id="6509-cd72-7f5b-c90f" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="5cb1-182f-6df2-b7bc" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="5460-c311-28bb-a5ed" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="43c0-ccb3-887f-6137" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="4b6a-712a-8f5f-c281" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -3211,7 +3197,6 @@
               <entryLinks>
                 <entryLink id="5508-c22c-1e8d-a27c" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="ad93-b618-c720-df0b" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="6fa9-28bd-795f-d066" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
                     <entryLink id="dc84-75a0-42dd-dd91" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                     <entryLink id="ef78-b24a-7054-4b09" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
@@ -3423,7 +3408,6 @@
                 <entryLink id="4cf9-3a82-a3c0-86b4" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="bd7d-7690-5905-62cf" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
-                    <entryLink id="77d7-bd20-1e1a-65b8" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="2347-bdc0-868b-24ca" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="29f8-e67e-d70f-5637" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
                       <costs>
@@ -3893,7 +3877,6 @@
                   <entryLinks>
                     <entryLink id="61c4-1e7d-6c32-a664" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
                     <entryLink id="ae7a-861d-8f8c-9ef7" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
-                    <entryLink id="7725-f892-aea5-fd9b" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="553c-0700-bc8f-f5f2" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="4.0"/>
@@ -3921,7 +3904,6 @@
                   <entryLinks>
                     <entryLink id="269d-0857-4e34-7543" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
                     <entryLink id="e5f7-3327-dd5c-b312" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
-                    <entryLink id="3f65-e215-c6da-4c9c" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="5c76-c5d3-c3ea-42ce" name="Adrian Daughtry" hidden="false" collective="false" import="true" targetId="dd92-bb81-97f5-3e8f" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="8.0"/>
@@ -4043,7 +4025,6 @@
                     <entryLink id="253a-ebb2-36a3-5d3b" name="Makar Ushakov" hidden="false" collective="false" import="true" targetId="5f0f-d074-d886-99b0" type="selectionEntry"/>
                     <entryLink id="d8ca-7089-ccf2-81c2" name="Yaroslav Abdulov" hidden="false" collective="false" import="true" targetId="713f-37ba-b673-ca3f" type="selectionEntry"/>
                     <entryLink id="867c-578b-bd41-ce98" name="Andrey Habibulin" hidden="false" collective="false" import="true" targetId="e9ae-599f-7c74-816b" type="selectionEntry"/>
-                    <entryLink id="de4a-b74b-0055-9f2d" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="203d-378d-facf-ed7a" name="Mikhail Travkin" hidden="false" collective="false" import="true" targetId="9fbe-1eb2-6744-c89c" type="selectionEntry"/>
                     <entryLink id="d3e8-eb3e-5217-5573" name="Timur Troshin" hidden="false" collective="false" import="true" targetId="0ab4-6d93-62f4-07e9" type="selectionEntry"/>
                     <entryLink id="89e4-1333-396f-3034" name="Sergey Merinov" hidden="false" collective="false" import="true" targetId="fb56-abd3-1f3b-3901" type="selectionEntry"/>
@@ -4218,7 +4199,6 @@
               <entryLinks>
                 <entryLink id="d4dd-447b-0803-8f29" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="5331-34fd-a4cd-f08d" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="8f97-53a1-f139-d7ea" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="2432-ffc7-886c-c5b0" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="8826-b07c-044d-7ddf" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -4383,7 +4363,6 @@
                     <entryLink id="b9ab-14aa-a310-17cc" name="Malcolm Pride" hidden="false" collective="false" import="true" targetId="7306-2163-ecb6-66a8" type="selectionEntry"/>
                     <entryLink id="5efd-a03a-132c-51c2" name="Philip Young" hidden="false" collective="false" import="true" targetId="2219-1c6b-4b55-f030" type="selectionEntry"/>
                     <entryLink id="3a7d-a5e2-5e68-dc94" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
-                    <entryLink id="c5fe-6eaf-b18d-644d" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="18fe-c8f6-9018-6042" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                     <entryLink id="ec06-c181-d00e-d101" name="Craig Maddocks" hidden="false" collective="false" import="true" targetId="329f-c9f6-3ab9-a20c" type="selectionEntry"/>
                     <entryLink id="25aa-edda-ee06-4434" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
@@ -4550,7 +4529,6 @@
                 <entryLink id="0c68-33f7-aba3-cb71" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="d0fe-d200-f1e5-4404" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
-                    <entryLink id="03ba-510b-fb0e-9b34" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="c6ea-2fa5-05c8-2de1" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="16c3-a960-f20f-5885" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
                       <costs>
@@ -4652,7 +4630,7 @@
             <entryLink id="a786-3e91-9b01-fcdb" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
             <entryLink id="8af0-7a42-8919-6558" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
               <entryLinks>
-                <entryLink id="a3cb-7924-d119-ca58" name="75mm Gun M17" hidden="false" collective="false" import="true" targetId="2392-d061-dc0a-7ebe" type="selectionEntry"/>
+                <entryLink id="a3cb-7924-d119-ca58" name="75mm Gun M17" hidden="false" collective="false" import="true" targetId="d4ce-82d4-9221-c517" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
             <entryLink id="2fc3-a82f-5712-c549" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
@@ -4803,7 +4781,6 @@
                 <entryLink id="9e53-7bd8-6ca8-811a" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="29ce-1c36-208d-524a" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
-                    <entryLink id="08c0-7489-6df4-d90c" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="ca62-ae6c-a769-3e96" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="957c-f57c-65ab-d7e1" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
                       <costs>
@@ -5138,7 +5115,6 @@
                 <entryLink id="6a94-4e3a-35ad-5e5c" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="2306-c2fe-c8b8-6319" name="Andrey Habibulin" hidden="false" collective="false" import="true" targetId="e9ae-599f-7c74-816b" type="selectionEntry"/>
-                    <entryLink id="19a1-6017-74eb-933a" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="303d-8311-c20c-9594" name="Ivan Revinskiy" hidden="false" collective="false" import="true" targetId="97c2-7d08-4ebf-38ba" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="11.0"/>
@@ -5409,7 +5385,6 @@
               <entryLinks>
                 <entryLink id="edf1-66c6-46b5-30e6" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="bf1e-9d68-3a3c-2af7" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="af82-e186-c984-ae44" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="2696-9e7e-0981-8d02" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="2e2d-1a18-41e4-2cde" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -6603,7 +6578,6 @@
               <entryLinks>
                 <entryLink id="308e-d5f3-8d60-0ff2" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="6375-a1f2-e4c7-a5c8" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="27aa-c880-adc2-5173" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="4085-f8e1-c271-5897" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="6f6d-b5b8-76ac-08be" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -6708,7 +6682,7 @@
     <selectionEntry id="549e-6d04-344e-d7a4" name="Charioteer" hidden="false" collective="false" import="true" type="unit">
       <comment>UK</comment>
       <profiles>
-        <profile id="e7fa-ff42-6597-c6e2" name="Challenger" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
+        <profile id="e7fa-ff42-6597-c6e2" name="Charioteer" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
           <characteristics>
             <characteristic name="Firepower" typeId="b897-8eda-69fb-5976">6</characteristic>
             <characteristic name="Survivability" typeId="3ad1-d67f-867f-b8d3">0</characteristic>
@@ -6742,15 +6716,14 @@
             <entryLink id="d3b6-0a86-c83f-104f" name="Turret" hidden="false" collective="false" import="true" targetId="e853-1c72-203d-0755" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="4002-d449-bbbc-3664" name="Improved Turret" hidden="false" collective="false" import="true" targetId="572f-08a6-baa7-05e3" type="selectionEntry"/>
-                <entryLink id="be90-2176-27b6-fd12" name="Conqueror MK. II ABP" hidden="false" collective="false" import="true" targetId="4f9f-7a58-48a5-f420" type="selectionEntry">
-                  <costs>
-                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="5.0"/>
-                  </costs>
-                </entryLink>
               </entryLinks>
             </entryLink>
             <entryLink id="a01b-381e-41e1-e55d" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
-            <entryLink id="7b46-7ca8-810e-89dd" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup"/>
+            <entryLink id="7b46-7ca8-810e-89dd" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="f807-b0c3-f84d-910b" name="105mm AT GUN L7" hidden="false" collective="false" import="true" targetId="acbf-b20e-0a32-2c98" type="selectionEntry"/>
+              </entryLinks>
+            </entryLink>
             <entryLink id="75ad-c543-1bcd-0d88" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
           </entryLinks>
         </selectionEntryGroup>
@@ -6839,7 +6812,6 @@
                   <entryLinks>
                     <entryLink id="5e20-a726-1e6e-0d71" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                     <entryLink id="b593-e477-a812-c7bf" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
-                    <entryLink id="19f5-c41b-92ba-9187" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="787e-9fd4-a757-a3ac" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="4.0"/>
@@ -7077,7 +7049,6 @@
               <entryLinks>
                 <entryLink id="aeaf-c3ff-1525-42a2" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="b096-6534-d0eb-7559" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="285b-8dc9-87c7-f3ba" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="f946-859b-bbf4-0a6f" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="6afa-272e-7992-6147" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -7291,7 +7262,6 @@
               <entryLinks>
                 <entryLink id="a1da-053e-e827-8cb3" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="c050-fc4e-5a9b-7245" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="a220-3178-cafa-3244" name="Andrey Habibulin" hidden="false" collective="false" import="true" targetId="e9ae-599f-7c74-816b" type="selectionEntry"/>
                     <entryLink id="8257-316b-863c-ed34" name="Ivan Revinskiy" hidden="false" collective="false" import="true" targetId="97c2-7d08-4ebf-38ba" type="selectionEntry">
                       <costs>
@@ -7471,7 +7441,6 @@
               <entryLinks>
                 <entryLink id="9c6e-f53b-af0f-db95" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="7db0-f2c2-65c9-f6a0" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="e0f0-6af7-f269-2c0d" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="468e-f09b-993b-de3f" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="7feb-1107-4fb2-89b1" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -7579,7 +7548,11 @@
                 <entryLink id="2939-e8c9-6c04-78ad" name="Improved Turret" hidden="false" collective="false" import="true" targetId="572f-08a6-baa7-05e3" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
-            <entryLink id="6a49-42f2-9e0c-cb79" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup"/>
+            <entryLink id="6a49-42f2-9e0c-cb79" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="8b2e-52b6-f0b2-b5f2" name="V-14" hidden="false" collective="false" import="true" targetId="983b-69d5-8587-fc1e" type="selectionEntry"/>
+              </entryLinks>
+            </entryLink>
             <entryLink id="819e-15da-db08-a62b" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
             <entryLink id="b7ab-4f15-fccc-57f9" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup"/>
             <entryLink id="5ecd-f084-9e2d-675d" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
@@ -7617,7 +7590,6 @@
               <entryLinks>
                 <entryLink id="f864-3830-e1ff-9823" name="Commander/Gunner" hidden="false" collective="false" import="true" targetId="c883-55ed-7a92-4129" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="695a-139b-20b3-8f9d" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="154f-b189-fdec-d18b" name="Damir Nelrasov" hidden="false" collective="false" import="true" targetId="632a-9df2-e1f3-2444" type="selectionEntry"/>
                     <entryLink id="4496-27a9-4049-a477" name="Nikita Ovsyanniko" hidden="false" collective="false" import="true" targetId="1390-6a3f-d709-d3c9" type="selectionEntry"/>
                     <entryLink id="3fd2-44fc-a90d-7256" name="Ekaterina Petlyuk" hidden="false" collective="false" import="true" targetId="e818-51bd-1fbd-dbfb" type="selectionEntry">
@@ -7879,7 +7851,6 @@
                   <entryLinks>
                     <entryLink id="8cc0-1200-0b6d-1817" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
                     <entryLink id="805a-b3c3-58ae-725d" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
-                    <entryLink id="bdbb-e33b-cc06-e9bd" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="c69b-93e4-7be8-04e3" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="4.0"/>
@@ -8030,7 +8001,6 @@
               <entryLinks>
                 <entryLink id="f2d3-1bb7-604f-8b3d" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="719d-7295-6fa1-4a18" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="be86-1555-2247-6ea1" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="1e78-1526-d640-1fe1" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="c074-6c55-23af-9831" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -8209,7 +8179,6 @@
               <entryLinks>
                 <entryLink id="c391-2040-1871-2be0" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="237e-cb1f-4525-91b1" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="a3fc-70b2-b24e-73db" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                     <entryLink id="ac7a-07ee-5b73-5044" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
                     <entryLink id="9c98-5099-8cc1-ecc3" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
@@ -8491,7 +8460,6 @@
               <entryLinks>
                 <entryLink id="5fa6-75da-1c16-bf6c" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="de54-07c6-b963-ec20" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="9f9c-0f78-e9ab-822f" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="c0f1-1a6c-f427-5ddc" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="29f9-1087-a675-a724" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -8600,11 +8568,7 @@
       <selectionEntryGroups>
         <selectionEntryGroup id="8247-b35f-92ac-f532" name="Modules" hidden="false" collective="false" import="true">
           <entryLinks>
-            <entryLink id="b366-af72-428d-1ea5" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup">
-              <entryLinks>
-                <entryLink id="fe05-6d3c-8130-6a52" name="Maybach HL 230 TRM P45" hidden="false" collective="false" import="true" targetId="c4b6-b8e8-96d2-15c2" type="selectionEntry"/>
-              </entryLinks>
-            </entryLink>
+            <entryLink id="b366-af72-428d-1ea5" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup"/>
             <entryLink id="f38d-f0f7-bb87-423b" name="Turret" hidden="false" collective="false" import="true" targetId="e853-1c72-203d-0755" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="82eb-61c5-80ee-4936" name="Improved Turret" hidden="false" collective="false" import="true" targetId="572f-08a6-baa7-05e3" type="selectionEntry"/>
@@ -8697,7 +8661,6 @@
                 <entryLink id="2e7d-0ccd-924d-c98c" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="11e2-7819-f76e-22ea" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
-                    <entryLink id="38e0-314f-188f-6dc0" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="0ee5-e3d7-8f5d-0e38" name="Ivan Revinskiy" hidden="false" collective="false" import="true" targetId="97c2-7d08-4ebf-38ba" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="11.0"/>
@@ -8826,16 +8789,7 @@
             </entryLink>
             <entryLink id="364c-2536-15d1-1aac" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup"/>
             <entryLink id="d69e-d0d4-4354-21ee" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
-            <entryLink id="3b31-af86-9426-4f59" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
-              <entryLinks>
-                <entryLink id="9563-bd80-b8fb-51b1" name="122mm U-11" hidden="false" collective="false" import="true" targetId="ce5e-71cc-7247-c069" type="selectionEntry"/>
-                <entryLink id="2159-adad-836e-0007" name="76mm AT Gun M1A1" hidden="false" collective="false" import="true" targetId="c337-aaeb-f003-8976" type="selectionEntry">
-                  <costs>
-                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="6.0"/>
-                  </costs>
-                </entryLink>
-              </entryLinks>
-            </entryLink>
+            <entryLink id="3b31-af86-9426-4f59" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup"/>
             <entryLink id="0e9f-d974-5e89-cd7b" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
           </entryLinks>
         </selectionEntryGroup>
@@ -8872,7 +8826,6 @@
                 <entryLink id="5508-28c4-8474-c106" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="1dbe-b69f-2bd5-5e36" name="Andrey Habibulin" hidden="false" collective="false" import="true" targetId="e9ae-599f-7c74-816b" type="selectionEntry"/>
-                    <entryLink id="b037-caf4-60d9-bed0" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
               </entryLinks>
@@ -9131,7 +9084,6 @@
               <entryLinks>
                 <entryLink id="a39a-e439-7585-afa9" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="f0f6-15d8-1817-863b" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="6ef1-57b1-4251-aded" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="a6cb-af89-0508-ab9c" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="7f6d-bf93-1faf-8fbc" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -9404,7 +9356,7 @@
     <selectionEntry id="c7f3-1c27-ed93-9955" name="Jagdpanther" hidden="false" collective="false" import="true" type="unit">
       <comment>German</comment>
       <profiles>
-        <profile id="727c-249a-986d-f22a" name="Jagdtiger" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
+        <profile id="727c-249a-986d-f22a" name="Jagdpanther" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
           <characteristics>
             <characteristic name="Firepower" typeId="b897-8eda-69fb-5976">6</characteristic>
             <characteristic name="Survivability" typeId="3ad1-d67f-867f-b8d3">2</characteristic>
@@ -9412,11 +9364,11 @@
             <characteristic name="Initiative" typeId="d714-1b14-ad79-eaa2">4</characteristic>
             <characteristic name="Hit Points" typeId="cfb3-634e-3297-9f2e">6</characteristic>
             <characteristic name="Type" typeId="8a22-e966-5551-829d">Tank Destroyer</characteristic>
-            <characteristic name="Tier" typeId="4ff3-83a0-a830-f535">VII</characteristic>
+            <characteristic name="Tier" typeId="4ff3-83a0-a830-f535">VI</characteristic>
             <characteristic name="Nationality" typeId="18c0-3016-3607-6aaf">Germany</characteristic>
           </characteristics>
         </profile>
-        <profile id="f88a-37e0-60c8-54f2" name="Jagdtiger" hidden="false" typeId="dac0-ea5a-2478-e6a4" typeName="Hit Points">
+        <profile id="f88a-37e0-60c8-54f2" name="Jagdpanther" hidden="false" typeId="dac0-ea5a-2478-e6a4" typeName="Hit Points">
           <characteristics>
             <characteristic name="Red" typeId="5aea-aba5-33fd-a449">O</characteristic>
             <characteristic name="Orange" typeId="a878-0b58-276c-d021">O</characteristic>
@@ -9507,7 +9459,6 @@
               <entryLinks>
                 <entryLink id="5aba-2da8-08ea-b06a" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="4817-846f-9f60-9ea3" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="ebb2-c684-9170-9a7f" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="ea05-9af6-3822-fb31" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="d9c8-2343-5b92-bcc5" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -9580,7 +9531,7 @@
             <entryLink id="060a-dd79-72d1-d815" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
             <entryLink id="5e25-ce55-5ffc-53bc" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
               <entryLinks>
-                <entryLink id="59a1-a171-0fd0-d7f1" name="705cm PAK 42 L/70" hidden="false" collective="false" import="true" targetId="fd3e-3690-a72c-e5da" type="selectionEntry"/>
+                <entryLink id="59a1-a171-0fd0-d7f1" name="7.5cm PAK 42 L/70" hidden="false" collective="false" import="true" targetId="fd3e-3690-a72c-e5da" type="selectionEntry"/>
                 <entryLink id="ca02-1b64-a9fb-3625" name="10.5cm PAK L/52" hidden="false" collective="false" import="true" targetId="23db-cb47-7398-0901" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
@@ -9660,17 +9611,9 @@
                 <entryLink id="c916-4172-e877-ec7e" name="Improved Turret" hidden="false" collective="false" import="true" targetId="572f-08a6-baa7-05e3" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
-            <entryLink id="9b69-93b0-be65-8bcc" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup">
-              <entryLinks>
-                <entryLink id="c541-6b28-5270-4a8a" name="V-2-34" hidden="false" collective="false" import="true" targetId="b57a-6d28-707a-6b14" type="selectionEntry"/>
-              </entryLinks>
-            </entryLink>
+            <entryLink id="9b69-93b0-be65-8bcc" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup"/>
             <entryLink id="100e-51c1-afb5-38c6" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
-            <entryLink id="4dd2-ec45-3578-3c83" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
-              <entryLinks>
-                <entryLink id="a6bb-e18b-de54-9189" name="155mm AT GUN T7" hidden="false" collective="false" import="true" targetId="b38b-9d74-10ed-e1a2" type="selectionEntry"/>
-              </entryLinks>
-            </entryLink>
+            <entryLink id="4dd2-ec45-3578-3c83" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup"/>
             <entryLink id="5020-24a5-2312-93b6" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
           </entryLinks>
         </selectionEntryGroup>
@@ -9708,7 +9651,6 @@
                   <entryLinks>
                     <entryLink id="d464-a8d2-89ea-da2a" name="Damir Nelrasov" hidden="false" collective="false" import="true" targetId="632a-9df2-e1f3-2444" type="selectionEntry"/>
                     <entryLink id="c66b-d56d-e0bd-d638" name="Nikita Ovsyanniko" hidden="false" collective="false" import="true" targetId="1390-6a3f-d709-d3c9" type="selectionEntry"/>
-                    <entryLink id="177f-28f2-6d78-97b1" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="9b61-9ab4-3aee-224c" name="Leon Khokhlov" hidden="false" collective="false" import="true" targetId="6a26-a26b-5f6a-6eee" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="6.0"/>
@@ -9772,7 +9714,6 @@
                 <entryLink id="171c-4e46-ab53-dfab" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="e04b-ddcc-2d10-a9fa" name="Andrey Habibulin" hidden="false" collective="false" import="true" targetId="e9ae-599f-7c74-816b" type="selectionEntry"/>
-                    <entryLink id="4ad9-db01-6a85-22e5" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="1040-b0c8-b81c-2ea7" name="Ivan Revinskiy" hidden="false" collective="false" import="true" targetId="97c2-7d08-4ebf-38ba" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="11.0"/>
@@ -9916,7 +9857,6 @@
               <entryLinks>
                 <entryLink id="7866-74c1-a16f-9979" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="c731-0d1d-1632-7950" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="bd87-1812-8db0-3bfe" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="6d8c-b7eb-8190-b49a" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="0898-3639-5b3d-541f" name="Greta Irrgang" hidden="false" collective="false" import="true" targetId="e054-1e50-845a-2bc0" type="selectionEntry">
@@ -10080,6 +10020,7 @@
             <entryLink id="b9ff-c2ea-83bd-9861" name="Turret" hidden="false" collective="false" import="true" targetId="e853-1c72-203d-0755" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="1d5f-f0a8-14fa-ba86" name="Improved Turret" hidden="false" collective="false" import="true" targetId="572f-08a6-baa7-05e3" type="selectionEntry"/>
+                <entryLink id="1e00-ca3b-c296-178d" name="OQF 17-PDR AT GUN MK. V" hidden="False" collective="false" import="true" targetId="af0b-a240-1fe6-c49a" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
             <entryLink id="e727-29fc-1e10-ecb7" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup"/>
@@ -10190,7 +10131,6 @@
                       </costs>
                     </entryLink>
                     <entryLink id="8d91-ee10-6e96-2f99" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
-                    <entryLink id="492e-6f0d-49a4-8ee9" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="40fb-86ce-08d3-4307" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                   </entryLinks>
                 </entryLink>
@@ -10219,7 +10159,7 @@
       </costs>
     </selectionEntry>
     <selectionEntry id="c366-8ec5-2d16-9e31" name="Rheinmetall Skorpion" hidden="false" collective="false" import="true" type="unit">
-      <comment>German</comment>
+      <comment>Germany</comment>
       <profiles>
         <profile id="8a4f-b6dc-a96c-c447" name="Rheinmetall Skorpion" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
           <characteristics>
@@ -10336,7 +10276,6 @@
               <entryLinks>
                 <entryLink id="b00b-cb0c-89ba-c48c" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="1109-ab27-f2de-d4b0" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="ff1f-b9fd-f8b1-1b7d" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="0f03-c9a6-e1b2-c2d6" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="e6b0-0840-8359-22b5" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -10556,7 +10495,6 @@
               <entryLinks>
                 <entryLink id="b20a-7231-8586-ad5b" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="b709-06ac-8963-a0b8" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="8f0f-8d76-885f-fd4a" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="38d8-1dd2-e2f3-51d7" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="be43-d1f9-1b03-4215" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -10734,7 +10672,6 @@
                 <entryLink id="1d06-cb8a-81a4-54cc" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="b4b1-a8eb-f2a0-820d" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
-                    <entryLink id="c075-0375-d9a1-988b" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="4eed-06dd-5f5d-1154" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="929a-9fcd-ab95-6afe" name="Ivan Revinskiy" hidden="false" collective="false" import="true" targetId="97c2-7d08-4ebf-38ba" type="selectionEntry">
                       <costs>
@@ -10860,7 +10797,7 @@
             <entryLink id="f1ef-d368-9c10-0d1e" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
             <entryLink id="0782-a94d-846d-9add" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
               <entryLinks>
-                <entryLink id="fa3f-4a26-480f-015b" name="705cm PAK 42 L/70" hidden="false" collective="false" import="true" targetId="fd3e-3690-a72c-e5da" type="selectionEntry"/>
+                <entryLink id="fa3f-4a26-480f-015b" name="7.5cm PAK 42 L/70" hidden="false" collective="false" import="true" targetId="fd3e-3690-a72c-e5da" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
             <entryLink id="046f-95b3-1a73-bd6d" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
@@ -10936,7 +10873,6 @@
               <entryLinks>
                 <entryLink id="d953-aa43-e538-594d" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="3dbf-de14-529d-c208" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="53de-df3b-97b9-ea24" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="dd5d-0634-7186-4804" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="35e3-54de-73af-04fb" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -11168,7 +11104,6 @@
                   <entryLinks>
                     <entryLink id="d123-7c60-9151-3879" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                     <entryLink id="ef1a-56ac-0e2a-43d5" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
-                    <entryLink id="9010-9b80-73fa-a90e" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="df40-013e-a2eb-aa96" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="4.0"/>
@@ -11353,7 +11288,6 @@
                 <entryLink id="054b-dab6-8bf0-390e" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="c1a5-5513-8ef3-a6d6" name="Andrey Habibulin" hidden="false" collective="false" import="true" targetId="e9ae-599f-7c74-816b" type="selectionEntry"/>
-                    <entryLink id="9823-ed14-293a-467f" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="3bc3-df61-5a99-9a58" name="Ivan Revinskiy" hidden="false" collective="false" import="true" targetId="97c2-7d08-4ebf-38ba" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="11.0"/>
@@ -11466,6 +11400,7 @@
             <entryLink id="ee47-2653-519b-a8c0" name="Turret" hidden="false" collective="false" import="true" targetId="e853-1c72-203d-0755" type="selectionEntryGroup">
               <entryLinks>
                 <entryLink id="ecf7-8e30-7b69-e742" name="Improved Turret" hidden="false" collective="false" import="true" targetId="572f-08a6-baa7-05e3" type="selectionEntry"/>
+                <entryLink id="a6bb-e18b-de54-9189" name="155mm AT GUN T7" hidden="false" collective="false" import="true" targetId="b38b-9d74-10ed-e1a2" type="selectionEntry"/>
               </entryLinks>
             </entryLink>
             <entryLink id="dc01-2350-d0ba-0472" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup">
@@ -11591,7 +11526,6 @@
               <entryLinks>
                 <entryLink id="8f8d-bb18-8400-5155" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="5d5e-fcb5-4546-d74b" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="8bce-95d5-cb7a-1ca0" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="deb7-2807-7be2-fa7e" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="bbdb-723b-26b7-ce50" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -11780,7 +11714,6 @@
               <entryLinks>
                 <entryLink id="6df8-b1b3-0f93-c71a" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="06d3-14cc-5e62-4b70" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="a223-03a6-6148-d56f" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="82cb-9b9e-84b7-89cb" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="d89b-5c40-46d7-de36" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -11913,7 +11846,6 @@
               <entryLinks>
                 <entryLink id="28fb-23ca-7e29-3024" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="e30d-00fc-afb0-f326" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="8aa0-358b-4896-7e9a" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="9484-787d-5d2c-3149" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="c896-3e1e-cc2c-68d5" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -12010,24 +11942,24 @@
     <selectionEntry id="c90a-1ba9-b78e-7463" name="Conqueror" hidden="false" collective="false" import="true" type="unit">
       <comment>UK</comment>
       <profiles>
-        <profile id="8f2c-d2c9-a547-cdb8" name="Churchill VII" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
+        <profile id="8f2c-d2c9-a547-cdb8" name="Conqueror" hidden="false" typeId="85e0-0ed1-3bc7-f314" typeName="Tank">
           <characteristics>
-            <characteristic name="Firepower" typeId="b897-8eda-69fb-5976">4</characteristic>
-            <characteristic name="Survivability" typeId="3ad1-d67f-867f-b8d3">3</characteristic>
-            <characteristic name="Mobility" typeId="6cdd-1e26-6533-d04e">1</characteristic>
+            <characteristic name="Firepower" typeId="b897-8eda-69fb-5976">6</characteristic>
+            <characteristic name="Survivability" typeId="3ad1-d67f-867f-b8d3">4</characteristic>
+            <characteristic name="Mobility" typeId="6cdd-1e26-6533-d04e">2</characteristic>
             <characteristic name="Initiative" typeId="d714-1b14-ad79-eaa2">5</characteristic>
-            <characteristic name="Hit Points" typeId="cfb3-634e-3297-9f2e">6</characteristic>
+            <characteristic name="Hit Points" typeId="cfb3-634e-3297-9f2e">9</characteristic>
             <characteristic name="Type" typeId="8a22-e966-5551-829d">Heavy Tank</characteristic>
-            <characteristic name="Tier" typeId="4ff3-83a0-a830-f535">VI</characteristic>
+            <characteristic name="Tier" typeId="4ff3-83a0-a830-f535">XV</characteristic>
             <characteristic name="Nationality" typeId="18c0-3016-3607-6aaf">UK</characteristic>
           </characteristics>
         </profile>
-        <profile id="ed8f-204f-8e54-876c" name="Churchill VII" hidden="false" typeId="dac0-ea5a-2478-e6a4" typeName="Hit Points">
+        <profile id="ed8f-204f-8e54-876c" name="Conqueror" hidden="false" typeId="dac0-ea5a-2478-e6a4" typeName="Hit Points">
           <characteristics>
-            <characteristic name="Red" typeId="5aea-aba5-33fd-a449">O</characteristic>
-            <characteristic name="Orange" typeId="a878-0b58-276c-d021">O</characteristic>
+            <characteristic name="Red" typeId="5aea-aba5-33fd-a449">OO</characteristic>
+            <characteristic name="Orange" typeId="a878-0b58-276c-d021">OO</characteristic>
             <characteristic name="Yellow" typeId="433e-cec8-c0d7-2628">OO</characteristic>
-            <characteristic name="Green" typeId="34cc-7f69-8c55-9c3d">OO</characteristic>
+            <characteristic name="Green" typeId="34cc-7f69-8c55-9c3d">OOO</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -12044,21 +11976,25 @@
             <entryLink id="2fcd-1c78-6917-f074" name="Engine" hidden="false" collective="false" import="true" targetId="7dec-ef68-9ef4-2949" type="selectionEntryGroup"/>
             <entryLink id="424b-fccf-59ce-0d28" name="Turret" hidden="false" collective="false" import="true" targetId="e853-1c72-203d-0755" type="selectionEntryGroup">
               <entryLinks>
-                <entryLink id="50de-fc48-5168-d547" name="Churchill IV" hidden="false" collective="false" import="true" targetId="4764-037c-9df3-6146" type="selectionEntry"/>
                 <entryLink id="e1e9-787e-3d73-ef7b" name="Improved Turret" hidden="false" collective="false" import="true" targetId="572f-08a6-baa7-05e3" type="selectionEntry"/>
-              </entryLinks>
-            </entryLink>
-            <entryLink id="446f-7d96-401a-13ea" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
-            <entryLink id="2117-e424-a217-276b" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup"/>
-            <entryLink id="fe9e-4b69-e002-63a5" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup">
-              <entryLinks>
-                <entryLink id="2211-7f2e-d13d-a02a" name="WS. NO. 19 Mk. III" hidden="false" collective="false" import="true" targetId="20ac-3d07-87d5-fce9" type="selectionEntry">
+                <entryLink id="be90-2176-27b6-fd12" name="Conqueror MK. II ABP" hidden="false" collective="false" import="true" targetId="4f9f-7a58-48a5-f420" type="selectionEntry">
                   <costs>
-                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="5.0"/>
                   </costs>
                 </entryLink>
               </entryLinks>
             </entryLink>
+            <entryLink id="446f-7d96-401a-13ea" name="Suspension" hidden="false" collective="false" import="true" targetId="eb4b-357b-a576-4d5d" type="selectionEntryGroup"/>
+            <entryLink id="2117-e424-a217-276b" name="Gun" hidden="false" collective="false" import="true" targetId="8b68-7241-532f-a505" type="selectionEntryGroup">
+              <entryLinks>
+                <entryLink id="f163-51fb-cec8-9171" name="120MM Gun L1A1" hidden="false" collective="false" import="true" targetId="2392-d061-dc0a-7ebe" type="selectionEntry">
+                  <costs>
+                    <cost name="pts" typeId="3c39-e72d-814c-d95e" value="19.0"/>
+                  </costs>
+                </entryLink>
+              </entryLinks>
+            </entryLink>
+            <entryLink id="fe9e-4b69-e002-63a5" name="Radio" hidden="false" collective="false" import="true" targetId="5bf0-6ed3-37e4-c97e" type="selectionEntryGroup"/>
           </entryLinks>
         </selectionEntryGroup>
         <selectionEntryGroup id="6a56-31f3-d196-1e64" name="Upgrades" hidden="false" collective="false" import="true">
@@ -12167,7 +12103,6 @@
                   <entryLinks>
                     <entryLink id="c253-1cf3-9c33-0891" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
                     <entryLink id="3020-82fa-f357-29bf" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
-                    <entryLink id="f7e8-0dc7-c92c-8f6c" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="b95f-4caf-8e27-e2e6" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="4.0"/>
@@ -12352,7 +12287,6 @@
                   <entryLinks>
                     <entryLink id="e12b-3b40-fcf9-bebf" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                     <entryLink id="9700-6cc4-6371-eb3c" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
-                    <entryLink id="29e2-b649-b321-2319" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="e247-2978-4b5e-50d4" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="4.0"/>
@@ -12566,7 +12500,6 @@
               <entryLinks>
                 <entryLink id="739f-c7fb-f37e-56c8" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="6250-5a65-eea4-8135" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="065b-ee13-3f14-bde7" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="6746-2f07-6b1e-c808" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="0ed4-f791-4cf1-0425" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -12699,7 +12632,6 @@
               <entryLinks>
                 <entryLink id="d703-27a1-8a0e-4e5f" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="8e08-f7cf-5d41-2b11" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="8d9f-3517-c806-2f0a" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
                     <entryLink id="d6a4-0ad1-4ba3-cab5" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="1cb8-f5cb-e634-824f" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
@@ -12895,7 +12827,6 @@
                 <entryLink id="9141-867f-d31c-6212" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
                     <entryLink id="e4a3-4081-dab7-f678" name="Erwin Prentzel" hidden="false" collective="false" import="true" targetId="4f43-cc83-947a-dff5" type="selectionEntry"/>
-                    <entryLink id="b230-e5c5-b217-e68b" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="15c9-7ac1-9112-d0dc" name="Robert Bloch" hidden="false" collective="false" import="true" targetId="5b62-ddf5-d47d-f848" type="selectionEntry"/>
                     <entryLink id="957b-612a-6e84-dd57" name="Axel Vittinghoff" hidden="false" collective="false" import="true" targetId="ad49-63f3-9cea-c720" type="selectionEntry">
                       <costs>
@@ -13044,7 +12975,6 @@
               <entryLinks>
                 <entryLink id="3a18-5847-0e4e-184c" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="24d3-1551-99ba-eef4" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="0b8a-7d84-01d4-95cb" name="Wayne Turvey" hidden="false" collective="false" import="true" targetId="e484-c13d-1599-3a0a" type="selectionEntry"/>
                     <entryLink id="f81e-1c4d-2418-f8ab" name="Reuben Manyweather" hidden="false" collective="false" import="true" targetId="8047-8dd6-b78e-fbf2" type="selectionEntry"/>
                     <entryLink id="be78-279e-0ba9-fbb1" name="Grace Johnson" hidden="false" collective="false" import="true" targetId="c7c3-18e0-35d9-7248" type="selectionEntry">
@@ -13292,7 +13222,6 @@
               <entryLinks>
                 <entryLink id="7ffd-b34c-1151-0942" name="Gunner" hidden="false" collective="false" import="true" targetId="c4f5-5fd6-f305-346f" type="selectionEntryGroup">
                   <entryLinks>
-                    <entryLink id="5e8d-fcb4-fc75-9e65" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="ab03-d475-2134-2ebd" name="Connor Rycroft" hidden="false" collective="false" import="true" targetId="ef0a-480b-51be-d78d" type="selectionEntry"/>
                     <entryLink id="7f84-011c-5f8a-9321" name="Quinn Kennell" hidden="false" collective="false" import="true" targetId="7300-60ca-b315-407c" type="selectionEntry"/>
                     <entryLink id="3a9d-4d55-a559-3fad" name="Tony Meacham" hidden="false" collective="false" import="true" targetId="32c0-6d0c-ab22-5cb4" type="selectionEntry">
@@ -13451,7 +13380,6 @@
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="11.0"/>
                       </costs>
                     </entryLink>
-                    <entryLink id="9b28-c9f3-4189-9897" name="Snap Shot" hidden="false" collective="false" import="true" targetId="6aae-c22e-e141-00d2" type="selectionEntry"/>
                     <entryLink id="782c-5114-5222-74b8" name="Maria Boyko" hidden="false" collective="false" import="true" targetId="3b64-a99e-d01c-5c20" type="selectionEntry">
                       <costs>
                         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="4.0"/>
@@ -14272,7 +14200,7 @@ Sound Detector: +1 Survivability when Defending against an SPG</characteristic>
       </costs>
     </selectionEntry>
     <selectionEntry id="637a-05b7-9112-4537" name="Call for Vengeance" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Radio operator</comment>
+      <comment>Radio Operator</comment>
       <profiles>
         <profile id="78cb-e225-a91b-ec70" name="Call for Vengeance" hidden="false" typeId="4113-3131-ac4d-4172" typeName="Upgrade: Crew">
           <characteristics>
@@ -14545,14 +14473,14 @@ Firefighting: Re-roll a failed Repair roll when Repairing an Engine Fire Critica
       </costs>
     </selectionEntry>
     <selectionEntry id="57b6-deb3-9a4b-2d9f" name="5cm KW.K 39 L/60" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Pz.Kpfw III Ausf. J</comment>
+      <comment>Pz.Kpfw. III Ausf. J</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="20a3-db52-cde6-3b99" type="max"/>
       </constraints>
       <profiles>
         <profile id="6537-97d2-2239-a946" name="5cm KW.K 39 L/60" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Pz.Kpfw III Ausf. J
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Pz.Kpfw. III Ausf. J
 +1 Firepower</characteristic>
           </characteristics>
         </profile>
@@ -14562,14 +14490,14 @@ Firefighting: Re-roll a failed Repair roll when Repairing an Engine Fire Critica
       </costs>
     </selectionEntry>
     <selectionEntry id="7b02-dea1-51d7-b1ae" name="3.7cm KW.K 36 L/46.5" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Pz.Kpfw III Ausf. J</comment>
+      <comment>Pz.Kpfw. III Ausf. J</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f906-2dd0-d4d1-9c01" type="max"/>
       </constraints>
       <profiles>
         <profile id="a256-e738-e275-0638" name="3.7cm KW.K 36 L/46.5" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Pz.Kpfw III Ausf. J
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Pz.Kpfw. III Ausf. J
 +2 Initiative</characteristic>
           </characteristics>
         </profile>
@@ -14707,7 +14635,8 @@ Tank without Assault Gun</comment>
         <profile id="9af1-b765-9e34-9501" name="Andrey Habibulin" hidden="false" typeId="cf4c-c1c0-f411-bdbe" typeName="Upgrade: Ammo">
           <characteristics>
             <characteristic name="Ability" typeId="804d-13f2-a6cb-951f">USSR
-Snap Shot: +2 Initiative during the Shooting Phase
+Snap Shot: Tank Without Assault Gun
++2 Initiative during the Shooting Phase
 Concealment: +1 Survivability while in Cover</characteristic>
           </characteristics>
         </profile>
@@ -14921,7 +14850,8 @@ Tank without Assault Gun</comment>
         <profile id="623b-98d5-7f83-b6aa" name="Erwin Prentzel" hidden="false" typeId="cf4c-c1c0-f411-bdbe" typeName="Upgrade: Ammo">
           <characteristics>
             <characteristic name="Ability" typeId="804d-13f2-a6cb-951f">Germany, Tank without Assalt Gun
-Snap Shot: +2 Initiative during the Shooting Phase
+Snap Shot: Tank Without Assault Gun
++2 Initiative during the Shooting Phase
 Concealment: +1 Survivability while in Cover</characteristic>
           </characteristics>
         </profile>
@@ -15015,14 +14945,14 @@ Repair: This Tank may attempt to Repair an additional Critical Card each turn</c
       </costs>
     </selectionEntry>
     <selectionEntry id="0690-71b9-bc45-4d18" name="Wright-Continental R-975C4" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>M4A1, M4A1(76mm), M18 Hellcat</comment>
+      <comment>M4A1 Sherman, M4A1 Sherman (76mm), M7 Priest, M18 Hellcat</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="65ea-1066-13d2-a463" type="max"/>
       </constraints>
       <profiles>
         <profile id="26fd-9b4a-3bc6-8321" name="Wright-Continental R-975C4" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">M4A1, M4A1(76mm), M7 Priest, M18 Hellcat
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">M4A1 Sherman, M4A1 Sherman (76mm), M7 Priest, M18 Hellcat
 +2 Initiative during the Movement Phase</characteristic>
           </characteristics>
         </profile>
@@ -15120,14 +15050,14 @@ Eagle Eye: When Shooting, this Tank may roll one less Attack die, then Modify a 
       </costs>
     </selectionEntry>
     <selectionEntry id="7e8e-ae60-c5e4-5631" name="Tatra Typ 103" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Jagdpanzer(38)T Hetzer</comment>
+      <comment>Jagdpanzer 38(T) Hetzer</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7933-596d-f613-66c6" type="max"/>
       </constraints>
       <profiles>
         <profile id="da24-4c66-9b92-8dc3" name="Tatra Typ 103" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Jagdpanzer(38)T Hetzer
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Jagdpanzer 38(T) Hetzer
 +2 Initiative during the Movement Phase
 Reroll a failed Repair roll when repairing an Engine Fire Critical card.</characteristic>
           </characteristics>
@@ -15331,14 +15261,14 @@ High Explosive: Discard all Hits before assessing damage</characteristic>
       </costs>
     </selectionEntry>
     <selectionEntry id="20ac-3d07-87d5-fce9" name="WS. NO. 19 Mk. III" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Cromwell, Crusader, Churchill VII, Sexton, Valentine</comment>
+      <comment>Cromwell, Crusader, Churchill VII, Sexton II, Valentine</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="06ed-ae5b-63ab-8ca1" type="max"/>
       </constraints>
       <profiles>
         <profile id="63c6-5e20-24e6-474e" name="WS. NO. 19 Mk. III" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Cromwell, Crusader, Churchill VII, Sexton, Valentine
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Cromwell, Crusader, Churchill VII, Sexton II, Valentine
 +1 Initiative</characteristic>
           </characteristics>
         </profile>
@@ -15454,14 +15384,14 @@ Loses Light Flank</characteristic>
       </costs>
     </selectionEntry>
     <selectionEntry id="71e0-c97b-9216-d549" name="OQF 32-PDR AT Gun Mk.II" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Challenger with Avenger Turret Only</comment>
+      <comment>Challenger (with Avenger Turret Only)</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cac5-d978-3ef4-260b" type="max"/>
       </constraints>
       <profiles>
         <profile id="8d96-a347-6764-393b" name="OQF 32-PDR AT Gun Mk.II" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Challenger with Avenger Turret
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Challenger (with Avenger Turret)
 +1 Firepower</characteristic>
           </characteristics>
         </profile>
@@ -15558,14 +15488,14 @@ High Explosive: Discard all Hits before Assessing Damage</characteristic>
       </costs>
     </selectionEntry>
     <selectionEntry id="99ee-ca02-faa1-c0f5" name="105mm M4" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>M4A1 Sherman, M4A3E8 Sherman</comment>
+      <comment>M4A1 Sherman, M4A3E8 Sherman, M4A3E2 Sherman Jumbo</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="add0-7c46-d87a-0959" type="max"/>
       </constraints>
       <profiles>
         <profile id="9fcd-3423-d28e-5031" name="105mm M4" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">M4A1 Sherman, M4A3E8 Sherman
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">M4A1 Sherman, M4A3E8 Sherman, M4A3E2 Sherman Jumbo
 +2 Firepower
 -1 Initiative
 High Explosive: Discard all Hits before Assessing Damage</characteristic>
@@ -15577,14 +15507,14 @@ High Explosive: Discard all Hits before Assessing Damage</characteristic>
       </costs>
     </selectionEntry>
     <selectionEntry id="7291-2e69-f32b-8d7a" name="Ford GAA" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>M4A3E8</comment>
+      <comment>M4A3E2 Sherman Jumbo, M4A3E8 Sherman</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a7c0-5cf3-09cc-1de6" type="max"/>
       </constraints>
       <profiles>
         <profile id="0548-e3d8-df4e-6e2d" name="Ford GAA" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">M4A3E8
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">M4A3E2 Sherman Jumbo, M4A3E8 Sherman
 +2 Initiative during the Movement Phase</characteristic>
           </characteristics>
         </profile>
@@ -15781,14 +15711,14 @@ Intuition: At the beginning of the Shooting Phase, discard an Ammo upgrade card 
       </costs>
     </selectionEntry>
     <selectionEntry id="a086-dc52-8910-102b" name="57mm ZIS-2" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>SU-76m</comment>
+      <comment>SU-76M</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9437-5279-9903-bde8" type="max"/>
       </constraints>
       <profiles>
         <profile id="59f3-c76e-e921-d400" name="57mm ZIS-2" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">SU-76m
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">SU-76M
 + 2 Initiative 
 Gains Arrow Shot</characteristic>
           </characteristics>
@@ -15820,9 +15750,9 @@ Light Tank, Medium Tank, Heavy Tank: +2 during the shooting Phase</characteristi
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0fe4-d681-083e-11c4" type="max"/>
       </constraints>
       <profiles>
-        <profile id="24c2-0334-97bf-f116" name="Maybach HL 230 TRM P45" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
+        <profile id="24c2-0334-97bf-f116" name="Maybach HL 210 TRM P30" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Panther, Jagdpather, Jagdtiger
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Panther, Jagdpanther, Jagdtiger
 +1 Initiative during the Movement Phase</characteristic>
           </characteristics>
         </profile>
@@ -15870,7 +15800,7 @@ Firefighting: Re-roll a failed repair roll when Repairing an Engine fire Critica
       <profiles>
         <profile id="90ee-8d09-ee88-f7f2" name="OQF 17-PDR AT Gun Mk.VII (Centurion)" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Centurion
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Centurion MK. I 
 +1 Firepower</characteristic>
           </characteristics>
         </profile>
@@ -16012,24 +15942,6 @@ Repair:  this Tank may attempt to Repair an additional Critical Card each turn</
       </profiles>
       <costs>
         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="4.0"/>
-      </costs>
-    </selectionEntry>
-    <selectionEntry id="0e52-6c37-4e56-023c" name="7.5cm PAK 42 L/20" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Pz.Kpfw. IV Ausf. H</comment>
-      <constraints>
-        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6bd6-a996-d4c7-fa5c" type="max"/>
-      </constraints>
-      <profiles>
-        <profile id="29e6-6ccd-860f-8f6c" name="7.5cm PAK 42 L/20" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
-          <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Jagdpather. Nashorn
-+2 Initiative
--1 Firepower</characteristic>
-          </characteristics>
-        </profile>
-      </profiles>
-      <costs>
-        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="0419-a441-f4d6-8108" name="Viktor Possinger" hidden="false" collective="false" import="true" type="upgrade">
@@ -16177,14 +16089,15 @@ Fire Fighting:  Re-roll a failed Repair roll when Repairing an Engine Fire Criti
       </costs>
     </selectionEntry>
     <selectionEntry id="15db-feeb-6a98-5368" name="Centurion MK. III" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Challenger</comment>
+      <comment>Centurion MK. I</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4018-fae0-d0b3-f119" type="max"/>
       </constraints>
       <profiles>
         <profile id="c75f-74b1-7a4f-c430" name="Centurion MK. III" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">+1 Hit Point Green
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Centurion MK. I
++1 Hit Point Green
 +1 Survivability
 Light Flank</characteristic>
           </characteristics>
@@ -16195,14 +16108,14 @@ Light Flank</characteristic>
       </costs>
     </selectionEntry>
     <selectionEntry id="96b0-72c4-243b-5bc7" name="OQF 20-PDR AT Gun Type A Barrel" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Tank with Centurion MK. III Turret Only</comment>
+      <comment>Centurion MK. I</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="24a1-afb9-b056-cb4a" type="max"/>
       </constraints>
       <profiles>
         <profile id="1fe7-6888-efed-fcdc" name="OQF 20-PDR AT Gun Type A Barrel" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Centurion
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Centurion MK. I (with Centurion MK. III Turret Only)
 +1 Firepower
 -1 Initiative</characteristic>
           </characteristics>
@@ -16220,7 +16133,7 @@ Light Flank</characteristic>
       <profiles>
         <profile id="bf22-3dd8-1695-07d1" name="OQF 17-PDR AT Gun Mk.VII (Archer)" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Challenger
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Archer
 +1 Firepower</characteristic>
           </characteristics>
         </profile>
@@ -16283,14 +16196,14 @@ Sixth Sense: At the start of the Shooting Phase, roll a die. On a Hit or Crit th
       </costs>
     </selectionEntry>
     <selectionEntry id="3c47-113c-2b90-8b71" name="Kirovets-1" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Kirovets-1</comment>
+      <comment>IS-3</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1d3e-3d46-7399-30d4" type="max"/>
       </constraints>
       <profiles>
         <profile id="5c68-9a13-5972-c22f" name="Kirovets-1" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Kirovets-1
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">IS-3
 -1 Survivability</characteristic>
           </characteristics>
         </profile>
@@ -16336,7 +16249,7 @@ Deadeye: Draw 2 Critical Cards for the first Crit scored by this Tank each turn.
       </costs>
     </selectionEntry>
     <selectionEntry id="c337-aaeb-f003-8976" name="76mm AT Gun M1A1" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>M10 Wolverine, Sherman Jumbo</comment>
+      <comment>Sherman Jumbo</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4f15-1c6b-1782-1fd8" type="max"/>
       </constraints>
@@ -16362,7 +16275,8 @@ Deadeye: Draw 2 Critical Cards for the first Crit scored by this Tank each turn.
         <profile id="2f8f-0026-8d2b-91c7" name="Tony Meacham" hidden="false" typeId="4113-3131-ac4d-4172" typeName="Upgrade: Crew">
           <characteristics>
             <characteristic name="Ability" typeId="3bf1-8780-ecde-a191">USA
-Snap Shot: +2 Initiative during the Shooting Phase
+Snap Shot: Tank Without Assault Gun
++2 Initiative during the Shooting Phase
 Concealment:  +1 Survivability while in Cover</characteristic>
           </characteristics>
         </profile>
@@ -16390,14 +16304,14 @@ Call for Vengence: When this Tank is Destroyed all other Tanks in this Platoon g
       </costs>
     </selectionEntry>
     <selectionEntry id="f452-01bd-c994-93a0" name="10.5cm KW.K. L/28" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Pz.Kpfw. IV Ausf. H</comment>
+      <comment>Pz. Kpfw. IV Ausf. H</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ff1b-f8cc-afcd-c792" type="max"/>
       </constraints>
       <profiles>
         <profile id="7279-fd10-0ecf-ac99" name="10.5cm KW.K. L/28" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Pz.Kpfw. IV Ausf. H
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Pz. Kpfw. IV Ausf. H
 +2 Firepower
 High Explosive: Discard all Hits before Assessing Damage</characteristic>
           </characteristics>
@@ -16407,8 +16321,8 @@ High Explosive: Discard all Hits before Assessing Damage</characteristic>
         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="fd3e-3690-a72c-e5da" name="705cm PAK 42 L/70" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Jagdpanther</comment>
+    <selectionEntry id="fd3e-3690-a72c-e5da" name="7.5cm PAK 42 L/70" hidden="false" collective="false" import="true" type="upgrade">
+      <comment>Jagdpanther, Nashorn</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="252f-44a0-ad10-824b" type="max"/>
       </constraints>
@@ -16443,16 +16357,14 @@ High Explosive: Discard all Hits before Assessing Damage</characteristic>
       </costs>
     </selectionEntry>
     <selectionEntry id="f559-9535-6044-3ac8" name="10.5cm Stu.H. 42 L/28 (Stug, Jagdpanzer)" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>StuG III Ausf. G
-Jagdpanzer (38)T Hetzer</comment>
+      <comment>StuG III Ausf. G, Jagdpanzer (38)T Hetzer</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6d64-082b-e360-1d64" type="max"/>
       </constraints>
       <profiles>
         <profile id="8e1b-991a-8416-aa98" name="10.5cm Stu.H. 42 L/28" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">StuG III Ausf. G
-Jagdpanzer (38)T Hetzer
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">StuG III Ausf. G, Jagdpanzer 38(T) Hetzer
 +2 Firepower
 High Explosive: Discard all Hits before Assessing Damage</characteristic>
           </characteristics>
@@ -16460,24 +16372,6 @@ High Explosive: Discard all Hits before Assessing Damage</characteristic>
       </profiles>
       <costs>
         <cost name="pts" typeId="3c39-e72d-814c-d95e" value="2.0"/>
-      </costs>
-    </selectionEntry>
-    <selectionEntry id="a53a-37dc-94a9-3ad4" name="10.5cm Stu.H. 42 L/28 (PZ H)" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>Panzer H</comment>
-      <constraints>
-        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="dbab-7b74-7335-6e79" type="max"/>
-      </constraints>
-      <profiles>
-        <profile id="fce4-6989-9eae-8efb" name="10.5cm Stu.H. 42 L/28" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
-          <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">PZ Iv Ausf H
-+2 Firepower
-High Explosive: Discard all Hits before Assessing Damage</characteristic>
-          </characteristics>
-        </profile>
-      </profiles>
-      <costs>
-        <cost name="pts" typeId="3c39-e72d-814c-d95e" value="3.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="d4ce-82d4-9221-c517" name="75mm Gun M17" hidden="false" collective="false" import="true" type="upgrade">
@@ -16525,7 +16419,8 @@ Sound Detection:  +1 Survivability when defending against a SPG</characteristic>
         <profile id="bb98-92a4-c1e2-4729" name="Maria Boyko" hidden="false" typeId="cf4c-c1c0-f411-bdbe" typeName="Upgrade: Ammo">
           <characteristics>
             <characteristic name="Ability" typeId="804d-13f2-a6cb-951f">USSR
-Snap Shot: +2 Initiative during the Shooting Phase
+Snap Shot: Tank Without Assault Gun
++2 Initiative during the Shooting Phase
 Repair:  This Tank may attempt to Repair an additional Critical Card each turn</characteristic>
           </characteristics>
         </profile>
@@ -16595,7 +16490,7 @@ Repair:  This Tank may attempt to Repair an additional Critical Card each turn</
       <profiles>
         <profile id="a862-7ecd-74ab-cbcb" name="105mm AT GUN T5E1" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">M4A1 Sherman, M4A3E8 Sherman
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">T95
 -1 Firepower
 +1 Initiative</characteristic>
           </characteristics>
@@ -16633,7 +16528,8 @@ Repair:  This Tank may attempt to Repair an additional Critical Card each turn</
         <profile id="64ed-0aa3-e44a-615a" name="Greta Irrgang" hidden="false" typeId="cf4c-c1c0-f411-bdbe" typeName="Upgrade: Ammo">
           <characteristics>
             <characteristic name="Ability" typeId="804d-13f2-a6cb-951f">Germany, Tank without Assalt Gun
-Snap Shot: +2 Initiative during the Shooting Phase
+Snap Shot: Tank Without Assault Gun
++2 Initiative during the Shooting Phase
 Repair: This Tank may attempt to Repair an additional Critical Card each turn</characteristic>
           </characteristics>
         </profile>
@@ -16686,7 +16582,7 @@ Concealment: +1 while in Cover</characteristic>
       <profiles>
         <profile id="2927-3f54-ef74-d47e" name="105mm AT GUN L7" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">M4A1 Sherman, M4A3E8 Sherman
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Charioteer
 +1 Firepower</characteristic>
           </characteristics>
         </profile>
@@ -16795,7 +16691,7 @@ Concealment: +1 while in Cover</characteristic>
       <profiles>
         <profile id="9be0-a132-3d0b-9f47" name="Conqueror MK. II ABP" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Challenger
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">Conqueror
 +1 Green Hit Points</characteristic>
           </characteristics>
         </profile>
@@ -16969,7 +16865,7 @@ Concealment:  +1 Survivability while in Cover</characteristic>
       </costs>
     </selectionEntry>
     <selectionEntry id="1247-5410-0870-825d" name="T140" hidden="false" collective="false" import="true" type="upgrade">
-      <comment>T140</comment>
+      <comment>M103</comment>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8075-3ff0-35b2-7377" type="max"/>
       </constraints>
@@ -16977,7 +16873,7 @@ Concealment:  +1 Survivability while in Cover</characteristic>
         <profile id="f479-10e9-b457-9a9e" name="T140" hidden="false" typeId="6a14-be97-109d-957e" typeName="Upgrade: Module">
           <comment>Turret</comment>
           <characteristics>
-            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">T140
+            <characteristic name="Ability" typeId="9d48-3521-7475-ad05">M103
 +1 Hit Point (Green) </characteristic>
           </characteristics>
         </profile>
