@@ -11956,10 +11956,10 @@
         </profile>
         <profile id="ed8f-204f-8e54-876c" name="Conqueror" hidden="false" typeId="dac0-ea5a-2478-e6a4" typeName="Hit Points">
           <characteristics>
-            <characteristic name="Red" typeId="5aea-aba5-33fd-a449">O</characteristic>
-            <characteristic name="Orange" typeId="a878-0b58-276c-d021">O</characteristic>
+            <characteristic name="Red" typeId="5aea-aba5-33fd-a449">OO</characteristic>
+            <characteristic name="Orange" typeId="a878-0b58-276c-d021">OO</characteristic>
             <characteristic name="Yellow" typeId="433e-cec8-c0d7-2628">OO</characteristic>
-            <characteristic name="Green" typeId="34cc-7f69-8c55-9c3d">OO</characteristic>
+            <characteristic name="Green" typeId="34cc-7f69-8c55-9c3d">OOO</characteristic>
           </characteristics>
         </profile>
       </profiles>
